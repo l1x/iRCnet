@@ -1,0 +1,284 @@
+13:02:52 <xcenter> aha
+13:03:09 <xcenter> eddig nagyjabol az elmult 10 evben 20x hagyta el a naprendszert
+13:04:11 <eax> szerintem ez azert lehet, mert valaki ellopta a [Naprendszer] tablat :/
+13:05:12 <l1x> mosma nem jon vissza
+13:05:14 <l1x> azt irjak
+13:05:15 <l1x> ahhaha
+13:05:20 <xcenter> nem, bocsanat
+13:05:25 <xcenter> csak 2012-ben hatszor hagyta el
+13:05:26 <l1x> nem?
+13:05:32 <l1x> es mindig visszajott
+13:05:39 <l1x> olyan mint egy bumerang baszki
+13:05:51 <xcenter> June 21, 2012:
+13:05:51 <xcenter> July 22, 2012:
+13:05:51 <xcenter> Sept. 5, 2012:
+13:05:51 <xcenter> Dec. 4, 2012:
+13:05:51 <xcenter> Aug. 19, 2013:
+13:05:53 <xcenter> Aug. 25, 2013: 
+13:06:18 <xcenter> The problem is, that "It's not that clear because there's no signpost telling you that you're now leaving the solar system,"
+13:06:22 <xcenter> ahaha
+13:06:24 <xcenter> tenyleg elloptak a tablat
+13:06:40 → OralB joined (~mark7@ks70tsjskn.adsl.datanet.hu)
+13:06:46 <OralB> estét
+13:06:55 <xcenter> bemegyek beteszlek a szamba
+13:07:20 <l1x> igen de mosmar </naprendszer>
+13:07:49 <OralB> valaki tudna segíteni Wheezy induláskor hang modul miért nem tölt be témakörben?
+13:08:04 <OralB> kézzel kell kiadni a 
+13:08:14 <xcenter> elvileg ott a naprendszer hatara, ahol a kivulrol jovo csillagszel/fennyomas kiegyenliti a napbol jovot
+13:08:23 <OralB> modprobe snd-hda-intel
+13:08:27 <xcenter> csak a hatarfelulet sok mindentol fugg
+13:08:33 <xcenter> es eleg szeles es valtakozo
+13:08:44 <OralB> parancsot utánna már betültenek a realtek modulok is és van hang
+13:09:00 <xcenter> es mindig vagy az egyik, vagy  amasik oldalara ment a hatar a probanak
+13:09:19 <OralB> asztrofizikai cset?:)
+13:09:38 <OralB> szia koszik vagy?
+13:12:27 <l1x> szia nem vagyok koszik
+13:12:35 <l1x> igen ez a #asztrologia
+13:12:42 <l1x> miben segithetunk?
+13:12:58 <l1x> xcenter: de mosmar esku hogy tulment a hataron
+13:13:00 <l1x> ehehhe
+13:13:12 <eax> l1x: penzaldas kellene, megoldhato? :)
+13:13:54 <OralB> Keresem utam néha keresem a bajt, és keresem azt aki engem akart
+13:14:06 <OralB> ki volt a 20.i Ákos koncerten?
+13:14:20 <OralB> l1x szia
+13:14:21 <l1x> eax: igen, erosen koncentralok most a penzre es rad
+13:14:32 <l1x> ha 30 masodpercig te is a penzre koncentralsz
+13:14:33 <OralB> hang probléma ban ha segítenél
+13:14:44 <l1x> akkor a honap vegen meg marad 500ft a fizetesedbol
+13:14:56 <OralB> 1 hete még volt hang aztán elkurtam
+13:14:59 <l1x> nah azt utlad is at gyorsan sarga csekken a kovetkezo szamlaszamra
+13:15:05 <MinceR> azt hittem, hogy tobb hatart is definialtak
+13:15:08 <OralB> de most már ujra van de csak ha kiadom a 
+13:15:13 <OralB> modprobe snd-hda-intel
+13:15:15 <MinceR> es a termination shock csak az egyik
+13:15:17 <OralB> parancsot
+13:15:19 <l1x> OralB: erendis volt az akoson
+13:15:26 <l1x> de sajnos meghalt azota
+13:15:29 <OralB> elotte aplay -l semmit se ad ki
+13:15:35  ↔ Rodney nipped out  
+13:15:39 <MinceR> szegeny akos
+13:15:39 <l1x> remelem veled nem ez fog tortenni
+13:15:41 <OralB> hogy?????
+13:15:45 <OralB> ki ő 
+13:15:53 <l1x> az a jopofa kiscsaj
+13:15:58 <OralB> eilyenekkel ne viccelj
+13:16:04 <MinceR> akos egy kiscsaj?
+13:16:04 <OralB> ez komoly?
+13:16:09 <l1x> persze
+13:16:18 <OralB> mi történt?
+13:16:20 <l1x> szal en nem nagyon mennek akos koncertre
+13:16:28 <l1x> csak arra akartam kilyukadni
+13:16:31 <l1x> megfulladt
+13:16:35 <OralB> te szórakozol:)
+13:16:40 <l1x> nem tudtam idoben kihuzni a farkam a torkabol
+13:16:40 <OralB> mitől
+13:16:43 <l1x> :(
+13:16:51 <OralB> kapd be a faszom gei:)
+13:16:53 <MinceR> :)
+13:16:56 <OralB> geci
+13:17:09 <OralB> mekkora egy köcsög vagy
+13:17:10 <l1x> sajnos nem vagyok pedofil es homokos
+13:17:12 <l1x> mint te
+13:17:21 <l1x> de koszi az ajanlatot
+13:17:23 <OralB> koszik
+13:17:33 <OralB> miért tűröd meg az ilyen férgeket?
+13:18:35 <l1x> OralB: inkabb fokuszaljunk a te problemadra
+13:18:36 <OralB> jelentettelek kosziknak
+13:18:40 <l1x> ertem
+13:18:44 <l1x> hat ebbol baj lesz
+13:18:50 <Darwick> ahahahah :D
+13:18:55 <Darwick> demeg mekkora bajlesz :)
+13:18:56 <l1x> ugyanis koszik edesannyaval jarok epp
+13:18:56 <OralB> ez Linux csatorna nem csatornapatkányok gyülekezete min amilyen te vagy
+13:19:03 — MinceR magahoz veszi a popcornt
+13:19:06 <l1x> es o engem apunak szolit
+13:19:17 <OralB> menj anyádat kefélni vagy a fészbukra az való neked, kis köcsög
+13:19:21 <l1x> szoval gondold meg hogy telleg fel akarsz-e jelenteni nala
+13:19:33 <l1x> megvonhatom a zsebpenzet is
+13:19:36 <l1x> ugyvigyazz
+13:19:38 <Darwick> OralB ha aztmondomhogy beirod a modult /etc/modules -be esakkor bootkor automatikusan behuzza, akkor megnyugszol?
+13:19:40 <OralB> l1x megbeszélhetünk 1 találkozót
+13:19:46 <OralB> ahol a szemembe mondhatod
+13:19:47 <l1x> HAHAHA
+13:19:56 <l1x> ezt a makimajmot honnan szalajtottak
+13:20:01 <l1x> 2013 van pubi nem 82
+13:20:02 <OralB> de előtte ird meg a végrendeleted
+13:20:07 <l1x> HAHAHAHA
+13:20:14 <Darwick> nemtudomdemar tegnapis ezzel a hangos fassaggal basztatott mindenkit
+13:20:17 <OralB> Darwick köszönöm
+13:20:17 <Darwick> vagy tegnapelott
+13:20:19 <l1x> figyelj te kis cerkof majom
+13:20:52 <l1x> radgyujtom a ciganyputrit mielott kitenned alabad az anyad altal fizetett 1024es DSLel ellatott szarcsimbokban gazdag berlemenybol
+13:20:53 <OralB> l1x azt áruld el miért nem tudtál lefolyni az anyád lábszárán
+13:20:58 <OralB> vagy a nyalőcsövén?
+13:20:59 <xcenter> uhh mivan?
+13:21:11 <OralB> mg
+13:21:19 <MinceR> xcenter: flame
+13:21:24 <xcenter> lemaradtam a raging homosexuals mai adasarol?
+13:21:28 <MinceR> lol
+13:21:38 <OralB> ÍDarwick megnyugszok de utóljára 10éve találkoztam ilyen stilussal a chat.hu-n 
+13:21:45 <xcenter> ahaha
+13:21:51 <xcenter> 10 eve en is jartam oda :D
+13:21:53 <Darwick> OralB ez aztjelentihogy nemjarsz ircnetre eleget
+13:21:57 <xcenter> ja nem, az 13 eve volt
+13:21:57 <OralB> de akkor elásták az erdőben az ilyen l1x féléket és azóta normális 
+13:22:22 <xcenter> a cset-erdoben
+13:22:30 <l1x> xcenter: nem tudom befutott valami sertett tinigyerek
+13:22:31 <Darwick> amugymeg sharepoint csakakkor akar mukodni hogy domainba van lepve a server mogotte esez eleg banto :(
+13:22:34 <OralB> na szép
+13:22:43 <l1x> Darwick: szornyu
+13:22:47 <l1x> milesz igy
+13:22:52 <Darwick> valoban, foleg mivel feltelepult
+13:23:00 <l1x> OralB: huzzal vissza chat.hu ra oda valo vagy
+13:23:00 <Darwick> igazan mondhatta volna elotte, hogy nemleszezigyjo
+13:23:09 <OralB> ez aztán méltó ahhoz a több ezer fejlesztőhöz aki INGYEN a szabadidejükben hegesztik a linuxot
+13:23:19 <l1x> HAHAHA
+13:23:27 <l1x> kics fejleszti ingyen a linuxot te bazari majom
+13:23:27 <Darwick> + feldobott mssql 2005ot es 2008at is ez kulon vicces
+13:23:48 <l1x> szeretem a zeskuelt
+13:24:01 <OralB> darwick valóban régen többet jártam de a chat.hu ra
+13:24:01 <l1x> mennyit irjak tanacsadasi dijnak per ora
+13:24:04 <Darwick> de minek mind2?
+13:24:11 <l1x> hat erted
+13:24:13 <Darwick> OralB ircnet != chat.hu
+13:24:20 <l1x> hatha elromlik a zegyik
+13:24:26 <OralB> ott voltak ilyen csatornpatkányok mint l1x de azóta patkányirtás volt
+13:24:42 <Darwick> igazabol az 1ikbe a config infokat tette a masikba meg nemistudom mit :)
+13:24:42 <l1x> akkor azert nem ott csettizel mar
+13:24:54 <l1x> Darwick: sose tudjuk meg
+13:24:59 <Darwick> jaja
+13:25:05 <OralB> Drwick nevetni fogsz de a chat.gyaloglo.hu-ra IRC vel is belehet lépni
+13:25:06 <Darwick> hatakkor, ugyfel szaruljart
+13:25:14 <l1x> ma az egyik fejleszto idejott hgy a postgres adatbazisba rakta a BI adatokat
+13:25:18 <l1x> aszittem felgyujtom
+13:25:21 <Darwick> OralB az1 irces gateway, de nemegeszen ugyanaz
+13:25:21 <OralB> regisztráltaknak
+13:25:29 <OralB> jó sejtem
+13:25:34 <l1x> OralB: oke akkor huzzal oda
+13:25:46 <l1x> es ott ismerkedjel hasonlo kepessegu bohocokkal
+13:25:54 <l1x> mert a mainapra kimerult a fogyatekos keretunk
+13:26:05 <OralB> l1x hova húzzalak? itt ez a 3 méteres akácfa jól lesz akasztani ?
+13:26:13 <l1x> holnap jelentkezhetsz ujra es szolitani fogunk a porondra
+13:26:23 <l1x> nem tudom mi no a putritok mellett bubi
+13:26:35 <Darwick> azert en1 picit szomivagyokhogy nemmegy eza foshalom, jo alkalomnak tunt pedig megnezni milyenez :(
+13:26:37 <l1x> de ha akacfa akkor inkabb vagd ki mert hideg lesz telen
+13:26:39 <OralB> 1 csigát nem tudnék eltaposni de neked kitaposnám a beled
+13:26:43 <Darwick> foleg ugyhogy nincs tet, ugyfelnek kellett
+13:26:54 <l1x> ugyfelek is vannak?
+13:26:58 <l1x> az mas!
+13:26:59 <l1x> :)
+13:27:01 <eax> hude agressziv az uj srac
+13:27:08 <OralB> ki?
+13:27:13 <l1x> OralB: nem erdekel mennyire vagy fogyatekos fogdd mar fel
+13:27:19 <OralB> l1x nem agressziv hanem 1 patkáány
+13:27:19 <eax> nemtom, valami fogkefe a nickje
+13:27:21 <eax> lehethogy ismered
+13:27:29 <Darwick> ahah :)
+13:27:33 <OralB> én már 15+ éáve IRC zek
+13:27:39 <l1x> ahahhaha
+13:27:41 <blackb1rd> eax oralbre gondolsz :D
+13:27:42 <l1x> HAHAH
+13:27:47 <MinceR> azert szerintem serto a patkanyokra nezve, hogy ez a fogkefe kozejuk sorolja magat
+13:28:08 <l1x> oralB azert mert az anja az OralAnal200ERT neven futott
+13:28:11 <OralB> na látom ez se a hup.hu szinvonala
+13:28:12 <l1x> gondolom
+13:28:16 <l1x> HAHHAHA
+13:28:28 <eax> na látom ez se a hup.hu szinvonala <-- :DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+13:28:33 <Darwick> hala az egnek, hogy NEM a hup.hu szinvonala :)
+13:28:33 <l1x> vegem van bazmeg
+13:28:41 <l1x> itt fuldoklom kaja utan almosan a rohogestol
+13:28:46 <eax> ilyen elismerest nem kapott a channel mostanaban
+13:28:47 <Darwick> pont a hup.hu szinvonal es szakmai bizoccsag hianyzik innen :)
+13:28:49 <OralB> l1x anyádat bottal se piszkálnám nemhogy orálisan
+13:28:50 <l1x> OralB: porondra
+13:28:50 <eax> azt remelem erzitek
+13:29:04 <l1x> hat igen
+13:29:09 <l1x> koszik megdolgozott a szinvonalert
+13:29:09 <OralB> l1x anyád mennyit hoz haza a kocsisorrol?
+13:29:20 <Darwick> eax ezzelcsak annyit mondott, hogy a darab szar szinvonala felett allunk :)
+13:29:27 <l1x> attol fugg hogy mennyi lanyt futtatott
+13:29:37 <l1x> az atlag 10.000 per nap per csaj
+13:29:41 <OralB> eax neve ismerős ő régen normális volt
+13:29:43 <eax> Darwick: de azert ezt jo hallanni, valldbe
+13:29:48 <l1x> REGEN NORMALIS VOLT
+13:29:53 <Darwick> oke, bevallom :)
+13:29:54 <l1x> ahhaha
+13:29:59 <_mrg> 15 eve hubazzmeg
+13:29:59 <l1x> ezt a logot mentem bazmeg
+13:30:13 <eax> sose voltam normalis, kikerem magamnak!
+13:30:17 <OralB> l1x aztán verd ki rá
+13:30:17 <l1x> 15 eve meg 1 eves voltal hogy irceltel volna te bazari majom
+13:30:19 <OralB> a logra
+13:30:20 <eax> ertelmes ember nem akar normalis lenni
+13:30:23 <_mrg> en is pont 15 !
+13:30:25 <_mrg> egyutt kezdtuk !
+13:30:33 <Hunger>  <OralB> ez aztán méltó ahhoz a több ezer fejlesztőhöz aki INGYEN a szabadidejükben hegesztik a linuxot
+13:30:33 <Hunger>  <OralB> ez aztán méltó ahhoz a több ezer fejlesztőhöz aki INGYEN a szabadidejükben hegesztik a linuxot
+13:30:34 <Hunger>  <OralB> ez aztán méltó ahhoz a több ezer fejlesztőhöz aki INGYEN a szabadidejükben hegesztik a linuxot
+13:30:34 <Hunger>  <OralB> ez aztán méltó ahhoz a több ezer fejlesztőhöz aki INGYEN a szabadidejükben hegesztik a linuxot
+13:30:45 <eax> latod, Hunger 
+13:30:46 <l1x> ahahha Hunger is felebredt
+13:30:49 <eax> nem kell menni a hupra
+13:30:50 <eax> hazhoz jon
+13:30:56 <OralB> helo Hunger
+13:30:59 <_mrg> sirok :D
+13:31:19 <eax> OralB: Hunger is normalis volt regen?
+13:31:19 <l1x> INGYEN FEJLESZTIK
+13:31:23 <eax> jol gondold meg a valaszt!
+13:31:31 <OralB> Hunger most komolyan nincs igazam?
+13:31:43 <_mrg> Hunger regen nem volt normalis
+13:31:47 <Hunger> OralB: BUKI TE VAGY AZ?
+13:31:47 <l1x> ketlem hogy van barmifele autoritasa a ZORALLBnek megitelni barmit is
+13:31:53 <eax> akshully nincs, de ez csak egy picit tesz hozza a fun faktorhoz
+13:31:59 <l1x> ahahah
+13:31:59 <OralB> a Linux régen az összatrtozásról szólt
+13:32:03 <l1x> igen
+13:32:03 <OralB> a segitésról
+13:32:11 <OralB> nem vagyok Buki
+13:32:13 <_mrg> mindjart be is jelolok mindenkit facebookon
+13:32:18 <l1x> http://www.gaylinux.com/
+13:32:21 <l1x> most is arrol szol ^
+13:32:23 <Hunger>  ( buki | 2013. szeptember 11., szerda - 13:05 )
+13:32:24 <eax> _mrg: engemis, engemis!
+13:32:24 <Hunger> Megengedve, hogy van némi igazad, miféle iparágról beszélsz? A Linuxot a mai napig hobbiból fejlesztik emberek
+13:32:29 <Hunger> annyira osszecseng
+13:32:45 <l1x> lehet telleg o az
+13:32:45 <OralB> Hunger te ha jól tudom 1 komoly BSD szakember vagy
+13:32:51 <l1x> HAHAHA
+13:33:03 <eax> nemis mert sorszakerto
+13:33:06 <l1x> >> irclogz/best_of_2013.txt
+13:33:16 <Hunger> nemcsak bsd, hanem mindenben
+13:33:22 → Huhu2 joined (~x@catv-86-101-216-209.catv.broadband.hu)
+13:33:27 <OralB> Debian Wheezyben is?:)
+13:33:28 <l1x> Huhu2: is befut pont
+13:33:33 <_mrg> Hunger mindenhez ert
+13:33:36 <eax> szia Huhu2 
+13:33:38 <eax> join the fun!
+13:33:41 <OralB> akkor segits:)
+13:33:44 <l1x> OralB: ne terelj meselj meg ki kicsoda mi hogy ingyenes meg ilyenek
+13:33:49 <Huhu2> sziasztok
+13:33:57 <MinceR> szia huhcsy
+13:33:58 <OralB> nem ingyenes
+13:33:59 <l1x> Huhu2: :*
+13:33:59 <Huhu2> na mi a szitu? még mindig a politika oralb-vel?:)
+13:34:02 <OralB> meg is lehet venni
+13:34:09 <MinceR> nem, most a flame OralB-vel
+13:34:16 <Huhu2> amúgy pont rád gondotlam ma OralB :) ez már elgé beteges...:D
+13:34:17 <MinceR> igaz, hogy mar a multkor is az volt
+13:34:21 <l1x> Huhu2: nem most eppen az oxirol beszelgetunk meg a pattanasokrol
+13:34:26 <Huhu2> néztem a kampányolós plakátokat és...
+13:34:30 <l1x> nagyon kijottek szegeny OralB arcan
+13:34:32 <OralB> HHuhu mi beteges? az alsa?
+13:34:45 <Huhu2> annyira utálom mikor vki úgy kampányol, h ellenkampányol. Nem maga mellett érvel hanem a másik ellen
+13:34:46 <tomahawk> szia Huhu2, talaltam neked egy kis testhezallot
+13:34:50 <tomahawk> http://www.youtube.com/watch?v=nB8aILQELYA
+New messages since you tabbed out
+13:35:06 <Huhu2> ez anynira vissaztetsző és undorító és mintha neki nem lenne mit felhozni maga mellett
+13:35:12 <MinceR> es tenyleg nincs
+13:35:20 <MinceR> a legtobb esetben
+13:35:27 <eax> ^^ that
+13:35:52 <l1x> mi lenne
+13:35:54 <eax> illetve mindenkinek jobb addig, amig nem kezd maga mellett un. "erveket" felhozni
+13:35:59 <l1x> ahhaha
+New messages
+13:36:22 <l1x> szoltam az irc operatornak hogy nem tartjak be a fiuk a NETIKETTET

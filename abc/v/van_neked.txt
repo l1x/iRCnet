@@ -1,0 +1,52 @@
+|11:02:42| (agremlin) http://www.msicomputer.com/product/p_spec.asp?model=925X_Neo_Platinum-54g&class=mb
+|11:02:45| (agremlin) erre mit mondtok
+|11:03:51| (@litch) burzsuj
+|11:03:55| (@egeresz) msi?
+|11:03:59| (@egeresz) yart az jot is?
+|11:03:59| (agremlin) aha
+|11:04:08| (@Calver) p4 fos :>
+|11:04:10| (agremlin) hat nemtom en megvotam eddig elegedve
+|11:04:13| (@Calver) egeresz: szerintem nem :-0
+|11:04:20| (@egeresz) en eddig csak a "gazdasagos" kategoriaban halottam msi -rol
+|11:04:24| (agremlin) sose vot msi lapod Calver
+|11:04:28| (@Calver) de
+|11:04:33| (agremlin) egeresz akkor mitajanlanal?
+|11:04:50| (@Calver) most is megy egy egy haveromnal amit en rektam ossze :-)
+|11:04:56| (@Calver) chaintech jobb, pedig az se jo :-)
+|11:04:56| (@egeresz) en?! ajanlanek?! PC_t?! ugyanmer :-)
+|11:05:04| (@litch) nekem van 3msim
+|11:05:09| (@litch) eddig nincs veluk baj
+|11:05:09| (agremlin) johat ez igy nem tul konstruktiv
+|11:05:24| (@litch) de magamnak biztos nem ilyet vennek
+|11:05:28| (agremlin) Calver jobb?
+|11:05:30| (agremlin) az mitjelent?
+|11:06:02| (@egeresz) agremlin nezd, valoszinu teljesiti a tesco gazdasagos peecee iranyelveit. ugyertem a 2.4 -es proci fut
+                      benne 2.4 -en legalabb fel orat, es underclockolva 1.8 -on akar meg egy honapig is stabil lehet jo
+                      hutessel
+|11:06:25| (agremlin) mivan?
+|11:06:39| (@egeresz) mondjam el megegyszer? szo szerint?
+|11:06:43| (agremlin) megvagy te huzatva egeresz
+|11:06:51| (@litch) igaza van
+|11:06:57| (@litch) (marmint egeresznek)
+|11:07:42| (agremlin) mi a faszrol beszltek ti
+|11:08:34| (@egeresz) agremlin arrol van szo, hogy nehezen megfoghato fogalom egy alaplap josaga
+|11:08:46| (agremlin) egeresz es ezt miert nekem mondod?
+|11:08:48| (@egeresz) agremlin mert altalaban a funckionalitas egyertelmu, de nem arrol van szo
+|11:08:50| (agremlin) Calver jott vele
+|11:09:08| (@egeresz) agremlin: <agremlin> megvagy te huzatva egeresz
+|11:09:16| (agremlin) siman
+|11:09:25| (@egeresz) a kurrens lapok stabilitasa novelheto az underclockinggal
+|11:09:38| (agremlin) ugyan hagyjalmar ezzel a hujeseggel
+|11:09:49| (agremlin) meg egy lapom sem volt instabil mert a 2.4-es proci 2.4-en ment benne
+|11:10:00| (@litch) :)
+|11:10:02| (agremlin) talan a potato alaplapoknal igaz
+|11:10:05| (agremlin) amit az egyetem vesz
+|11:10:11| (@litch) agremlin nem erted mit akar mondani egeresz
+|11:10:13| (@egeresz) szabadna megkerdeznem, van valami elektrodinamikahoz kapcsolod vegzettseged? (fizikus, muszeresz,
+                      villanymernok, kando-hardveres)
+|11:10:22| (@Calver) :>
+|11:10:28| (@litch) ahahaha kando-hardveres
+|11:10:28| (agremlin) az hagyjan hogy nincs
+|11:10:31| (@litch) LOLOLOLOl
+|11:10:31| (agremlin) de hozzad idegem sincs
+

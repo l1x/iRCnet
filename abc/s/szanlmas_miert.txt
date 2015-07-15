@@ -1,0 +1,4 @@
+15:16] <Calver> szanalmas.hu mer doglott meg?
+[15:17] <diab> karatekutya:/var/log/apache# killall apache
+[15:17] <diab> :DD
+[15:17] <stx> :D

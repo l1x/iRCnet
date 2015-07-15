@@ -1,0 +1,7 @@
+[15:32] <chybee> The mail server responded 4.7.1. (ez milyen hibauzenet?)
+[15:32] <halal> chybee: ez nem hibauzenet:)
+[15:33] <chybee> An error occured while sending mail. igy kezdodott
+[15:33] <chybee> de most elkuldte vegre
+[15:33] <KoGa> 4.7.1? exchange?
+[15:34] <chybee> thunderbird
+

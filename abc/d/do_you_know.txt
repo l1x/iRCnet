@@ -1,0 +1,17 @@
+|10:21:39| (xtraeme) [juan@Mandylion][~]> cat /etc/exports
+|10:21:40| (xtraeme) /usr/src  -maproot=juan:wheel -network 192.168.1.0
+|10:21:40| (xtraeme) /usr/src-2.0 -maproot=juan:wheel -network 192.168.1.0
+|10:21:40| (xtraeme) /usr/pkg/share/httpd/htdocs/web -maproot=juan:wheel -network 192.168.1.0
+|10:21:40| (xtraeme) /usr/pkgsrc -maproot=juan:wheel -network 192.168.1.0
+|10:21:42| (xtraeme) /usr/pkgsrc/distfiles -maproot=juan:wheel -network 192.168.1.0
+|10:21:44| (xtraeme) /home/juan/varios -maproot=juan:wheel -network 192.168.1.0
+|10:21:46| (xtraeme) [juan@Mandylion][~]>
+|10:21:49| (xtraeme) that's all
+|10:21:55| (scalopus) umm ok, just like mine
+|10:22:21| (YazzY) xtraeme: dont spam here
+|10:22:34| (litch) ?
+|10:22:39| (litch) spam?
+|10:22:48| (YazzY) flood
+|10:22:50| (litch) do u know what does it mean spam, dude?
+|10:22:54| (litch) ahahahaha
+

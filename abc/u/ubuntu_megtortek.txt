@@ -1,0 +1,23 @@
+|05:55:40| (annulus) asd
+|06:11:38| # superwisor_wanna [n=ubuntu@dsl51B6A274.pool.t-online.hu] has joined #hup.hu
+|06:13:03| (superwisor_wanna) sziasztok.megtámadtak wifi hackerek.ők uralják a routert,a 2 gépemet azért hogy rólam netezzenek.rootkitet telepítettek mindenhova.a kérdésem az
+                              lenne,hogy megoldható az
+|06:13:38| (superwisor_wanna) hogy egy switchel és egy laptoppal lementsem a wan portra menő adatforgalmat?
+|06:23:17| (annulus) kizart
+|06:24:12| (superwisor_wanna) mi kéne hozzá?lopják a netem
+|06:24:36| (superwisor_wanna) hiába tűzfal,wpa2 stb
+|06:24:56| (superwisor_wanna) rátelepedtek rootkittel a gépemre is meg a routerre is
+|06:26:02| (superwisor_wanna) és szeretnék cybercommandó ügyet belőle mert azért ez csúnya bűncselekmény,hogy ilyen sunyi módon törnek be és használják a netet
+|06:26:42| (superwisor_wanna) és gyakorlatilag live userként t'ok csak netezni,mert rendszergazdai jogokat vontak meg tőlem stb
+|06:26:57| (superwisor_wanna) és nem t'om a rootkitet leírtani
+|06:27:00| (annulus) szerintem tegyel feljelentest
+|06:27:19| (superwisor_wanna) azért kéne sniffeljek adatokat a wan porton
+|06:27:36| (superwisor_wanna) mert akkor tudnám hogy ki mit néz rajtam keresztül
+|06:27:37| (annulus) de hat azt csak rendszergazdai jogokkal tudsz
+|06:27:51| (superwisor_wanna) live userként?
+|06:28:23| (superwisor_wanna) a naplókat meg pendrive-ra mentem.csak félek mert anyám gépét is megfertőzték
+|06:29:03| (superwisor_wanna) egy Xorral a wifi antenna csonkján neteznek,mivel szoftveres rövidzárat hoztak létre
+|06:29:12| (annulus) omg
+|06:29:20| (annulus) lassan seggfaultolhatnal
+|06:29:30| (annulus) ennyi faszsagot osszehordani ennyire koran ennyire ubuntu identtel
+06:42 -!- superwisor_wanna [n=ubuntu@dsl51B6A274.pool.t-online.hu] has quit [Remote closed the connection]

@@ -1,0 +1,6 @@
+|00:00:44| (Trinike) nem birom a rohogestol
+|00:01:36| (Trinike) finnul olvasok debian install guidet
+|00:01:39| (Trinike) muhahahhaa
+|00:01:46| (Trinike) Toinen tapa on näppäillä Ctrl-Alt-Del
+|00:02:05| (Trinike) http://www.debian.org/releases/stable/i386/install.pdf.fi
+

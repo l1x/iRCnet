@@ -1,0 +1,56 @@
+|21:25:14| (l1tch) |21:22:58| (st_iron) kurvara fejletlen technika meg a divezes
+|21:25:29| (annulus) ja ez engem is erdekel
+|21:25:31| (annulus) meselj
+|21:25:32| (st_iron) sok okos egy hetig szop egy 10 perces kodon
+|21:25:35| (annulus) mirol maradtunk le
+|21:25:47| (st_iron) aztan szetesik az egesz 1 pillanat alatt :)
+|21:25:57| (st_iron) ez meg baromira fejletlen
+|21:26:15| (st_iron) + ha mondjuk egy hsz div-ben van
+|21:26:17| (ignotus) 'lif <div></div>
+|21:26:18| -Mojojojo:#debian.hu- <div></div> 1s my l1f3 (ignotus)
+|21:26:28| (st_iron) es hosszabb szo van benne
+|21:26:29| (st_iron) kiloooooooog
+|21:26:35| (l1tch) ?
+|21:26:36| (st_iron) szep dives lapokon :)
+|21:26:54| (ignotus) st_iron: IMHO akkor a motor lamm3r
+|21:27:01| (st_iron) nem az enyem
+|21:27:04| (l1tch) st_iron te fogalom nelkul beszelsz most
+|21:27:05| (st_iron) de nezd meg pl. oswd-t
+|21:27:07| (ignotus) okok, nem is mondtam:)
+|21:27:11| (l1tch) de erdekes
+|21:27:18| (st_iron) l1tch>> nagyon nem
+|21:27:33| (st_iron) mondjuk nekem is dives a lapom
+|21:27:35| (st_iron) :)
+|21:27:45| (l1tch) aha
+|21:27:51| (st_iron) de akkor is
+|21:27:52| (l1tch) es hogy lehetne nem dives
+|21:27:56| (st_iron) table
+|21:28:18| (l1tch) HHAHAHAHAH
+|21:28:22|  * l1tch sikit
+|21:28:30| (l1tch) varja bekapcsolom a logolast
+|21:28:55| (norbert79) l1tch: Jó ez a Vista <> MacOS X videó :)
+|21:32:17| (st_iron) ahahah
+|21:32:20| (st_iron) jo ez az inkscape
+|21:32:55| (annulus) najo nincs kedvem vegignezni
+|21:33:01| (annulus) de a macosx majmolja a vistat
+|21:33:03| (annulus) ez egyertelmu
+|21:33:14| (annulus) mert az ms mar 15 eve a legtitkosabb laboratoriumokban tarolta ezeket a dolgokat
+|21:33:19| (annulus) es mar majdnem szabadalmaztatta is oket
+|21:33:20| (annulus) :D
+|21:33:30| (l1tch) st_iron de amugy
+|21:33:41| (l1tch) olvasgattal alap webdesign cuccokat
+|21:33:49| (st_iron) igen
+|21:34:00| (st_iron) vegignyaltam a weblabor erre vonatkozo reszeit
+|21:34:00| (l1tch) akkor azt a reszt nem olvastad h a table mire valo
+|21:34:03| (l1tch) AHAHAHAHA
+|21:34:07| # l1tch changed the topic of #debian.hu to: |21:34:00| (st_iron) vegignyaltam a weblabor erre vonatkozo reszeit
+|21:34:09| (annulus) lol
+|21:34:11| (l1tch) hubazmeg
+|21:34:20| (l1tch) most igy majdnem lfejeltem a monitort
+|21:34:24| (annulus) :DDDDD
+|21:34:34| (annulus) miert nem a proghut olvasgatod?
+|21:34:44| (l1tch) weblabor =  csavo leirja h a rorban a webrick az a adatbazisszerver
+|21:34:46| (l1tch) :D
+|21:34:51| (l1tch) az a vezeto tanacsado ott
+|21:35:11| (annulus) lol
+

@@ -1,0 +1,6 @@
+|10:23:30| (skrt_) figy
+|10:23:31| (skrt_) 01.08.2004 13:07:28.100
+|10:23:38| (skrt_) van egy oszlop tele ilyen adatokkal
+|10:23:43| (skrt_) excelben
+|10:23:46| # mode/#coders.hu +m by ppfc
+

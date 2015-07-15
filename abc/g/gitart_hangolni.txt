@@ -1,0 +1,16 @@
+|14:40:00| # Vabe [sadf@109.181-182-adsl-pool.axelero.hu] has joined #demoscene
+|14:40:04| (Vabe) hajhó
+|14:40:08| (Vabe) mankaöcsiteso vagyok:)
+|14:40:27| (Vabe) tud vki vmifele gitártuner progit?
+|14:40:42| (Vabe) amivel belehet hangolni a gitart gepen?:)
+|14:41:25| (Vabe) huhú???
+|14:42:09| (@KrOkKo) mi az a gitár
+|14:43:25| (kemo) ;>
+|14:45:47| (@litch) ???
+|14:46:01| (@litch) persze
+|14:46:06| (@litch) fogsz egy oszcillatort
+|14:46:13| (@litch) beallitod 440Hzre
+|14:46:14| (kemo) ha mar geppel kell gitart hangolni regen baj van
+|14:46:15| (@zoom|cns) gitártuner
+|14:46:17| (@litch) es kesz a tunered
+|14:46:23| (@zoom|cns) hogy tobb pontod legyen gitármark2003ban

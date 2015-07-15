@@ -1,0 +1,9 @@
+|13:59:46| (Josephus) es 1 pontot vesztettem a shellscriptes zhn
+|14:00:44| (szaboat) :/
+|14:00:46| (szaboat) miert vontak le?
+|14:01:09| (szaboat) mert bash ben irtad?
+|14:01:32| (Josephus) egyik regexpnel + kellett volna * helyett
+|14:02:58| (phr3ak) b+ :)
+|14:03:48| (Josephus) azt irtam hogy lics iz hiv*
+|14:04:32| (l1x) :DDDD
+

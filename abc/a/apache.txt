@@ -1,0 +1,11 @@
+|22:06:13| (Hattori_Hanzo) apachoz valaki ert?
+|22:06:40| (litch) sajnos nem
+|22:06:44| (litch) /j apache
+|22:06:56| (Jaci) :D
+|22:07:17| (litch) itt mindenki iis-t hasznal
+|22:07:19| (litch) :(
+|22:09:25| (Hattori_Hanzo) apachnak hol van az a konyvtara aholva az index.php-t
+                          kell masolni?
+|22:09:32| (Hattori_Hanzo) eleresi ut erdekelne
+|22:10:04| (litch) HAHAHAHA
+

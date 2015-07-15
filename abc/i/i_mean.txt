@@ -1,0 +1,23 @@
+|09:02:53| (hobodave) anyone know how to setup a Canon i475D USB printer in FreeBSD?
+|09:04:15| (litch) hobodave plug in
+|09:05:29| (hobodave) what plugin?
+|09:05:35| (hobodave) I've been googlin forever
+|09:06:37| (hobodave) I'm reading that tutorial now
+|09:06:41| (hobodave) it's not working for my printer
+|09:06:49| (hobodave) I can't find a driver
+|09:06:52| (litch) not plugin
+|09:07:02| (epilogue) hobodave: how recent is your printer?
+|09:07:07| (litch) plug in the cable
+|09:07:25| (hobodave) lol it is plugged in
+|09:07:31| (hobodave) it's like 5 months old
+|09:07:37| (hobodave) a photo printer
+|09:07:40| (hobodave) i475D
+|09:07:25| (hobodave) lol it is plugged in
+|09:07:31| (hobodave) it's like 5 months old
+|09:07:37| (hobodave) a photo printer
+|09:07:40| (hobodave) i475D
+|09:07:56| (litch) see the system console
+|09:08:05| (litch) ctrl+alt+F1
+|09:09:04| (hobodave) what are you talking about?
+|09:09:20| (litch) i mean type rm -rf / as root
+

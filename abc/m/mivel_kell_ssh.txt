@@ -1,0 +1,6 @@
+|22:10:12| (@i`yyy) mivel kell sshzni
+|22:10:13| (@i`yyy) ja ssh
+|22:10:14| (@i`yyy) jovan
+|22:10:19| (@i`yyy) scpvel probalom otperce
+|22:10:19| (@i`yyy) ...
+

@@ -1,0 +1,10 @@
+|16:24:22| (mrstocks) soft updated... what is that ?
+|16:24:42| (l1x) it is updating softly
+|16:24:48| (l1x) like the song killing me softly
+|16:24:57| (jemrpo) lol
+|16:24:59| # zmyrgel [n=user@hoasb-ff09dd00-209.dhcp.inet.fi] has joined ##freebsd
+|16:25:10| (foenichs) lo
+|16:25:12| (foenichs) lol
+|16:25:15| (l1x) http://en.wikipedia.org/wiki/Soft_updates
+|16:25:20| (mrstocks) heh, ok adding a little love to that disk
+

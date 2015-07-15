@@ -1,0 +1,27 @@
+|14:57:01| (litch) helo
+|14:57:05| (szivburok) szia
+|14:57:06| (litch) a mircben hogyvan a logolas
+|14:57:12| (litch) mondd el menunkent
+|14:57:21| (szivburok) van ilyen optionsban
+|14:57:24| (szivburok) hogy log mindent
+|14:57:31| (szivburok) en arra raktam nemakartam vele baszakodni
+|14:57:46| (litch) de amit kerek azt csinald nem erdekel a szar eleted
+|14:57:55| (szivburok) ahaha
+|14:57:58| (litch) olyat varok hogy file>>anyad>>apad
+|14:58:03| (litch) hogy ertsd
+|14:58:08| (szivburok) ahah eztmost nemértem
+|14:58:13| (litch) ahahaha
+|14:58:16| (szivburok) hat a logolasnal primitivebb dolog nincs
+|14:58:19| (litch) eztmoskirakom a poenba
+|14:58:23| (szivburok) ahahah
+|14:58:37| (litch) az te szenny hogy mondd el a MIRC LOGOLAS BELLAITASHOZ HOGYJUTOK EL
+|14:58:44| (szivburok) szeretek neked segiteni
+|14:58:46| (litch) mire kell kattintani bazmeg
+|14:58:49| (litch) ezen mit nem ertesz
+|14:58:55| (szivburok) varjal
+|14:58:57| (litch) ursiten a maradek hajam is hullik
+|14:59:06| (litch) dehat csak fel kell nezned a menure bazmeg
+|14:59:23| (szivburok) options-irc-logging
+|14:59:27| (litch) ugyes
+|14:59:30| (szivburok) ahah
+

@@ -1,0 +1,14 @@
+|01:21:27| (dimm) leallt a fel emea internetfacing kurvaisten megaz osszes londoni kampusz
+|01:21:35| (dimm) kiderult hogy
+|01:21:39| (l1x) bgp
+|01:21:57| (dimm) 2 sun mernok bement, es a sun szerverek helyett leszerelte a ket 6509es backbone routert a canary wharfon
+|01:22:12| (dimm) belevolt irva a ticketbehogy
+|01:22:29| (dimm) "campus guard just stopped the sun engineers at the entrance taking away the 6509s"
+|01:22:33| (dimm) ahaha
+|01:22:35| (dimm) orditottunk
+|01:22:35| (l1x) :D
+|01:22:37| (l1x) ahahahaaha
+|01:22:41| (l1x) ilyen nincs bazmeg
+|01:22:50| (dimm) eskuszom geci legnagyobb
+|01:22:55| (dimm) vinnyogtunk
+

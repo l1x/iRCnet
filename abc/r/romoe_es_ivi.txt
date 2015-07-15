@@ -1,0 +1,998 @@
+<ROMOO> ahaha ma talalkoztam a pocokkal a dunaplazaba
+<ROMOO> votvele valami no
+<ROMOO> igy mongya neki
+<ROMOO> ez itt a romoe! most megismertel egy elo legendat!
+<NAMIVAN> ahahhahaha
+<ROMOO> a brigivel voltam
+<ROMOO> azmeg igy nez tudod hogy mivan
+<NAMIVAN> [00:56] <lookee> valtozik az ip d draga?
+<NAMIVAN> [00:56] <lookee> vagy fix?
+<ROMOO> pocok meg ijen irc koszoneseket me gszavakat dobal
+<ROMOO> klinera hajaz a csavo
+<NAMIVAN> [00:57] <iVi> root vagyok a szerveren ahonnan ircelt:)))
+<NAMIVAN> hogy hazudik
+<ROMOO> de szojja a czwnek hogy eltorom a kezet ha klinet rak
+<NAMIVAN> lol
+<ROMOO> [msg(ivi)] a tetves kurva anyad uszkos picsajan vagy root te fereg
+<ROMOO> [iVi(bnc@ktv74-74-88.catv-pool.axelero.hu)] lbasztad
+<NAMIVAN> pill
+<ROMOO> [iVi(bnc@ktv74-74-88.catv-pool.axelero.hu)] nyomok egy delusert
+<ROMOO> [iVi(bnc@ktv74-74-88.catv-pool.axelero.hu)] papa
+<ROMOO> szerintem elozd meg
+<NAMIVAN> baszod
+<NAMIVAN> masik root hozzaddolta
+<ROMOO> vedd le
+<NAMIVAN> nembaj jelszot valtoztattam
+<NAMIVAN> ahhaha
+<ROMOO> kinek
+<ROMOO> neki?
+<NAMIVAN> degaz :DD
+<NAMIVAN> root jelszot
+<ROMOO> ja
+<korx> mirõl ugattok?
+<NAMIVAN> namivan
+<NAMIVAN> hol a deluser?
+<NAMIVAN> ;>>>>>>>>>>>>>
+<ROMOO> bamzeg bicsiksz ignoralta
+<NAMIVAN> ahaha
+<korx> kurva anyad kurva anyad kurva anyad kurva anyad kurva anyad kurva
+anyad kurva anyad kurva anyad kurva anyad kurva anyad kurva anyad kurva
+anyad kurva anyad kurva anyad kurva anyad kurva anyad kurva anyad kurva
+anyad kurva anyad kurva anyad kurva anyad kurva anyad kurva anyad kurva
+anyad kurva anyad kurva anyad kurva anyad kurva anyad kurva anyad kurva
+anyad kurva anyad kurva anyad kurva anyad kurva anyad kurva anyad kurva
+anyad kurva anyad kurva
+<korx> mirõl ugattok???
+<grinder> kik ezek?
+<grinder> mik ezek? :)
+<korx> milye adjúzer deljuzer?
+<grinder> hol vannak ezek?
+<NAMIVAN> romoet ott akarta deluserolni ahol en vagyok root
+<NAMIVAN> ahahah
+<NAMIVAN> a barom allat
+<ROMOO> hogyszedem le az ignroet bicsikszbe
+<NAMIVAN> /ignore off
+<NAMIVAN> bar fasztudja
+<ROMOO> az nem
+<grinder>  /set ignore off?
+<ROMOO> se
+<ppfc>  /ignore mask none
+<ROMOO> se
+<ppfc>  /ignore <mask> none
+<ppfc> grr
+<NAMIVAN> most elkepzelem
+<NAMIVAN> ahogy probalgatja
+<NAMIVAN> SU
+<NAMIVAN> jelszo
+<NAMIVAN> nemjo
+<ROMOO> bazmeg nemmukodik
+<NAMIVAN> SU
+<NAMIVAN> jelszo
+<NAMIVAN> nemjo
+<NAMIVAN> SU
+<NAMIVAN> jelszo
+<NAMIVAN> nemjo
+<ppfc> töketlen
+<grinder> :)
+<NAMIVAN> mar vorosodik a feje
+<NAMIVAN> ahha
+<ppfc> mire rájössz kikapcsolja bitchx automatikusan
+<-- aThom has quit (elte.irc.hu sote.irc.hu)
+<-- erikaa has quit (elte.irc.hu sote.irc.hu)
+<-- teri has quit (elte.irc.hu sote.irc.hu)
+<-- nes^nincs has quit (elte.irc.hu sote.irc.hu)
+<-- f1uk3r has quit (elte.irc.hu sote.irc.hu)
+<-- phantom has quit (elte.irc.hu sote.irc.hu)
+--> _f1uk3r (~ashnur@zetor.webdreams.hu) has joined #coders.hu
+--> _phantom (~stanazolo@haxxor.systems.hu) has joined #coders.hu
+<NAMIVAN> romo nezd meg milyen maskkal rakta fel a bitch az ignoret
+<korx> <iVi> hihihihi:))
+<korx> <iVi> irtam device-nek /antal tamas/ hogy torolje szepen a mukit:)
+<ROMOO> -:- Ignorance List:
+<ROMOO>   [ 1] *!*bnc@ktv74-74-88.catv-p:  MSGS
+<NAMIVAN> :))))))))
+<ROMOO> -:- *!*bnc@ktv74-74-88.catv-p is not in the ignorance list!
+<NAMIVAN> ennyit a rootsagrol :D
+<ppfc> :)))))))))))))))))))))
+<grinder> aaa
+<grinder> dehulye
+--> erikaa0 (dr@freedream.hu) has joined #coders.hu
+--- nori gives channel operator status to erikaa0
+<ppfc> romo várd meg amíg leszedi magától. :)
+<ROMOO> NAMIVAN irjal teis hogy torolje szepen a mukit
+<ROMOO> :DDD
+<NAMIVAN> mi a parancs az account lockra?
+<grinder> "mukit"
+<NAMIVAN> :D
+<grinder> NAMIVAN: pl atirod a shelljet /sbin/nologinra
+<grinder> vagy
+<ROMOO> gecifasszopo ignor
+<grinder> atirod a password-ot *LOCKED*-re
+<grinder> persze az md5 hasht
+<grinder> tehat nem passwd paranccsal :)
+--> tema (tema@bitchx.hu) has joined #coders.hu
+<ROMOO> tema leszopsz remelem
+<ROMOO> na tessek bicsiksz hu
+<ROMOO> hogyleszedem le az ignort bicsikszbe
+<ROMOO> anelkul hogy anyadat meg kene basznom
+<ppfc> má elmontam
+<NAMIVAN> grinder annyira nemvagyok fasz:DD
+<ppfc> várd meg amíg elmúlik
+<ROMOO> ppfc de nemmegy lasd feljebb
+<ROMOO> edesanyadat varom elobb
+<ppfc> mert írd be az egész hostot akkor már
+<NAMIVAN> romo
+<grinder> NAMIVAN: akkor /sbin/nologin
+<NAMIVAN> ird be a szamat
+<ROMOO> ppfc de nemalccik a vege a listben
+<ppfc>  /ignore *!*bnc@ktv74-74-88.catv-pool.axelero.hu none
+<tema> mutasd kivan benne
+<NAMIVAN> ird be a szamat
+--> teri (dr@spring.dandre.hu) has joined #coders.hu
+--- erikaa0 gives channel operator status to teri
+--- nori gives channel operator status to teri
+<NAMIVAN> /ignore 1 off
+<NAMIVAN> ?
+<tema>  /unig 1
+<NAMIVAN> /ignore 1 none
+<ROMOO> na vegre
+<korx> ahaha
+<ppfc> az a másik
+<ROMOO> menem laccott a vege
+<korx> romó, bazmeg.. :D
+<ppfc> mer bitchx default format szar, ugye tema
+<ROMOO> korx jovan kitalalhattam volna kuss
+<tema> :)
+<korx> azért jól jellemzed a magyar IT felhozatalt :D
+<grinder> :)
+<NAMIVAN> aahhah
+<-- anyad has quit (EOF From client)
+<ROMOO> korx temeg szineset se tuttal kopizni te tehetsegtelen ircwarrior!
+<ROMOO> :DDDD
+<ppfc> na most mindenki húzzon a gecibe mert akarok itt opot
+<grinder> ?
+<korx> romó KHUSSSSSSSSSSSS
+<ROMOO> korx nembaj legalab te erosited az AJTI FELHOZATALT
+<ROMOO> [nyadat(~ivi@193.224.159.143)] udvizeletem, itt a kedves root-od:)
+<korx> !
+<ROMOO> kurdma ki az annyaba
+<ROMOO> torold a juzert
+<ROMOO> mosma ugyis mindegy
+<ROMOO> rombolj amit ersz
+<ROMOO> :D
+<NAMIVAN> [01:10] <iVi> rommo: No such nick/channel
+<NAMIVAN> [01:10] <iVi> :))
+<NAMIVAN> :DDDD
+<ROMOO> AHHAHA
+<NAMIVAN> arra veri hogy leszedett
+<ROMOO> szegeny
+<NAMIVAN> :DDDDDDDDDDDDDD
+<NAMIVAN> :DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+<korx> <iVi> [msg(rommo)] na halljuk szepen mit baszakodsz a szerveremrol?
+<korx> <iVi> rommo: No such nick/channel
+<korx> <iVi> :))
+<korx> <iVi> nah
+<korx> <iVi> keso van joejt
+<ROMOO> dehat nemis volt ojan nikkem
+<NAMIVAN> LOL
+<korx> ahaha
+<NAMIVAN> imitalja a root jogot
+<NAMIVAN> imitalja a root jogot
+<korx> IT FELHOZATAL!!!
+<NAMIVAN> :DDDDDDDD
+<NAMIVAN> AHHAHAHAHHAHA
+<ROMOO> AHAHAHAHAHAHAHHAHAHA
+<ROMOO> AHAHAHAHAHAHAHHAHAHA
+<ROMOO> AHAHAHAHAHAHAHHAHAHA
+* NAMIVAN könnyezik
+<NAMIVAN> keso van joejt
+<NAMIVAN> gyorsan elhuzott
+<NAMIVAN> :DDDD
+<ROMOO> [nyadat(~ivi@193.224.159.143)] na halljuk szepen mit baszakodsz a
+szerveremrol?
+<NAMIVAN> :DDDDD
+<ROMOO> ez most!
+<NAMIVAN> varj
+<NAMIVAN> killelem a processt
+<NAMIVAN> :D
+<korx> ahah
+<ROMOO> KURDMA KI
+<ROMOO> KURDMA KI
+<ROMOO> KURDMA KI
+<ROMOO> kill -9 bitchx -u ivi
+<grinder> killall az
+<ROMOO> AHAHA ELTUNT
+<NAMIVAN> kesz
+<NAMIVAN> :DDDD
+<NAMIVAN> :DDDDDDDDDDD
+<ROMOO> [iVi(bnc@ktv74-74-88.catv-pool.axelero.hu)] ismered antal tamast?
+<ROMOO> [msg(ivi)] csak nem eltunt a processzed
+<ROMOO> [iVi(bnc@ktv74-74-88.catv-pool.axelero.hu)] szemelyes jo baratom,
+neki confoltam ma be a gepen a
+<ROMOO>           kernelt
+<NAMIVAN> :DDDDDD
+--> sztifler (hetvege@nilus-1205.adsl.datanet.hu) has joined #coders.hu
+<grinder> mah'
+<NAMIVAN> ez jobb mint egy mozi
+<ROMOO> [iVi(bnc@ktv74-74-88.catv-pool.axelero.hu)] azzal a kernellel ami
+most ott van
+<ROMOO> -:- sztifler [hetvege@nilus-1205.adsl.datanet.hu] has joined
+#coders.hu
+<ROMOO> [msg(ivi)] ahaha kiafaszt erdekel a szar kerneled te goreny
+<ROMOO> [iVi(bnc@ktv74-74-88.catv-pool.axelero.hu)] feltorheted
+<NAMIVAN> :DDDD
+<sztifler> ja
+<korx> ki az az antal tamás?!?!
+<Syrus> a masik root
+<Syrus> aki berakta a gepet a helyere
+<Syrus> ;>
+<korx> személyes jóbarátod? eheh
+<korx> ex~
+<Syrus> nekem igen
+<Syrus> dehogy ivinek
+<Syrus> azt ketlem
+<Syrus> :D
+<korx> személyes csicskáztatója
+<Syrus> ahahha
+<Syrus> buszke lehet a kernelere a gyerek
+<Syrus> firewallt bele se forgatott
+<korx> most asziszi, romó felnyomta..
+<Syrus> latom ott van a sourceban
+<Syrus> ahahha
+<korx> ez ilyen dupla nagy átbaszás..
+<korx> és megalázás
+<Syrus> akkor tisztazom
+<ROMOO> ahaha es hol irta azt hopgy mit baszakodsz aszerveremmel?
+<ROMOO> ott kene bemoszerolni
+<NAMIVAN> jaja
+<korx> syrus basszad le, hogy milyen szar rendszert konfigurált, még aznap
+felnyomták
+<Syrus> korx :DDDD
+<Syrus> ez mekkora :D
+<korx> ráadásul ROMÓÓÓ
+<-- ppfc has quit (Ping timeout)
+<ROMOO> kill -9 10280
+<ROMOO> lecci 
+<ROMOO> :D
+<Syrus> pill
+<NAMIVAN> done
+<NAMIVAN> :D
+<ROMOO> kosz :D
+<ROMOO> [msg(ivi)] csak nemeltunt az sshd is?
+<ROMOO> [iVi(bnc@ktv74-74-88.catv-pool.axelero.hu)] nagy cucc kisoreg
+<ROMOO> [iVi(bnc@ktv74-74-88.catv-pool.axelero.hu)] 2.2.x kernelt nem nehez
+felnyomni lamika
+<Syrus> :DDDDDDDD
+<ROMOO> EZ TELLEG ASZISZI FELTORTEM GECI
+<Syrus> :DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+<ROMOO> [iVi(bnc@ktv74-74-88.catv-pool.axelero.hu)] es device is lama
+<Syrus> huha
+<Syrus> ezt loggolom neki
+<Syrus> :DD
+<ROMOO> [msg(ivi)] majd szolok neki miket mondasz rola
+<Syrus> orulni fog
+<Syrus> hogy ezt mondjak rola
+<Syrus> :DDDD
+<ROMOO> [msg(ivi)] majd szolok neki miket mondasz rola
+<NAMIVAN> jobb mint egy mozidelutan
+<NAMIVAN> ahah
+<-- devICE has quit (EOF From client)
+<ROMOO>           egy hulladek kernelu gepen
+<ROMOO> [iVi(bnc@ktv74-74-88.catv-pool.axelero.hu)] nem nagy dolog
+kihasznalni, minden baromnak accot ad
+<ROMOO>           egy hulladek kernelu gepen
+<Syrus> :DD
+<Syrus> logging
+<ROMOO> [iVi(bnc@ktv74-74-88.catv-pool.axelero.hu)] ergo, ha van mas tobb
+root is
+<ROMOO> [iVi(bnc@ktv74-74-88.catv-pool.axelero.hu)] az eleve szanalmas:)))
+<ROMOO> [iVi(bnc@ktv74-74-88.catv-pool.axelero.hu)] 2.2.x kernellel
+<ROMOO> [msg(ivi)] ne mentegesd mar magad ocsem hanem kussoljal
+<ROMOO> [iVi(bnc@ktv74-74-88.catv-pool.axelero.hu)] nah ignore kis kocsog
+<grinder> hu de ki ez a luzer?
+<ROMOO> [iVi(bnc@ktv74-74-88.catv-pool.axelero.hu)] mivan oregem?:)
+<ROMOO> [iVi(bnc@ktv74-74-88.catv-pool.axelero.hu)] mit pattogsz?
+<grinder> invajtoljatok be;)
+<Syrus> :D
+<Syrus> nagyon odabasz
+<ROMOO> [msg(ivi)] ignoralj ma bazmeg nem akarok am tarsalogni veled
+<ROMOO> <Syrus> :D
+<ROMOO> <Syrus> nagyon odabasz
+<ROMOO> [msg(ivi)] majdaze anyadat meg seggbebaszom
+<ROMOO> [iVi(bnc@ktv74-74-88.catv-pool.axelero.hu)] akkor kussolsz kis
+szopadek
+<ROMOO> [iVi(bnc@ktv74-74-88.catv-pool.axelero.hu)] joeg hany eves kis
+csicska pampoghat itt nekem?:)
+<ROMOO> [iVi(bnc@ktv74-74-88.catv-pool.axelero.hu)] figy
+<ROMOO> [iVi(bnc@ktv74-74-88.catv-pool.axelero.hu)] adok egy cimet
+<ROMOO> [iVi(bnc@ktv74-74-88.catv-pool.axelero.hu)] gyere:)
+<ROMOO> [msg(ivi)] IGNORALJA VAGY KUSSOLJ
+<-- erikaa0 has kicked ROMOO from #coders.hu (flood)
+--> ROMOO (~szopadek@193.224.159.143) has joined #coders.hu
+<ROMOO> [iVi(bnc@ktv74-74-88.catv-pool.axelero.hu)] aztan meglatod kis
+baromka milyen az ha egy kes
+<ROMOO>           atvagja a kis nyelvecsked
+<ROMOO> [msg(ivi)] akko ignoralla ken
+<ROMOO> [iVi(bnc@ktv74-74-88.catv-pool.axelero.hu)] nah picinyem
+<ROMOO> [iVi(bnc@ktv74-74-88.catv-pool.axelero.hu)] mond kivagy
+<ROMOO> [msg(ivi)] csa
+<ROMOO> [iVi(bnc@ktv74-74-88.catv-pool.axelero.hu)] gyerunk
+<ROMOO> [iVi(bnc@ktv74-74-88.catv-pool.axelero.hu)] ne menj el
+<ROMOO> [iVi(bnc@ktv74-74-88.catv-pool.axelero.hu)] mond meg szepen
+<grinder> jojjon hozzam
+<ROMOO> [iVi(bnc@ktv74-74-88.catv-pool.axelero.hu)] ki a lofax vagy
+<grinder> sarospatak
+<ROMOO> [iVi(bnc@ktv74-74-88.catv-pool.axelero.hu)] hogy talallak meg es hol
+kis balfaszjoska
+<ROMOO> hahaha
+<grinder> erdelyi janos ut 33 ;)
+<ROMOO> hat lattam a fenykepet ugyhogy akarkihez mehetne aki elmult 10 eves
+es rendesen ki va nfejlodve
+<ROMOO> nemsok kart tudna tenni ehehe
+<Syrus> hahahahahahha
+<Syrus> naja
+<ROMOO> ultra ez a csavo bazmeg
+<ROMOO> mijet kamazott ma an ikkemmel
+<ROMOO> ahaha
+<NAMIVAN> jah
+<NAMIVAN> az nagyon odabasz
+<NAMIVAN> :DDD
+<ROMOO> es hogy mondta hogy SZERVEREMMEL
+<Syrus> :DDDD
+<Syrus> de ott a csatin leadta hogy o a gore erted:DD
+<ROMOO> virult a feje bisztos amiko bekonfigolhatta ez ta fontos szervert
+<Syrus> aztan kamu nicknek msgel
+<Syrus> :DDDD
+<ROMOO> Syrus  de ott mongyad ma el az igaz tortenetet hogy beegjen eheh
+<ROMOO> [iVi(bnc@ktv74-74-88.catv-pool.axelero.hu)] ocsibogyokam
+<Syrus> eh
+<grinder> tru sztori
+<ROMOO> [iVi(bnc@ktv74-74-88.catv-pool.axelero.hu)] gyere szepen vissza es
+mond meg hol talallak meg
+<Syrus> csinaljunk belole egy txtet
+<ROMOO> [iVi(bnc@ktv74-74-88.catv-pool.axelero.hu)] reg vertem szet valaki
+pofajat
+<korx> ahahah
+<Syrus> ROMO
+<ROMOO> ebbol egy fel poentxt megtelik
+<korx> romó nem válaszoltál, és aszitte, begyullattál
+<Syrus> MUTASSUNK MAR ROLA EGY KEPET :D
+<Syrus> jah
+<Syrus> valaszolj neki
+<ROMOO> [iVi(bnc@ktv74-74-88.catv-pool.axelero.hu)] nah akkor en is ignore
+<ROMOO> !!!!!!!!!!!!!!!!!!!!!!!
+<ROMOO> :DDDDD
+<Syrus> ahhaha
+<Syrus> :DDDDDDDD
+<Syrus> KET IGNORE
+<Syrus> :DD
+<ROMOO> nemvalaszolok mer most en elvileg ignoraltam
+<korx> ..még mielõtt válaszolnál..
+<ROMOO> [iVi(bnc@ktv74-74-88.catv-pool.axelero.hu)] de azert ha kell egy
+eles kes a hasadba akkor kerd
+<ROMOO>           mar el device-tol a cimem:)
+<ROMOO> KESEL!
+<grinder> moh
+<grinder> beinviteolhatom? :)
+<ROMOO> ahaha ez jien idegroncs linuksz wannabe lehet
+<Syrus> jah
+<Syrus> amugy az
+<Syrus> :D
+<Syrus> veri a faszat
+<Syrus> hogy bekonfigolta a kernelt
+<Syrus> szaros debian
+<Syrus> es mondom a tuzfalt kihagyta
+<Syrus> ahahah
+<korx> mer annyira stabil
+<grinder> 00:40 -!- Inviting iVi to #Coders.hu                                            
+<korx> tûszfal csak a lámereknek kell
+<grinder> :)
+<NAMIVAN> [01:31] <korx> ivi te a vasedényben dolgozol?
+<grinder> lehet forrasbol rakott ipfet ;)
+<NAMIVAN> !!!!!!
+<ROMOO> ahah
+<nori> SZAJBABASZ
+<nori> en ecce leszop[tam az ivi petyhudt futyijet
+<Syrus> ahahah
+<korx> az háj
+--- erikaa0 is now known as erikaa
+<ROMOO> na miageci van
+<Syrus> http://bemenet.kimenet.com/~ivi/__--=KePeIm=--__/ivi.jpg
+<Syrus> itt a gyerek
+<grinder> feccs'
+<Syrus> 1.60
+<ROMOO> torlni kene a homjat eheh
+<Syrus> asszem device ezt mondta
+<Syrus> ahahhaha
+<Syrus> atiranyitani!!!
+<Syrus> shitcity.com
+<Syrus> ahah
+<ROMOO> vagyis inkabb lecserelni a nyitolapot
+<ROMOO> es ugyhagyni
+<ROMOO> aztan majd eszreveszi
+<Syrus> ahhaha
+<ROMOO> nem ugyanugy hagyni csak aszoveget lecserelni hogy latens homokos
+vagyok de a szuleim megertenek
+<Syrus> romo a tudtod nelkul magyarorszag nagy hackerje leszel
+<grinder> szerintem ez mindent elarul: __--=KePeIm=--__
+<Syrus> naja
+<Syrus> az is leet
+<Syrus> ahah
+<grinder> :)
+<ROMOO> de komojan Syrus irdma at a nyitoplapjan a szoveget ijen homokosra
+<ROMOO> aztan majd eszrevezi eheh
+<grinder> =)
+<ROMOO> es megenzni miko modositottak asztan akko jon ra hogy ma 3 honapja
+minden ki azt olvassa rola hogy homok]s
+<grinder> na dohanyzom egyet
+<Syrus> ahahah
+<Syrus> oke
+<Syrus> melyik dirben van a nyito lapja?
+<grinder> van neki hekker honlapja is? :)
+<Syrus> mert alapbol nincs neki
+<Syrus> index.html-je
+<grinder> /home/ivi/public_html ?
+<Syrus> csinaljak?
+<Syrus> grinder
+<Syrus> nemarra gondoltam
+<grinder> :)))
+<hip-> topik bazmeg
+<hip-> lamak vagytok
+<ROMOO> nincsneki
+<hip-> ez en vagyok
+<ROMOO> csinalj egyet
+<Syrus> ok
+<hip-> MITKERESEKENOTT?!!!
+<ROMOO> linkeld oda ak epet eheh
+<grinder> bazmeg
+<grinder> http://bemenet.kimenet.com/~ivi
+<nori> regi szar :) (#coders.hu Syrus 06.04.2004 01:37)
+<Syrus> grinder?
+<grinder> ezek a konyvtarak geci
+<ROMOO> ahah
+<ROMOO> szepek!
+<grinder> minden ilye __-FaSz-==---_
+<ROMOO> ahaha geci mijen ideges lesz
+<ROMOO> majd igy eloveszi a keset otthon, es fujtatva mnaszkal korbe dulledo
+nyaki utoerekkel
+<Syrus> http://193.224.159.143/~ivi/
+<Syrus> http://193.224.159.143/~ivi/
+<nori> regi szar :) (#coders.hu ROMOE 31.03.2004 02:39)
+<Syrus> nezd meg
+<Syrus> :DDDDDDD
+<ROMOO> AHAHAHAHA
+<Syrus> GEIC
+<Syrus> BESZAROK
+<ROMOO> inkabb izet nyomja img taget
+<ROMOO> <img src="">
+<ROMOO> AHAHAHA EZ GECIJO
+<ROMOO> vagy inkabb mutassuk meg neki, es szoljunk hogy hiaba csinalja
+vissza mi minden nap megcsinaljuk ijenre
+<ROMOO> primitivnek lenni a leheto legjobb dolog a foldon
+<ROMOO> AAHHHAHA
+<ROMOO> kiraj lett
+<Syrus> most nezdmeg
+<ROMOO> AHHAHAHHA GECIIIIIIIIIII
+<ROMOO> mondmeg neki hogy D3F4C3D
+<ROMOO> :D
+<grinder> :)
+<ROMOO> masold be minden csatornara
+<ROMOO> ahol van
+<grinder> 00:52 -!- grinder changed the topic of #kac.hu to: Pentek 22:00
+RTL-KLUB -> 7
+<grinder>           ev tibetben | http://193.224.159.143/~ivi/
+<nori> regi szar :) (#coders.hu ROMOE 31.03.2004 02:39)
+<ROMOO> ahaah
+<Syrus> :DDD
+<ROMOO> ahaha hogy urophogok
+<grinder> joejt
+<NAMIVAN> kepzeld el a tehetetlen duhot
+<NAMIVAN> amit erez
+<NAMIVAN> :DDDDD
+<NAMIVAN> ez mindjart bemegy azt megfojtja az anyjat
+<ROMOO> :DDDDDDD
+<ROMOO> u teleg geci csinaljuk azt hogy ird at a shelljet devnullra vagy
+valami a pesszvord fajba, aztan mutassuk meg neki az oldalt
+<Syrus> eheh
+<Syrus> nemtudja torolni
+<ROMOO> aztan utana vissza lehet irni a shellt
+<Syrus> rootkent hoztam letre
+<Syrus> dirrol levettem a jogot
+<ROMOO> ahaha hat akko mutassuk meg
+<ROMOO> u de latni akarom
+<ROMOO> mejik csatorna az
+<NAMIVAN> levettek a bant
+<NAMIVAN> rolad
+<NAMIVAN> torespont
+<NAMIVAN> :DD
+<NAMIVAN> gyere mutasd be
+<ROMOO> de ottvan ez  fasz is?
+<ROMOO> a
+<NAMIVAN> jah
+<NAMIVAN> | idle : 19secs (s,
+<ROMOO> ott menozott a szerverrel is?
+<NAMIVAN> jaja
+<NAMIVAN> ott ott
+<NAMIVAN> a gecibe
+<ROMOO> ahaha biztos megorul
+<-- sztifler has quit ("")
+<NAMIVAN> drwxrwxrwx 14 root root 4096 Apr 6 01:51 public_html
+<NAMIVAN> egyszeruuen rootba raktam a public dirt
+<NAMIVAN> root nelkul no torles
+<NAMIVAN> :DDDD
+<ROMOO> de nemjo, mer rwx van otherra
+<ROMOO> !
+<NAMIVAN> hu bazmeg
+<ROMOO> o-rwx
+<ROMOO> !
+<grinder> nem lesz ugy jo
+<NAMIVAN> latom baz
+<grinder> rx kell otherre is
+<ROMOO> chmod o-rwx
+<NAMIVAN> kesz
+<grinder> kulonben sztem az apache se tudja olvasni
+<ROMOO> jah forbidden
+<ROMOO> ize akko vedd k ia shelljet
+<ROMOO> csak addig amig le nem reaglja meg meg ne mprobhalja
+<ROMOO> visszairni
+<grinder> de jo az ugy
+<grinder> 555
+<grinder> es akkor nem tudja irni, osz csa
+<ROMOO> jah
+<grinder> senki nem tudja irni, mindenki tudja olvasni
+<ROMOO> igaz
+<grinder> de ezt index.html-re is
+<ROMOO> jo
+<Syrus> minek? ha dirre nincs joga akkor nemtud torolni
+<NAMIVAN> | iVi (bnc@ktv74-74-88.catv-pool.axelero.hu)
+<NAMIVAN> | name : BlaCKHolE
+<NAMIVAN> | chan : #cs.hu #larkinor.hu @#nemvagyokalkoholista +#gdf
+#budapest #arsenalfm +#debian.hu #weresugarz #6tonet #torespont #vicc
++#kender @#dc.hu
+<NAMIVAN> | serv : extra.irc.hu
+<NAMIVAN> | away : (L)pool
+<NAMIVAN> | idle : 1min 37secs (signed on Fri M
+<grinder> de ha tudja irnir other is a filet
+<grinder> akkor tudja
+<grinder> csak filet nem tud sztem letrehozni a dirben
+<NAMIVAN> -rw-r--r-- 1 root root 184 Apr 6 01:56 index.html
+<grinder> ugy jo
+<ROMOO> <ROMOE_> ittvagy dragam?
+<ROMOO> <ROMOE_> sok szerencset az oldalad leszedesehez
+<ROMOO> <ROMOE_> http://bemenet.kimenet.com/~ivi
+<ROMOO> <ROMOE_> gyonyorkoggy benne addig
+<nori> regi szar :) (#coders.hu Syrus 06.04.2004 01:37)
+<grinder> meg man chflags
+<ROMOO> <ROMOE_> pa
+<ROMOO> ehehe
+<grinder> van ott valami immutable flag
+<ROMOO> hagytam neki uzit
+<grinder> amikor nem tudod torolni, hacsak le nem veszi
+<grinder> meg a root se
+<Syrus> haha
+<NAMIVAN> okos volt
+<NAMIVAN> leszedte a kepet inkabb
+<grinder> bsd alatt uulnk
+<NAMIVAN> !
+<ROMOO> ragd vissza
+<NAMIVAN> lol
+<grinder> toltsd fel
+<ROMOO> linkelj be masikat asztan arrol ma vedd le a jogot
+<NAMIVAN> letorolt mindent
+<NAMIVAN> :D
+<grinder> nincs meg senkinek?
+<grinder> az ivi.jpg?
+<Syrus> nincs:(
+<grinder> ehe
+<grinder> kirakom
+<ROMOO> neked megvan?
+<ROMOO> enis megtalaltama  tempbe
+<NAMIVAN> nyomdd fel a diredbe romo
+<NAMIVAN> namivan
+<grinder>  80.95.91.184:7131/ivi.jpg     \
+<ROMOO> AAAA geci most torolte ki a vindoz
+<korx> ahah
+<ROMOO> ah ottvan ehehe
+<grinder>  \ nelkul
+<grinder> ;)
+<grinder>  80.95.91.184:7131/ivi.jpg
+<grinder> igy
+<ROMOO> ahah szojj miko kinnvan szolok a gyokernek ehehe
+<korx> de hogy tudta letörölni, hotyha nincs rúttya?
+<ROMOO> hat a sajat konyftara
+<NAMIVAN> kinnvann
+<NAMIVAN> kinnvann
+<ROMOO> ok
+<grinder> akkor en is lelovom innen
+<NAMIVAN> ja varj
+<NAMIVAN> oda linkeletem
+<NAMIVAN> :D
+<grinder> bazmeg
+<grinder> ;)
+<grinder> ide ne linkelj :)
+<NAMIVAN> pill
+<NAMIVAN> wgetelem
+<grinder> visszarakom
+<ROMOO> gyorsan
+<NAMIVAN> na kesz?
+<grinder> ennyi?
+<ROMOO> visszarakta ma de szedd le onnan es ragd lokalba
+<Syrus> pillanat
+<ROMOO> addig grinder hagydkinn mer most nez isztem :D
+<NAMIVAN> ok leszedheted
+<grinder> isztem?
+<grinder> mkay
+<ROMOO> szirusz gyorsdan ird at
+<grinder> nem jo az az index.html
+<NAMIVAN> most jo
+<NAMIVAN> atirtam
+<grinder> most jo
+<NAMIVAN> ahhaha
+<NAMIVAN> ezt hivjak kurvanagy kibaszasnak
+<ROMOO> <ROMOE_> dragam
+<ROMOO> <ROMOE_> ittvagy e?
+<ROMOO> <ROMOE_> sajnos valami varazslatos modon visszakerult a kep
+<ROMOO> <ROMOE_> http://bemenet.kimenet.com/~ivi
+<ROMOO> <ROMOE_> erthetetlen...
+<ROMOO> <ROMOE_> nemis banom hogy nem irsz kepzelem mijen duhos lehecc :(
+<nori> regi szar :) (#coders.hu Syrus 06.04.2004 01:37)
+<NAMIVAN> :DDDDD
+<korx> ahah
+<NAMIVAN> megszakadok mindjart
+<NAMIVAN> (rohogestol)
+<ROMOO> hohoh
+<NAMIVAN> no response?
+<ROMOO> nemir semmit
+<ROMOO> az elobbse irt
+<NAMIVAN> reklamozd a csatijain
+<ROMOO> csakhat kozbe leszette ak epet
+<NAMIVAN> fennvan vagy tizen
+<ROMOO> u telleg
+<grinder> hu mingyan letorli tollem is ;P
+<NAMIVAN> ahah
+<NAMIVAN> :>>>
+<NAMIVAN> battleaxe:/home/ivi/public_html# who
+<NAMIVAN> ivi pts/1 Apr 6 02:12 (ktv74-74-88.catv-pool.axelero.hu)
+<NAMIVAN> probalkozik
+<NAMIVAN> :DDD
+<ROMOO> na
+<ROMOO> 10 csatira beirtam
+<ROMOO> kereken
+<ROMOO> am aradek a torespot oda meg ma az elobb eheh
+<NAMIVAN> hu baz
+<NAMIVAN> elkepzelem a fejet
+<NAMIVAN> vorosebb mint a kommunizmus
+<ROMOO> valahol a 6. kornyeken beleptem
+<ROMOO> erre irja egy gyerek jo tuggyuk
+<ROMOO> heheheh
+<ROMOO> :DD
+<NAMIVAN> ahahhaha
+<ROMOO> debian.hu -n kulon megjegyeztem hoyg ennyire ert ahhoz amit o
+konfigolt
+<NAMIVAN> :)))))))))
+<ROMOO> dekivancsi vagyok hogy most mire gondol
+<ROMOO> lehet ma feldarabolta az annyat
+<ROMOO> irja cronba egy sort ami letorli holnap delbe
+<ROMOO> azt kesz
+<NAMIVAN> nem
+<NAMIVAN> szenvedjen
+<ROMOO> u dekar hogy bishop nicns itt eheh
+<ROMOO> poentxt kulonkiadas lenne ebbol
+<ROMOO> duplaszam
+<NAMIVAN> ahhaha
+<grinder> en a helyedben csinalnek ra httpd.confban aliast is
+<grinder> hogy hiaba torli majd le root
+<grinder> masholrol meglegyen :)
+<NAMIVAN> :)))))))))
+<ROMOO> :D
+<-- teri has quit (Ping timeout)
+<grinder> na  telleg joejt
+--> teri (dr@spring.dandre.hu) has joined #coders.hu
+--- nori gives channel operator status to teri
+<ROMOO> jeoje
+<NAMIVAN> joejt
+<NAMIVAN> na bammeg
+<NAMIVAN> enis megyek asszem
+<ROMOO> en nem csak grinder
+<NAMIVAN> letorlom hogy azert az apjat ne olje mar meg
+<NAMIVAN> ahahha
+<ROMOO> :D
+<ROMOO> szolj ha torolted szolok neki
+<NAMIVAN> kesz
+<ROMOO> ok
+<korx> jóéj
+<NAMIVAN> joej
+<ROMOO> mivamma mindeki eltakarodik
+<NAMIVAN> na
+<NAMIVAN> mitmondtal neki
+<NAMIVAN> ?
+<korx> jóé
+<-- korx has quit (Connection reset by peer)
+<ROMOO> monmdtam hogy leszettuk mielott magabamartja a keset
+<ROMOO> meghogy lekkozelebb haggyuk hogy ki hol root meg ki kit ismer eheh
+<Syrus> ahahah
+<NAMIVAN> jovan helyes
+<NAMIVAN> a:DD
+<NAMIVAN> parszor mar majdnem behugyoztam a rohogestol
+<ROMOO> ehhe
+<ROMOO> enis zokogtam
+<NAMIVAN> na
+<NAMIVAN> joejtoje
+<-- NAMIVAN has quit ("Read error: Connection reset by peer")
+<Syrus> ehhhhhhh
+<Syrus> letorolt mindent
+<Syrus> :DD
+<ROMOO> :D
+<ROMOO> a homejabol?
+<Syrus> aha
+<Syrus> elege lett
+<Syrus> :DDDDDDD
+<ROMOO> eheh
+<ROMOO> nemcsodalom
+<Syrus> nah
+<Syrus> elhuzok a gecibe
+<Syrus> maj holnap
+<Syrus> jeoje
+<ROMOO> enis
+<-- ROMOO has quit ("BitchX Official FTP Site -- ftp://ftp.bitchx.com")
+--> kronikslp (kronik@chroniq.sch.bme.hu) has joined #coders.hu
+<kronikslp> csobogó geci
+<-- Syrus has quit (Ping timeout)
+--> Syrus (Syrus@freebsdguru.com) has joined #coders.hu
+--> nes^nincs (nestan@xes.sch.bme.hu) has joined #coders.hu
+<-- Syrus has quit (Ping timeout)
+--> Syrus (Syrus@freebsdguru.com) has joined #coders.hu
+<-- Syrus has quit (Ping timeout)
+--> Syrus (Syrus@freebsdguru.com) has joined #coders.hu
+<-- Syrus has quit (Ping timeout)
+--> Syrus (Syrus@freebsdguru.com) has joined #coders.hu
+<-- Syrus has quit (Ping timeout)
+--> Syrus (Syrus@freebsdguru.com) has joined #coders.hu
+--- pocok_ is now known as pocok
+<-- kronikslp has quit (Ping timeout)
+<hip-> budos kurvak
+<-- Syrus has quit (Ping timeout)
+--> Syrus (Syrus@freebsdguru.com) has joined #coders.hu
+<-- Syrus has quit ("")
+--> Syrus (Syrus@sex.z0ne.us) has joined #coders.hu
+<Syrus> re
+<grinder> helo
+<Syrus> latom nemsokat aludtal ehehh
+<grinder> :)
+<grinder> felkeltem magamtol 8kor
+<grinder> de te sem ;)
+<Syrus> jah 6kor;>
+<grinder> huuu
+<grinder> az meg gazosabb
+<grinder> en meg eppen design&implementationt olvasok ;)
+<Syrus>
+BSD_Sockets_Programming_from_a_Multi-Language_Perspective_(Charles_River-2004).chm
+<grinder> jaja, az meg van nekem is ;)
+<Syrus> belekukkantk
+<Syrus> joez a design & implementation, csak neha ferden van beszkennelve :p
+<grinder> jaja
+<grinder> de nem vagom
+<grinder> mert keresni lehet benne
+<grinder> szoval megsem kepkent van elmentve, vagy az acroread ilyen okos?
+<Syrus> hat
+<Syrus> olvastasd fel
+<Syrus> ha az is megy akkor nemkep :>
+<grinder> :)
+<grinder> moh
+<grinder> megprobalok copy&pastelni belolle
+<Syrus> eh
+<Syrus> felolvassa
+<grinder> PZERO
+<grinder> 22
+<grinder> baseline priority
+<grinder> has occurred. To avoid holding a kernel resource permanently,
+these processes
+<grinder> must check why they have
+<grinder> bazmeg
+<grinder> ezt en ujra fogom designelni mert
+<grinder> zavaro ;)
+<Syrus> ;)
+<Syrus> jo ez a felolvaso
+<grinder> :)
+<Syrus> hat en ezt nemertem
+<Syrus> egyreszt a ket oldal egymasmellett zavaro, meg a fekete foltok
+<rsc> tobbet nem akarok anyatok mellett ebredni, reggel meg szornyubb
+latvany.
+<grinder> ja
+<grinder> nincs most itt adobe acrobatom ;(
+<grinder> de ha nem kep, akkor mer 20 mega?
+<Syrus> Hardware devices have filenames, and may be accessed by the user via
+the same
+<Syrus> system calls used for regular files. The kernel can distinguish a
+device special file
+<Syrus> or special file, and can determine to what device it refers, but
+most processes do
+<Syrus> not need to make this determination. Terminals, printers, and tape
+drives are all
+<Syrus> accessed as though they were streams of bytes, like 4.4BSD disk
+files. Thus, device
+<Syrus> ja ense ertem
+<Syrus> lehet masolni is belole
+<dr-> kurva anyad
+<dr-> kurva anyad
+<dr-> kurva anyad
+<dr-> kurva anyad
+<dr-> kurva anyad
+<dr-> kurva anyad
+<Syrus> kurva anyad
+<Syrus> kurva anyad
+<Syrus> kurva anyad
+<dr-> kurva anyad
+<Syrus> kurva anyad
+<Syrus> kurva anyad
+<Syrus> kurva anyad
+<Syrus> kurva anyad
+<dr-> kurva anyad
+<Syrus> kurva anyad
+<dr-> kurva anyad
+<Syrus> kurva anyad
+<dr-> kurva anyad
+<Syrus> kurva anyad
+<Syrus> kurva anyad
+<Syrus> kurva anyad
+<Syrus> kurva anyad
+<Syrus> kurva anyad
+<Syrus> kurva anyad
+<Syrus> kurva anyad
+<Syrus> kurva anyad
+<Syrus> kurva anyad
+<Syrus> kurva anyad
+<Syrus> kurva anyad
+<Syrus> kurva anyad
+<Syrus> kepek
+--> kronikslp (kronik@chroniq.sch.bme.hu) has joined #coders.hu
+<rsc> kakik
+<Syrus> mondom kepek
+<rsc> kukik
+<grinder> :)
+<Syrus> eresce
+<rsc> szájrusz
+<Syrus> kx938181 haragszik?
+<rsc> nem hiszem, miert?:)
+<Syrus> tegnap leszidott hogy nemvettem fel a telefont;)
+<Syrus> meghogy aludtam;)
+<rsc> hat szegyelld magad
+<rsc> :]
+<_sh> te szajruzs te mi a gecit gerjedsz itt dr-re
+<rsc> szerelmetesek
+<Syrus> ahah
+<_sh> <Syrus> tegnap leszidott hogy nemvettem fel a telefont;)
+<_sh> WAHAHA
+<_sh> LE SZIDOTT
+<grinder> ;)
+<_sh> hallod kuld el a kurva annyaba
+<Syrus> sh, BASZTELIBEA ZANY AD
+<Syrus> ;)
+<_sh> ahahha
+--> mrmaim (~mrmaim@amazonas-2440.adsl.datanet.hu) has joined #coders.hu
+<mrmaim> hi
+<mrmaim> by
+<-- mrmaim has quit ("Leaving")
+--- _f1uk3r is now known as f1uk3r
+--> ROMOO (szopo@195.83-182-adsl-pool.axelero.hu) has joined #coders.hu
+<ROMOO> @?!
+<grinder> no?
+<_sh> ROMOO BASZTELI BEA ?!
+<_sh> pizsamas banan
+<_sh> ahuahuaaaaaaaa
+--- _sh gives channel operator status to bishop
+--- _sh gives channel operator status to ROMOO
+--- _sh gives channel operator status to dr-
+--- _sh gives voice to kewl_
+--- _sh gives voice to grinder
+--> erika- (Fiuka@ko3.kfrtkf.hu) has joined #coders.hu
+<bishop> re
+<erika-> hello
+<ROMOO> .
+--> ROMOE_ (szopo@103.83-182-adsl-pool.axelero.hu) has joined #coders.hu
+<ROMOE_> miva he
+<ROMOE_> tennap mivot beszartatok volna
+<ROMOE_> vot egy hujegyerek akinek vot ruttya azon a gepen amirol anyaztunk
+a szajrusszal
+<ROMOE_> asztan hirtelen nemvot ruttya
+<m1su> ahaha
+<ROMOE_> aztan a homjat se megvaltoztatni VELETLENUL
+<kewl_> es te voltal az a hujegyerek?:)
+<ROMOE_> es kikerul a nyitolapjara egy szoveg a kepevel hogy homokos vagyok
+stb eheh
+<ROMOE_> kikerult
+<m1su> ahaha
+<ROMOE_> eleg mokas vot
+<kewl_> rotfl
+<m1su> vmi logot lokje man
+<ROMOE_> tennapi log ejfeltol fel 3ig kb
+<ROMOE_> nekem nicns bisopnak bisztos va
+<m1su> bisap
+<ROMOE_> vagyis az mar mai
+<m1su> aggya te szar
+<kewl_> me, o is muzsikalt hozza?
+<ROMOE_> ki
+<kewl_> bishop 
+<-- ROMOO has quit (Ping timeout)
+<ROMOE_> nem dehat neki gondolom van mindnrol log
+--- ROMOE_ is now known as ROMOO
+<m1su> milyen kanal volt?
+<ROMOO> a vegen ma ottartott a gyerek hogy mennyek at hozza es akko
+hasbaszur egy kessel
+<kewl_> NINCS KANAL!@!@
+<ROMOO> mittomen ma
+<ROMOO> geciideges vot amiko megvaltozott a rootpassword es egyenkent
+szuntek meg a processzei eheheh
+<kewl_> hehe, az milyen mar, hogy hasba akar szurni, es majd te biztosan
+odamesz hozza:)
+<m1su> ahaha
+<ROMOO> es akko akart lekeselni
+<ROMOO> amiko ma homejat se tutta irni es kinnvot a homokos nyitolap akko ma
+nemis szolt hozzam szerintem azannyat darabolta fel az idegessegtol
+<m1su> ;>
+<rsc> ez a kimenet bemenet?
+<ROMOO> jah
+<rsc> haha
+<ROMOO> belinkeltuk a kepet a nyitooldalra homokos szoveggel, aztan levettuk
+a jogot a filerol hogy ne tuggya torolni, de trukkos vot mer letorolte a
+kepet amirol nemvettul el a jogot. csak rabaszott mr megvot a kep a tempbe
+ehehe
+<ROMOO> ahahaha szegeny hoy keszlehetett
+<ROMOO> fosnom kell
+<kewl_> majd kugyerolakept
+<ROMOO> na
+<ROMOO> keszen is van
+<ROMOO> szopnam edesanyatok csiklojat
+<rsc> romi neked hogy hivjak edesanyad? en eddig mindig csak ugy szolitottam
+h "szopsz"
+<erika-> romika:))
+<erika-> rsc:)
+<ROMOO> <lobig> igazabol kene mostmar valami ertelmeset is csinalni
+<ROMOO> <lobig> mongyuk elmehetnenk berugni jool
+<ROMOO> csa ernya
+<erika-> az elég jol hangzik
+<erika-> mikor lesz már coderses buli?:)))
+<ROMOO> fojamatosan van
+<ROMOO> eheh
+<erika-> helyes
+<erika-> kár hogy kimaradok:))
+<ROMOO> dehat csak kepernyon keresztul erintkezunk
+<ROMOO> ugyertve van fojamatosan
+<erika-> jah igen
+<erika-> ezek a virtuális dolgok....
+<ROMOO> erika- tutira megremulnel a sok kisfutyiju szemuveges flanelinges
+linuxos csakotol
+<erika-> :)))
+<erika-> ajaj
+<erika-> ilyen vészes a helyzet
+<erika-> akkor még sem adom fel:))
+--> sztifler (hetvege@nilus-1205.adsl.datanet.hu) has joined #coders.hu
+<erika-> na  jol van mielött megijjednék kellemes ünnepeket
+<erika-> sok locsolot:DDD
+<erika-> pápá
+<grinder> moh?
+<grinder> bye'
+<_sh> kurva anyad
+<grinder> :))))))))))
+<sztifler> mijien locsolot teeee
+<_sh> :>>
+<grinder> sehonnai bitang ember
+<grinder> blah'
+<_sh> sztifler hol a mamad
+<sztifler> apadnal van, csalatja vele anyadat
+<grinder> a scatman john a nagy kedvenc
+<sztifler> az meg mekhalt
+<grinder> azer' szeretjuk
+<sztifler> akko teged utajjunk?
+<sztifler> eheh
+<-- erika- (Fiuka@ko3.kfrtkf.hu) has left #coders.hu (erika-)
+<_sh> sztifler anyad epp erikat szopja
+<sztifler> erika hermafrodita?
+<_sh> nem, buzi
+<sztifler> az kemej
+<_sh> mijen zoral mar
+<grinder> zoran
+<sztifler> jabazeg, pont kozetek illik eheh
+<grinder> MIDEEENT ELNYELT A NAGY ZALOGHAZ
+<grinder> blub
+<hip-> tegnap ivi vmi cs-s volt hogy allandoan keselni akart?

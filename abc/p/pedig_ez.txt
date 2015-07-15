@@ -1,0 +1,7 @@
+|19:17:31| (@lics) atapci0: <Marvell 88SX6041 SATA300 controller> port 0x2800-0x28ff mem 0xdd300000-0xdd3fffff irq 27 at device 4.0 on pci3
+|19:17:38| (Kizome) kicsoda!
+|19:17:40| (@lics) ilyet azt ne hasznaljatok
+|19:17:53| (@slin) lics: mar a neve se all jol
+|19:17:58| (@Kizome) lics: pedig az csinalta, aki az x-ment is!
+|19:18:08| (@lics) :DDDDDDDDDDDDDDDDDDDDDDDDD
+

@@ -1,0 +1,43 @@
+|12:14:20| (@egeresz) van privmsg action?
+|12:14:30| (@egeresz) es ha van akkor hogykell csinalni?
+|12:15:01| (@phx-) van
+|12:15:12| (@phx-) ACTION nick :msg
+|12:15:13| (@phx-) nem?
+|12:15:34| (@egeresz) ez egy moronless ircII kompatibilis kliens
+|12:15:45| (@phx-) ahha
+|12:15:47| (@egeresz) van /me es /msg parancs
+|12:16:00| (@phx-) akkor ott nemtom
+|12:16:12| (@egeresz) es tenalad van /command -ja?
+|12:16:54| (@phx-) ?> egeresz msg
+|12:16:56| (@egeresz) jo
+|12:17:07| (@egeresz) ezt eloszor /query aztan utana /me volt
+|12:17:52| (@egeresz) neha latok olyat, hogy a nicket inverz szinekkel irja ki
+|12:17:58| (@egeresz) peldaul a rozsdas volt olyan
+|12:18:25| (@egeresz) mind publicba mind privmsg -be ugy szolt vissza
+|12:18:30| (@egeresz) na azt hogy csialta
+|12:18:40| (@phx-) notice
+|12:18:46| -phx-:#linux.uh- lofasz
+|12:18:47| (@phx-) igy?
+|12:22:14| (@egeresz) igy
+|12:23:19| (@egeresz) hm
+|12:23:24| (@egeresz) ebbol mi latszott es mi nem?
+|12:23:26| (@phx-) ez privatba volt, nem csatira
+|12:23:29| (@phx-) try
+|12:23:34| (@phx-) ennyi laccot, es az, h te kuldted
+|12:23:34| (@egeresz) probaltam csatora is
+|12:24:08| (@egeresz) esez?
+|12:24:15| (@egeresz)  /notice linux.uh try2
+|12:24:21| -egeresz:#linux.uh- try2
+|12:24:25| (@egeresz)  /notice #linux.uh try2
+|12:24:28| (@egeresz) nos?
+|12:24:47| (@phx-) ja
+|12:24:48| (@egeresz) tudom belephetnek en is ket peldanyban egy sajat csatora es nem boldogitanalak benneteket
+|12:24:56| (@phx-) utobbi
+|12:28:23| # deja_vuk [vuk@zen.ktk.bme.hu] has joined #linux.uh
+|12:28:39| (deja_vuk) hiall
+|12:29:31| (@phx-) egeresz, na, megy?
+|12:29:36| (@phx-) deja_vuk, szia
+|12:29:44| (@phx-) egeresz, igy folytatod, egesz jo scriptkiddie lesz beloled :)
+|12:29:59| (deja_vuk) phx- szia
+|12:30:39|  * egeresz scriptkiddie wannabee ;-)
+

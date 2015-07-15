@@ -1,0 +1,5 @@
+|12:54:28| (@Goodman) irssivel valahogy ki lehet iratni logba egy bizonyos ablak eddigi tartalmat?
+|12:55:24| (@litch) /lastlog -file filenev
+|12:55:46| (@horpa) litch: a helyes valasz az, hogy ki :))
+|12:55:52| (@litch) horpa :DDD
+

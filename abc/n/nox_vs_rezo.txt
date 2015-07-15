@@ -1,0 +1,83 @@
+
+Session Start: Sun Jul 25 17:44:24 2004
+Session Ident: _nox
+[17:44:01]  <_nox> ugyan, honnan szerzed meg. elkered? mas modod nemigazan hinnem hogy van ra... de tudod mit, csinalj amit akarsz, csak engem hagyj beken...
+[17:44:44] <BenNihil> nem kertem el senkitol bar teny hogy tfse megvolt
+[17:45:08] <BenNihil> a legegyszerubb mod ra a ?google 0day exploit de ezt pont neked magyarazzam
+[17:45:22] <BenNihil> amugy ennel sokkal egyszerubb volt a megoldas de inkabb beken hagylak :)
+[17:45:39] <_nox> akkor mondd el, ha mar ilyen nagy security guru vagy.
+[17:45:53] <_nox> amugy meg mi szukseged ra, mar reg aktiv vagy.
+[17:46:55] <_nox> a masik, hogy nem tul etikus ez a magatartas, amennyiben igaz, amit irsz, mar az felerer egy vegleges kibaszassal. ezt pont neked magyarazzam?
+[17:47:49] <BenNihil> oke
+Session Close: Sun Jul 25 17:47:52 2004
+
+Session Start: Sun Jul 25 17:56:12 2004
+Session Ident: _nox
+[17:55:44]  <_nox> amennyiben ezt muveled, es nem csak hazudsz, raadasul vallalod is szemelyesen, sot logolhatoan, nem tartasz attol, hogy a szerver gazdaja egy jo kis feljelentest akaszt a nyakadba? ugy mellesleg?
+[17:57:53] <BenNihil> nem ;(
+[17:57:58] <_nox> kar
+[17:58:14] <BenNihil> mit jelent az hogy logolhatoan?
+[18:09:18] <_nox> orvendek a kedves script baratodnak is plusz csokoltatom minden coders.hu-s akinek nincs jobb szorakozasa hozzad hasonloan...
+[18:09:23] <_nox> romo, viccc...
+[18:10:50] <BenNihil> ?
+[18:11:58] <_nox> melyik resze nem ertheto, az hogy a coders.hu-n ulsz, vagy az hogy a Romo nevu kurvaanyazo script is, es a koztem es akozott levo kapocs benned merul ki?
+[18:13:00] <BenNihil> pff :) 
+[18:13:34] <BenNihil> mer mi a coders.hu tudod azt egyaltalan? romo nem szkript valamelyik nap is vele ittam ;(
+[18:13:56] <BenNihil> en meg mondom hogy leszarom mashol keresd a problemat (kapcsot)
+[18:14:27] <_nox> aham, akkor a kedves cimborad, ha nem szkript minek kurvaanyazik privatba, mikor nem jarok oda?
+[18:14:28] <BenNihil> amugy meglatasaid maximalisan helytalloak voltak elnezest az aprobb korrekciokert amiket a precizitas miatt eszkozoltem
+[18:17:25] <_nox> tudod mi a szomoru, az hogy amikor itt voltal nalunk, en nem igy ismertelek meg, es szivesen lattunk ildivel, es utana is ugy gondoltuk, hogy jo arc vagy. masreszt pedig semmi kozom a kibaszott dt-n beluli hatalmi harcokhoz, meg ami itt folyik, es nincs is kedvem ezzel foglalkozni. sajnalom, hogy egyaltalan kapcsolatba kerultem veletek, illetve az ugynevezett csapattal.
+[18:18:17] <BenNihil> nezd az mar regen gaz ha ezt hatalmi harckent latod en abszolut nem igy fogom fel :)
+[18:19:08] <_nox> akkor nevezd ugy ahogy akarod, nem erdekel, csinaljatok amit akartok, csak engem hagyjatok ki belole. es legyszives az underground szerveret is. megtoritek? torjetek, en meg lelovom az egeszet, nem kell ez sem nekem, sem a u* gazdainak.
+[18:20:33] <_nox> ugyis azt hangoztattatok, hogy a dt nem a site-bol all, hat tessek, meglatjuk hogy boldogultok nelkule. kivancsi lennek ,hogy amig nem volt oldal, mi volt a dt.hu-val, akkor miert nem volt semmi, legalabbis latszolag...
+[18:20:59] <BenNihil> rendben 
+[18:21:30] <_nox> akkor ezt megbeszeltuk
+[18:21:43] <BenNihil> meg
+[18:36:04] <BenNihil> nokszi draga ha megis talaljatok azt amit kerestek akkor is hiaba terelitek jogi utra
+[18:36:29] <BenNihil> ;(
+[18:36:33] <BenNihil> tudod JOGHEZAK
+[18:36:41] <BenNihil> kis hiperaktiv
+[18:36:54] <BenNihil> aze csinaldcsak magadnaka felesleges tiszteletkoroket
+[18:38:39] <BenNihil> amugymeg tudhogy atto mer valaki feljelentgecc meg ugyanugy be tud torni akarki :)
+[18:39:34] <BenNihil> meg ez amugy is olyan mintha a lakasotokba tornek be kitakaritanek, elmosogatnek, kimosnek aztan lelepnek es bezarnek mindent
+[18:39:56] <BenNihil> kapalozzcsak aztmondom
+Session Close: Sun Jul 25 18:41:00 2004
+
+Session Start: Sun Jul 25 18:41:15 2004
+Session Ident: _nox
+[18:41:11]  <_nox> ?
+Session Close: Sun Jul 25 18:45:11 2004
+
+Session Start: Sun Jul 25 19:20:38 2004
+Session Ident: _nox
+[19:20:21]  <_nox> <blobb> <BenNihil> meg ha van egy kis esze ugyis latni fogja hogy mi a baj
+[19:20:22]  <_nox> <blobb> <BenNihil> ha meg nem akkor meg ket nap mulva masik biztonsagi rest lehet talalni ugyis
+[19:20:22]  <_nox> <blobb> <BenNihil> ot ezert fizetik
+[19:20:22]  <_nox> <blobb> <BenNihil> talalja meg o
+[19:20:22]  <_nox> <blobb> <BenNihil> enis rajottem
+[19:20:23]  <_nox> <blobb> <BenNihil> pedig en nem ertek ehhez de frankon
+[19:20:25]  <_nox> <blobb> <BenNihil> nem tanultam sehol nem ez a munkam
+[19:20:27]  <_nox> <blobb> lofasz
+[19:20:29]  <_nox> <blobb> inkabb filmet nezek
+[19:20:31]  <_nox> <blobb> <BenNihil> de ha megkerdezte volna hogy hol vlt meg mi volt meg legyek szives leirni akko siman megmondtam volna neki
+[19:20:34]  <_nox> <_nox> ugyanmar
+[19:20:46] <_nox> ugyanmar, ez a tipikus tamadas este. en kerdezzem meg? neked kene szolni, ha nem akarod siman tamadonak minositeni magad minden szempontbol....
+[19:20:59] <_nox> ehhez csak ertesz...
+[19:21:35] blobb No such nick/channel
+[19:21:35] blobb End of WHOIS list.
+-
+[19:21:36] <_nox> najo, veled ennyi volt a csevej, nyugodtan msg-zz, ugyse irok vissza. aztan kapaszkodj jol a joghezagadiba.. :D
+[19:21:53] <BenNihil> oke
+Session Close: Sun Jul 25 19:24:26 2004
+
+Session Start: Sun Jul 25 19:28:25 2004
+Session Ident: _nox
+-
+[19:28:29] _nox is ~asha@catv-506297e2.catv.broadband.hu * asha
+[19:28:30] _nox on #downtempo.hu 
+[19:28:30] _nox using extra.irc.hu EXTRA, Budapest, Hungary
+[19:28:30] _nox has been idle 1min 42secs, signed on Sun Jul 25 10:47:01
+[19:28:30] _nox End of WHOIS list.
+-
+[19:29:05] <BenNihil> aze megazt engeddmeghogy ezt a beszelgetest kitegyem valahova
+Session Close: Sun Jul 25 19:29:32 2004

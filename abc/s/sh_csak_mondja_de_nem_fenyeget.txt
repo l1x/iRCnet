@@ -1,0 +1,30 @@
+|15:15:59| # clon [~clon@DisConnectingPeople.a.la] has joined #coders.hu
+|15:16:12| (@_sh) clon
+|15:16:13| (@_sh) hallod
+|15:16:19| # mode/#coders.hu +v clon by _sh
+|15:16:26| (@_sh) te hozta ide a clonjaidat ?
+|15:16:28| (+clon) csa
+|15:16:45| (@_sh) te hoztad ide a clonjaidat ?
+|15:16:48| (@_sh) tegnap este
+|15:16:49| (@_sh) ?!
+|15:16:54| (+clon) nem en ... viszont parat (kolcson adtam)
+|15:17:00| (@_sh) aha
+|15:17:04| (@_sh) ugyes gyerek vagy
+|15:17:07| (+clon) nemvolltam 3napig
+|15:17:12| (@_sh) most mondom, h hamarosan elbukod oket
+|15:17:15| (@_sh) a tobbivel egyutt
+|15:17:16| (@_sh) eheh
+|15:17:37| (+clon) miert mit csinlltak ?
+|15:17:48| (@_sh) a semmit itt vicceskedett valaki
+|15:18:00| (@_sh) ennek az eredmenye bukta lesz a geci klonokat
+|15:18:12| (+clon) ertem
+|15:18:14| (@_sh) a kovetkezo az lesz, h rekurzivan fogok rmelni mindenkit
+|15:18:18| (@_sh) teged is beleertve
+|15:18:40| (+clon) mondom nekem semmi kozom hozza
+|15:18:41| (@_sh) utana ha az se eleg akkor tomcat fele teammel megyek hozzatok ki es agyonbaszlak a szeklabbal
+|15:18:45| (@_sh) nem fenyegeteskent
+|15:18:47| (@_sh) csak kozoltem.
+|15:18:50| (+litch) :DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+|15:18:51| (@_sh) napot.
+|15:19:17| (+clon) hmm
+

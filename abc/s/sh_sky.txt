@@ -1,0 +1,14 @@
+|09:05:47| (@bandy) mov adr, ax
+|09:05:55| (adr) []
+|09:06:04| (@_sh) xorl %eax, %eax
+|09:06:04| (@_sh) !!
+|09:06:09| (adr) yo _sh
+|09:06:10| (@_sh) ENNYI VOLTAL GECI
+|09:06:11| (@_sh) y0
+|09:06:15| (adr) whattup?
+|09:06:17| (@_sh) sky
+|09:06:21| (adr) hehe
+|09:06:22| (@_sh) es ott ?
+|09:06:23| (+litch) aahahahahhaha
+|09:06:28| (adr) cloudz
+

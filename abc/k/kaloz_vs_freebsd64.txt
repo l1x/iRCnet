@@ -1,0 +1,54 @@
+|11:00:25| (Kaloz) az a aja annak a gepnek h fekabsd vna rajta
+|11:00:29| (Kaloz) es minden 64bitre forgatva
+|11:00:33| (anyad) ehehe
+|11:00:40| (Kaloz) ugy meg kicsit sok memot zabal midnen
+|11:00:43| (anyad) errol kizarolag a freebsd tehet
+|11:00:46| (tonyo) mernemraktokra linusot
+|11:00:57| (anyad) sztem irj a support@freebsd.org ra h szarok vagytok
+|11:01:01| (Kaloz) mert a sok nigger sir h akkor lesz kieses
+|11:01:10| (Kaloz) igy emg attol van h szetswappeli magat a gep
+|11:01:20| (kodmon) most speciel nem kellene gerjednetek, a levelezes nem azon a gepen van
+|11:01:28| (kodmon) az josi altal telepitett 32 bites fekabsd
+|11:01:29| (anyad) ehehehe
+|11:01:33| (kodmon) es josi a szuk keresztmetszet :)
+|11:01:35| (Kaloz) anyad: miert, tud fekabsd 32bites useranddel dolgozni sparcon mint solaris em glinux/
+|11:01:38| (anyad) ne bantsatok a josit
+|11:01:57| (tonyo) milyen sparc az
+|11:02:05| (tonyo) nekem 6.1ek vannak sparcon64bit es semmi baja
+|11:02:07| (tonyo) atomstabil
+|11:02:09| (anyad) kalcsi nem tudom meg sose voltam annyira huje h 64bites rendszert hasznaljak
+|11:02:15| (tonyo) pedig a legalja gecire huzza az egyik sunomat
+|11:02:18| (anyad) tonyo jo mert te ertesz hozza
+|11:02:26| (anyad) nem az os tehet rola
+|11:02:34| (anyad) sajnos uid 0 hoz nem jar esz
+|11:02:47| (Kaloz) tonyo: enterprise 250
+|11:03:04| (tonyo) enyemis az
+|11:03:09| (Kaloz) tonyo: 2x300mhz, 896 ram asszem
+|11:03:10| (tonyo) idle time: 4-10%
+|11:03:14| (anyad) hehehe
+|11:03:18| (anyad) tonyo erdekes
+|11:03:24| (Kaloz) tonyo: de nalad is minden 64bitre van forgatva?
+|11:03:30| (anyad) valamit elrontottal ha neked megy a freebsd rajta
+|11:03:42| (Kaloz) anyad: shut up troll :p
+|11:03:44| (kodmon) ezen is megy
+|11:03:45| (tonyo) CPU states: 69.2% user,  0.0% nice, 26.8% system,  3.3% interrupt,  0.6% idle
+|11:03:45| (tonyo) Mem: 508M Active, 139M Inact, 193M Wired, 35M Cache, 111M Buf, 46M Free
+|11:03:46| (tonyo) Swap: 17G Total, 221M Used, 17G Free, 1% Inuse
+|11:03:48| (tonyo) kiszophattok
+|11:03:50| (anyad) ahahha
+|11:03:51| (tonyo) ennel nincs is stabilabb gepem
+|11:04:07| (Kaloz) tonyo: file /bin/echo
+|11:04:13| (tonyo) defa
+|11:04:19| (Kaloz) 64bit vagy nem?
+|11:04:25| (tonyo) /bin/echo: ELF 64-bit MSB executable, SPARC V9, version 1 (FreeBSD), dynamically linked (uses shared libs), stripped
+|11:04:41| (anyad) ahahahhaha
+|11:04:44| (tonyo) FreeBSD stigi 6.1-RC FreeBSD 6.1-RC #1: Mon May  1 11:41:41 UTC 2006     tonyo@stigi.gline.hu:/usr/obj/usr/src/sys/stigi  sparc64
+|11:04:46|  * anyad most mar sikit
+|11:04:52| (anyad) Kaloz ejnye bejnye
+|11:04:59| (anyad) ezt omst igy elrakom logba
+|11:05:00| (Kaloz) na ezert szar amugy fekabsd :p de ettol eltekintve sztem bennevan h ez egyrez regebbi, masreszt szarul vna felhuzva
+|11:05:04| (anyad) es minden reggel megnezem
+|11:05:07| (anyad) ahahaha bazmeg
+|11:05:09| (Kaloz) anyad: mit raksz el te havasi gyopar? :D
+|11:05:25| (tonyo) Kaloz: lassatok kivel van dolgotok
+

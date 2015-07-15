@@ -1,0 +1,4 @@
+|21:14:14| (fatso) hager: szerindted miert nincsen /dev/hda1 -em? mikor ra van duga a vinyo?
+|21:14:23| (fatso) hager: /proc/partitions ban sem talalhato
+|21:14:28| (@hager) talan meg nem hdA?
+

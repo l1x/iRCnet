@@ -1,0 +1,7 @@
+06:05:19 <vajtsz> naszoval valaki Sernet samba ?
+06:11:20 <vajtsz> nemnagyon talalok semmi doksit hozza
+06:13:51 <@koszik> mer mi az?
+06:17:48 <vajtsz> http://enterprisesamba.com/
+06:19:04 <@koszik> azt ugye tudod hogy attol enterprise valami hogy van hozza doksi/support?
+06:19:09 <@koszik> es nem attol, hogy rairjak hogy 'enterprise'
+06:19:41 <vajtsz> jahm, olvastam hupon h ez milyenjo...
