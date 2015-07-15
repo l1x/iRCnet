@@ -1,0 +1,17 @@
+|14:31:09| (h8pewou) enmeg leforditottam a bicsikszet ppc-re.. sztem en is vilagsztar vagyok
+|14:31:12| (grinder) DAYNA
+|14:31:30| (grinder) ejjen ejjen
+|14:31:37| (grinder) LEFORDITOTTA EMBEREK
+|14:31:50| (@litch) ahahha
+|14:32:05| (@litch) en meg apacsot mikrohullamu sutore
+|14:32:16| (grinder) istenke megved minden rossztol
+|14:32:38| (grinder) litch: en irtam a microsutore compilert
+|14:32:42| (grinder) amivel forgattad
+|14:32:54| (h8pewou) de a mikrora nem lehet felrakni a bash-t a tobbit meg nem tom hasznalni szal maradt a ppc... :(
+|14:33:03| (@__kewl) grinder, csak portoltad abbol, amit en irtam sprheltre
+|14:33:10| (@__kewl) sparheltre
+|14:33:19| (grinder) az olyan mint a portfis?
+|14:33:30| (grinder) vagy hogyhijjak szepen a SOPRUT
+|14:33:35| (@__kewl) hat alapvetoen mas architektura
+|14:33:39| (grinder) :>
+

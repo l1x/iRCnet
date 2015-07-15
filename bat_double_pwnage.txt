@@ -1,0 +1,15 @@
+|15:05:15| (BaT_) azt mondja meg valaki, hogy ha unix userlandban a legtobb command a rekurziv mukodeshez a -r vagy -R kapcsolot
+                  varja
+|15:05:22| (BaT_) akkor az mkdir miert a -p-t?
+|15:05:31| (@l1x) mert az nem rekurziv
+|15:05:31| (@ahoka) mert az nem rekurziv mukodes
+|15:05:34| (@l1x) :DDDD
+|15:05:36| (@l1x) pwned
+|15:05:37| (BaT_) faszt nem
+|15:05:38| (@ahoka) pwnd
+|15:05:40| (@ahoka) basz
+|15:05:42| (@l1x) :D :D :D
+|15:05:42| (@ahoka) :D
+|15:05:49| (@l1x) sirok
+|15:05:51| (@ahoka) double win
+

@@ -1,0 +1,6 @@
+|15:33:09| (litch) bishop du.?
+|15:33:26| (litch) sztem mi ktkban kockulunk meg szivunk gerjedunk meg csajozunk
+|15:33:36| (bishop) bishop% du
+|15:33:36| (bishop) 12034   .
+|15:33:36| (bishop) bishop%
+

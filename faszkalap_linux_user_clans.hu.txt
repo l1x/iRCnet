@@ -1,0 +1,52 @@
+http://www.clans.hu oldal tulajdonosa
+
+nightmare of hungary says (21:25):
+csao
+nightmare of hungary says (21:25):
+hallom nem tudod miaza sftp/scp
+nightmare of hungary says (21:25):
+annak ellenere h linuxot hasznalsz
+nightmare of hungary says (21:25):
+man scp
+nightmare of hungary says (21:25):
+amit fel akar tolteni hozzank azt
+molé - www.clans.hu says (21:25):
+nem türöm ám senkit.l hogy fikázzon és ocsmároljon
+nightmare of hungary says (21:25):
+scp filenev username@host:.
+nightmare of hungary says (21:25):
+ahaha
+molé - www.clans.hu says (21:25):
+én csak a tulajdonosa vagyok a servernek
+nightmare of hungary says (21:25):
+ne egesd magad
+molé - www.clans.hu says (21:26):
+ez nem azt jelenti hogy kell is értenem hozzá
+nightmare of hungary says (21:26):
+masold fel
+molé - www.clans.hu says (21:26):
+aggy sima ftp-t és kész
+nightmare of hungary says (21:26):
+nincsen ftp
+nightmare of hungary says (21:26):
+scp
+nightmare of hungary says (21:26):
+linux parancs
+molé - www.clans.hu says (21:26):
+én nem nyulok a linuxhoz mert nem értek hozzá
+nightmare of hungary says (21:26):
+akkor miert van az a gepeden
+molé - www.clans.hu says (21:26):
+mert jobb midn a win
+nightmare of hungary says (21:26):
+ahahahahahaha
+molé - www.clans.hu says (21:26):
+van hozzáért. emberem de fasságokkal nem fogok bombázni
+nightmare of hungary says (21:26):
+scp amifelakarsztolteni tempp@nehuzz.be:.
+nightmare of hungary says (21:26):
+ezt a parancsot add ki
+nightmare of hungary says (21:27):
+a gepeden
+nightmare of hungary says (21:27):
+es ird be a passzordot

@@ -1,0 +1,1620 @@
+[00:01] <ROMO> na
+[00:02] <W_Irving> joejt
+[00:03] <Syrus> joej
+[00:12] gorfi (gorfi@nova.eggdrop.hu) left #coders.hu.
+[00:16] <ROMO> MIVAAAAAAAAAA
+[00:17] <DeFrog> picsabaszó
+[00:17] <DeFrog> segged kivaaaaaaaaaaaaaa
+[00:18] DeFrog (~m2rc@primproxy.dunakanyar.net) left irc: "<DeFrog> bye"
+[00:21] <kuta> KURVA ANYÁTOK
+[00:22] <ROMO> nem
+[00:22] <kuta> erõteljes megböbbenést váltott ki belõlem a válaszod ROMO
+[00:23] <kuta> _böbbenést_
+[00:23] Action: briwe is away, not here, (log\on pager\on)
+[00:30] szasz1 (szasz@82-131-186-44.vnet.hu) left irc: Connection reset by peer
+[00:31] lobig (lobig@catv-50628cdf.catv.broadband.hu) joined #coders.hu.
+[00:31] <szoptok-e> lobig a tetu strici kurva anyád.
+[00:31] <lobig> písz
+[00:32] szasz1 (szasz@82-131-186-44.vnet.hu) joined #coders.hu.
+[00:32] <szoptok-e> szasz1 a domina buta kurva anyád.
+[00:33] <xdebian> joestet kivanok, a jokurva anyatok
+[00:33] <lobig> milo nyert bassza meg a mindenki
+[00:36] lobig (lobig@catv-50628cdf.catv.broadband.hu) left #coders.hu.
+[00:37] <xdebian> milo milo, ha tovig lecumilo
+[00:41] <litch> ?
+[00:42] <litch> |23:14:24| # mode/#eger +b *!*litch@melyseg.hu by Leanyka
+[00:42] <litch> |23:14:24| # litch was kicked from #eger by Pentek [banned:coders.hu]
+[00:43] <litch> :)
+[00:43] <xdebian> eger csatirol automatikusan banolva van mindenki aki szerepel a codersen
+[00:44] <ROMO> xdebian te mier nem mesz innen anyad pudvas picsajaba?
+[00:44] <xdebian> ROMO: mer anyad itt van a szek alatt es erosen cumizik...
+[00:44] <ROMO> akko gyurja dumara mer ez eleg gyenge LEVEL OKES OCSI@!?!@?
+[00:45] <litch> |00:42:18| Ignoring ALL from xdebian
+[00:45] <xdebian> ah ah ah :)
+[00:45] <xdebian> az a gyenge ahogy nyomja
+[00:46] Topic changed on #coders.hu by xdebian!~xdebian@kakukk.bdtf.hu: pöcsgeci | [00:45:00] -<litch>- I00:42:18I Ignoring ALL from xdebian | ah ah ah 
+[00:47] Topic changed on #coders.hu by ROMO!szopo@89.83-182-adsl-pool.axelero.hu: nem
+[00:47] <xdebian> hm...
+[00:47] <xdebian> :)
+[00:48] <ROMO> barcsak lenne opom es kibanolhatnalak ;(
+[00:48] <litch> hhahahah
+[00:48] <litch> :)))
+[00:48] Topic changed on #coders.hu by xdebian!~xdebian@kakukk.bdtf.hu: [00:48:02] -<@ROMO>- barcsak lenne opom es kibanolhatnalak ;(
+[00:49] <xdebian> ./mode #coders.hu +o ROMO
+[01:02] <ROMO> rak faszae nemmegy a tehenturo
+[01:18] Vlad^home (~defo@213.134.0.111) joined #coders.hu.
+[01:18] <szoptok-e> Vlad^home a fekalofil tetu kurva anyád.
+[01:18] <Vlad^home> jo estet kivanok
+[01:18] <Vlad^home> ugy nevezett "koderek" :)))))
+[01:19] <ROMO> merkene annak lennunk.
+[01:20] <Vlad^home> ROMO !!!
+[01:20] <Vlad^home> ezer eve
+[01:20] <ROMO> vlád.
+[01:22] <Vlad^home> infobot hova tunt ?
+[01:22] <ROMO> ottvan e
+[01:23] <ROMO> ?? vlad
+[01:23] <ROMO> ?? _vlad_
+[01:23] <Vlad^home> o!!!!
+[01:23] <Vlad^home> ??? _vlad_
+[01:23] <ROMO> asse most vot.
+[01:23] <Vlad^home> ??? vlad
+[01:23] <Vlad^home> ehh, regi szep idok
+[01:23] <Vlad^home> amikor meg kodoltam...
+[01:24] <ROMO> 2000 be ma nemsok kodolas vot itt
+[01:24] <ROMO> eheh
+[01:24] <Vlad^home> dehogy
+[01:24] <Vlad^home> bishop kodlta a raytracereket
+[01:24] <Vlad^home> en a 256b introkat
+[01:24] <ROMO> bar en 2000 nyarvegen jottem ide talan
+[01:24] <Vlad^home> dr - kodolta pascalban valamit
+[01:24] <Vlad^home> btw, hol van dr ??
+[01:25] <ROMO> szal januarban lehetett :D
+[01:25] <ROMO> alszik
+[01:25] <quino> kurva anyatok kurva anyatok kurva anyatok kurva anyatok kurva anyatok kurva anyatok kurva anyatok kurva anyatok kurva anyatok kurva anyatok kurva anyatok kurva anyatok kurva anyatok kurva anyatok kurva anyatok kurva anyatok kurva anyatok kurva anyatok kurva anyatok kurva anyatok kurva anyatok kurva anyatok kurva anyatok kurva anyatok kurva an
+[01:25] <ROMO> Vlad^home nincs szintiforrasod cben?
+[01:27] <Vlad^home> Ittt, magyarorszagon, nincsen (keddig jottem le ide)
+[01:27] <Vlad^home> de az elmeletet elmondhatom
+[01:27] <ROMO> aszt tudom enis
+[01:27] <ROMO> legalabbis analog oldalrol
+[01:28] <bishop> ja
+[01:28] <Vlad^home> tipp: fuggvenyeket #define -kent definiald
+[01:28] Action: bishop kodolta a raytracert
+[01:28] <Vlad^home> e.g, sinuszgorbe = #define sin t*(x);
+[01:29] <quino> ojejoe
+[01:29] <Vlad^home> noise-ben meg SOSE hasznald random-t. Gaussian white noise, ezek ernek valamit
+[01:29] <Vlad^home> snare-nek tokjo
+[01:29] <ROMO> es valami tombbe bufferelem a cuccot?
+[01:30] <ROMO> meg hogy csinajjak tobb lfo -t
+[01:30] <ROMO> marmint hogy adogatom ossze
+[01:30] <ROMO> vagy ho gycsatlom ra egy burkolora
+[01:31] <Vlad^home> lfo az mas
+[01:31] <Vlad^home> hangszerenkent osztogatom oket (en)
+[01:31] <Vlad^home> kell egy 8192b-s buffer
+[01:31] <ROMO> najo de az csak amplitudora csinalod akko nem?
+[01:31] <ROMO> en meg akarok sok mindenre
+[01:31] <Vlad^home> oda rakod az osszeadagolt cuccot
+[01:32] <Vlad^home> LFO barmilyen parametert vezerelhet, btw
+[01:32] <ROMO> igen
+[01:32] <Vlad^home> {http://cnx.rice.edu/content/m11217/latest/
+}[01:32] <Vlad^home> btw, itt van minen info Gaussian noise-rol
+[01:32] <ROMO> nincs valahl neten forras vagy valami iromany errol komplett?
+[01:33] <Vlad^home> {www.programmersheaven.com
+}[01:33] <Vlad^home> ott van egy par, csak ra kell keresni
+[01:33] <ROMO> mongyuk ijen kepletekkel haggyal
+[01:33] <Vlad^home> figyelmeztetes: csomo szar van ottan
+[01:34] <ROMO> es te mi az anyadat csinalsz egyebkent most
+[01:36] <Vlad^home> remeg a kezem
+[01:36] <Vlad^home> pihenek
+[01:36] <ROMO> ahahah
+[01:37] <ROMO> ugyertem middogozo vay holvagy
+[01:37] <ROMO> szanatorium?:D
+[01:37] <Vlad^home> eppensegben itt Budapesten
+[01:37] <Vlad^home> kedden mar Oroszorszagban lezek megint
+[01:38] <ROMO> zsir
+[01:38] <ROMO> hideg van ott most?
+[01:38] <Vlad^home> mit dolgozo...C/C++/asm
+[01:38] <ROMO> es miket irsz
+[01:38] <Vlad^home> 25+
+[01:39] <Vlad^home> POSIX alatt mindenfeleket
+[01:39] <Vlad^home> linux, bsd, solaris. stb unix...
+[01:39] <ROMO> aha
+[01:39] <Vlad^home> ha adhatok tippet
+[01:40] <Vlad^home> azert ne nezd le ezeket a fuggvenyeket
+[01:40] Xender (^Cimi@p4-3007.uk2net.com) joined #coders.hu.
+[01:40] <szoptok-e> Xender a feldarabolt fodorhájas kurva anyád.
+[01:40] <Vlad^home> csomo mindent ki lehet hozni beloluk
+[01:40] <ROMO> linuxon mosma az uj kernelekbe van ez a nativ threades geci a pthread hejett?
+[01:40] <Vlad^home> anno, amikor statisztikat irtam, pont a white-noise-t hasznaltam random -nak
+[01:40] <nori> anno, amikor statisztikat irtam, pont a white-noise-t hasznaltam random -nak
+[01:40] <Vlad^home> nemnem
+[01:41] <Vlad^home> pthreads marad 2.6-ben ids
+[01:41] <Vlad^home> pthreads marad 2.6-ben is
+[01:41] <Vlad^home> pthreads egy erdekes cucc
+[01:41] <Vlad^home> nem kompatibilis semmivel. azert hasznalnak, mert a szoftver 90%-a avval van irodva
+[01:41] <Vlad^home> pl gtk/gtk2/qt
+[01:41] <Vlad^home> X.org/X11
+[01:42] <xdebian> ROMO vegre valami ertelem is
+[01:42] <xdebian> hi Vlad^home
+[01:42] <Vlad^home> xdebian szia
+[01:42] <Vlad^home> xdebian: orulok, hogy rajtam kivul vannak itt debianosok
+[01:42] <Vlad^home> xdebian: stable/unstable?
+[01:43] <xdebian> Vlad^home amikor te jartal ide, akkor mar ment az anyazas, meg a flood?
+[01:43] <xdebian> stable
+[01:43] <xdebian> meg a bnc is.)
+[01:43] <na> {http://fx.tx.hu/codershu.jpg
+}[01:43] <Vlad^home> xdebian: igen, de remelem ez a nehezkes idoszak elmult
+[01:43] <xdebian> a-a:)
+[01:44] <Vlad^home> xdebian: nalam, Moszkvaban unstable figyel. Javaslom megnezni az utolso GNOME-t
+[01:44] <xdebian> egyfolytaban nyomjak a cuccot mindenhova
+[01:44] <Vlad^home> kb 25%-al gyorsabb az elozonel
+[01:44] <Vlad^home> meg X.org-t
+[01:44] <xdebian> moszkvaban vagy?
+[01:44] <xdebian> az lol:)
+[01:44] <xdebian> ocseny lol
+[01:44] <xdebian> :)
+[01:44] <Vlad^home> xdebian: nem, perpill Budapesten
+[01:44] <Vlad^home> kedden megyek visza
+[01:44] <xdebian> azt lekodoltam a home utotagbol.))
+[01:45] <xdebian> telleg orulok vegre valami ertelmeset is latok ezen a csatin
+[01:45] <Vlad^home> keddig :)))
+[01:45] <xdebian> orulok neked, vlad
+[01:45] <xdebian> .)
+[01:45] Xender (^Cimi@p4-3007.uk2net.com) left #coders.hu.
+[01:45] <xdebian> bar nem tom ki vagy.)
+[01:46] <Vlad^home> Netdevil-t ismered ?
+[01:46] <Vlad^home> amennyiben igen, akkor engem is
+[01:46] <xdebian> nem talalkoztunk:)
+[01:47] <ROMO> enma 2 eve nem lattam debiant
+[01:47] <ROMO> meguntam a ganyolast ;(
+[01:47] <Vlad^home> Norbit esetleg ?
+[01:47] <Vlad^home> vagy MLE-t ?
+[01:47] <Vlad^home> 98-ben mi voltunk MLE elso tagjai
+[01:47] <xdebian> nekem suse 9.1 tetszik annyibol, hogy siman fut alatta win:)
+[01:47] <xdebian> norbi?
+[01:47] <Vlad^home> (Magyar Linux Egyesulet)
+[01:48] <xdebian> nah...
+[01:48] <xdebian> nagyon nem regen foglalkozok linuxszal
+[01:48] <xdebian> :)
+[01:48] <Vlad^home> most mas a neve, ha jol tudom
+[01:48] <xdebian> iden lattam eloszor linuxot sztem
+[01:48] <xdebian> .)
+[01:48] <Vlad^home> ugye hogy undorito es szanalmas?
+[01:48] <xdebian> linux?
+[01:48] <Vlad^home> jaja
+[01:48] <xdebian> ah:)
+[01:49] <Vlad^home> kiveve debiant
+[01:49] <Syrus> FreeBSD rulz
+[01:49] <Vlad^home> apt miatt meg tartja a szintet
+[01:49] <Vlad^home> ja, BSD rulez
+[01:49] <Syrus> helyes
+[01:49] <Syrus> :)
+[01:49] <ROMO> felebrette szajruzs
+[01:49] <Vlad^home> Syrus: make world
+[01:49] <Syrus> valaki megcsorgetett
+[01:49] <xdebian> hat... egy winfos szervert lehet hamarabb megvedek, mint egy linuxost:)
+[01:49] <xdebian> hm... syrus bsd erdekel engem is.))
+[01:50] <Vlad^home> Syrus: nalam anno p233 volt. make world 2 napot foglalt
+[01:50] <xdebian> csak meg semmit nem tok :)
+[01:50] <xdebian> ah ah .)
+[01:50] <xdebian> lehet aze mer egy lama fasz vagyok:)
+[01:50] <ROMO> szajruzs supergamez.hu ra lehetett egyetlen linkkel elpostolni hozzaszolast, szal oda megoldhato amit akarunk eheh, csak nemtuttam felmenni a tehenturora pythont iri
+[01:50] <Syrus> vlad, en multheten raktam fel egy regi hp netserverre
+[01:50] <Vlad^home> egy kutya, POSIX
+[01:50] <Syrus> es 3 napig ment
+[01:50] <Syrus> ahah
+[01:50] <Vlad^home> azert nem szeretem most linuxot, mert rossz iranyba terjed
+[01:50] <Syrus> ROMO, valszeg holnap menni fog
+[01:50] <Syrus> felhivtam
+[01:50] <Syrus> allitolag olyan sulyosan kibasztak a biztositekot
+[01:50] <Syrus> hogy nincs aram az epuletben
+[01:51] <Vlad^home> ahelyett hogy vegre lemondananak az UNIX-os avataizmosrol es bekapcsolnanak X coret kernelbe, probalnak szuzlanyt jaccani
+[01:51] <Vlad^home> ezert minden grafika kurvalassu
+[01:51] <Vlad^home> OSX peldanak ellenere
+[01:51] <ROMO> par hete raktam freebsdt egy hejre es kurvara megteccett az install is meg a ports rencere is. arrol nemis beszelve hogy magatol bekofnigolt egy ojan scsi meghajtot amihez a neten csak rh7.2 hoz vot driver debian alatt nemtuttok elinditani
+[01:51] <Syrus> egyszeruen nevetseges amit a linuxxal most csinalnak
+[01:52] <Vlad^home> mondom, OSX BSD alapu
+[01:52] <Syrus> amugy megszunt a grsec vagy mi az isten van?
+[01:52] <Vlad^home> kurvagyors, es nagyon gyors grafikaja van
+[01:52] <Syrus> tegnap megszunt a grsecurity.net ?
+[01:52] <Vlad^home> unix kernel + MacOS gfx kernel
+[01:52] karcsi (~u@nilus-2934.adsl.datanet.hu) joined #coders.hu.
+[01:52] <szoptok-e> karcsi a rohatt hempo kurva anyád.
+[01:52] _styx (~stx@217.27.212.25) left #coders.hu (_styx).
+[01:52] <ROMO> karolyom.
+[01:52] <karcsi> kurva anyad kurva anyad kurva anyad kurva anyad kurva anyad kurva anyad kurva anyad kurva anyad kurva anyad kurva anyad kurva anyad kurva anyad kurva anyad kurva anyad kurva anyad kurva anyad kurva anyad kurva anyad kurva anyad kurva anyad kurva anyad kurva anyad kurva anyad kurva anyad kurva anyad kurva anyad kurva anyad kurv
+[01:52] <Vlad^home> linuxos elvetemult gecik meg probalnak valamit jaccani
+[01:52] <tonyoid>  osztja itt az eszt a macosxrol
+[01:53] <Syrus> karcsi
+[01:53] <Syrus> mit anyazol?
+[01:53] <Syrus> ahah
+[01:53] <Vlad^home> tonyoid: erm...debuggoltad ? en igen
+[01:53] <tonyoid> Vlad^home: ahahah
+[01:53] <tonyoid> mekkora lewzer vagy
+[01:53] <tonyoid> ctcpzzel okoskodas elott
+[01:53] <tonyoid> nem fake
+[01:53] <Vlad^home> nah, kezdodik a szivatas. #coders.hu 2 evvel ezelott
+[01:54] <Syrus> nem mar megvaltoztunk
+[01:54] <tonyoid> a vlad nem roman nev?
+[01:54] <Syrus> vladimir
+[01:54] <Syrus> ?
+[01:54] <Syrus> ;>
+[01:54] <Syrus> orosz
+[01:54] <Vlad^home> tonyoid: irssi. es?
+[01:54] <tonyoid> vlad tepes
+[01:54] <ROMO> tonyoid hagy enis!
+[01:54] <tonyoid> Vlad^home: te utolso paraszt
+[01:54] <Vlad^home> mind1, ignore
+[01:55] <tonyoid> 01:58 CTCP VERSION reply from tonyoid: irssi v0.8.9 - running on Darwin Power 
+[01:55] <tonyoid>           Macintosh
+[01:55] <tonyoid> 01:59 Vlad^home [~defo@213.134.0.111] requested CTCP VERSION from tonyoid: 
+[01:55] <tonyoid> 01:59 ROMO [szopo@8
+[01:55] <tonyoid> csak az eleje a lenyeg
+[01:55] <tonyoid> osx-et debugolt de nem veszi eszre az os-t
+[01:55] <tonyoid> lepattant fasz vagy aki okoskodik
+[01:55] <Vlad^home> sot, leave. meg csak ez hianyzott
+[01:55] Vlad^home (~defo@213.134.0.111) left #coders.hu.
+[01:55] <tonyoid> nah igy
+[01:55] <ROMO> tonyoid nebancsadma vladot baszki :D
+[01:55] <Syrus> :D
+[01:55] <tonyoid> minek osztja az eszt olyan aki meg nem latott macet/macos-t
+[01:56] <karcsi> csubákollak kedveskéim :*
+[01:56] <ROMO> k4r352
+[01:56] <Syrus> karolybacsi frakkot kikene vinni setalni
+[01:56] <karcsi> k4rch33
+[01:56] <ROMO> karcsi remelem nem fetmozba vota eheh
+[01:57] <karcsi> dolgosztam eheh
+[01:57] <Syrus> holnapvan a sting?
+[01:57] Vlad^home (~defo@213.134.0.111) joined #coders.hu.
+[01:57] <szoptok-e> Vlad^home a pedofilfing pókvalagú kurva anyád.
+[01:57] <Vlad^home> atkozott autojoin
+[01:57] <tonyoid> na anyadba
+[01:57] <Syrus> :(
+[01:57] <Vlad^home> ROMO - igen ?
+[01:57] <tonyoid> raverek egy macos logot gecibol
+[01:58] <tonyoid> mosolygos finder ikont
+[01:58] <karcsi> bazmeg, a stinget stringnek olvasom, a macost meg macrosnak..
+[01:58] <Syrus> karcsi, ahaha nehez napod volt akkor
+[01:58] <karcsi> úgyhogy elkussolhatnátok végre
+[01:58] <tonyoid> ha kavet bufogsz, es recskazol akkor biztos lehetsz benne h koder vagy
+[01:58] <karcsi> KURVA ANYÁTOKAT ! KURVA ANYÁTOKAT ! KURVA ANYÁTOKAT ! KURVA ANYÁTOKAT ! KURVA ANYÁTOKAT ! KURVA ANYÁTOKAT ! KURVA ANYÁTOKAT ! KURVA ANYÁTOKAT ! KURVA ANYÁTOKAT ! KURVA ANYÁTOKAT ! KURVA ANYÁTOKAT ! KURVA ANYÁTOKAT ! KURVA ANYÁTOKAT ! KURVA ANYÁTOKAT ! KURVA ANYÁTOKAT ! KURVA ANYÁTOKAT ! KURVA ANYÁTOKAT ! KURVA ANYÁTOKAT ! KURVA ANYÁTOKAT ! KURVA ANYÁTOKAT ! KURVA ANYÁTOKAT ! KURVA ANYÁTOKAT ! KURVA ANYÁTOKAT ! KURVA ANYÁTOKAT ! KURVA ANYÁTOKAT
+[01:58] <karcsi> KURVA ANYÁTOKAT ! KURVA ANYÁTOKAT ! KURVA ANYÁTOKAT ! KURVA ANYÁTOKAT ! KURVA ANYÁTOKAT ! KURVA ANYÁTOKAT ! KURVA ANYÁTOKAT ! KURVA ANYÁTOKAT ! KURVA ANYÁTOKAT ! KURVA ANYÁTOKAT ! KURVA ANYÁTOKAT ! KURVA ANYÁTOKAT ! KURVA ANYÁTOKAT ! KURVA ANYÁTOKAT ! KURVA ANYÁTOKAT ! KURVA ANYÁTOKAT ! KURVA ANYÁTOKAT ! KURVA ANYÁTOKAT ! KURVA ANYÁTOKAT ! KURVA ANYÁTOKAT ! KURVA ANYÁTOKAT ! KURVA ANYÁTOKAT ! KURVA ANYÁTOKAT ! KURVA ANYÁTOKAT ! KURVA ANYÁTOK
+[01:58] <karcsi> KURVA ANYÁTOKAT ! KURVA ANYÁTOKAT ! KURVA ANYÁTOKAT ! KURVA ANYÁTOKAT ! KURVA ANYÁTOKAT ! KURVA ANYÁTOKAT ! KURVA ANYÁTOKAT ! KURVA ANYÁTOKAT ! KURVA ANYÁTOKAT ! KURVA ANYÁTOKAT ! KURVA ANYÁTOKAT ! KURVA ANYÁTOKAT ! KURVA ANYÁTOKAT ! KURVA ANYÁTOKAT ! KURVA ANYÁTOKAT ! KURVA ANYÁTOKAT ! KURVA ANYÁTOKAT ! KURVA ANYÁTOKAT ! KURVA ANYÁTOKAT ! KURVA ANYÁTOKAT ! KURVA ANYÁTOKAT ! KURVA ANYÁTOKAT ! KURVA ANYÁTOKAT ! KURVA ANYÁTOKAT ! KURVA ANYÁTOKAT
+[01:58] <ROMO> Vlad^home semmi extra csak nyugottan maradhacc :D
+[01:59] <Vlad^home> btw,holnap lesz Sting BP-n 
+[01:59] <ROMO> Vlad^home ja csak annyian lesznek hogy keptelenseg lesz
+[01:59] <Vlad^home> karcsi: gratulalok a zaszlonak, jol esett. komolyan
+[01:59] <Syrus> pocok eus zaszloja kene
+[01:59] <Vlad^home> mostanaban csak nemet meg angol zaszlakt latom Magyarorszagon
+[01:59] <ROMO> Syrus az az enyem
+[01:59] <Vlad^home> valamiert
+[01:59] <ROMO> !
+[01:59] <Syrus> OH
+[01:59] <Syrus> nyomdbe
+[02:00] <ROMO> nemtomholvan
+[02:00] <tonyoid> najo
+[02:00] <Vlad^home> volt is egy poen
+[02:00] <tonyoid> almodok anyatokkal
+[02:00] <Vlad^home> kimentem balcsira
+[02:00] <karcsi> eheh
+[02:00] <Vlad^home> akartam venni kajat
+[02:00] <Syrus> magyarul mar nincskirva semmi
+[02:00] <karcsi> vlad burkolózz be a lobogómba, testileg lelkikleg
+[02:00] <Syrus> ebbe semmi meglepo
+[02:01] <Vlad^home> odamegyek a kajaldahoz, mondom csajnak "Egy nagy hamburgert kerek"
+[02:01] <Syrus> en is mar ugy kerem hogy "Zwei Bier Bitte"
+[02:01] <karcsi> vlad szóval csajozol?
+[02:01] <Vlad^home> o meg "Ich nicht spreche zie ungarn"
+[02:01] <Syrus> AHAH
+[02:01] <Vlad^home> na, ez total achtung
+[02:01] <Vlad^home> assztem mar atmentem a hataron es nemetorszagba kerultem
+[02:01] Brybubba (Brybubba@208.251.137.95) joined #coders.hu.
+[02:01] <szoptok-e> Brybubba a droid disznó kurva anyád.
+[02:02] <Syrus> lehet hogy egy sorban allo holgyhoz beszeltel
+[02:02] <karcsi> ahah
+[02:02] <karcsi> szoptok-em add már ide a szkripted kibaszottul háj
+[02:02] <Syrus> Brybubba se magyar
+[02:03] <karcsi> droid disznó ahah
+[02:03] <Syrus> karcsi, randomra veszi kis valami adatbazisbol a szavakat
+[02:03] Syrus (Syrus@abuse.kralj.net) left #coders.hu (cycle).
+[02:03] Syrus (Syrus@abuse.kralj.net) joined #coders.hu.
+[02:03] <szoptok-e> Syrus a pudvás fasznyaló kurva anyád.
+[02:03] Syrus (Syrus@abuse.kralj.net) left #coders.hu (cycle).
+[02:03] Syrus (Syrus@abuse.kralj.net) joined #coders.hu.
+[02:03] <szoptok-e> Syrus a redvás hempo kurva anyád.
+[02:03] <Syrus> ahah kibaszok vele
+[02:03] <karcsi> csak a jelzõket randomizálja
+[02:03] <karcsi> hozod a botokat? 
+[02:04] Nizozemc (~bl4ckb1rd@213-84-202-5.adsl.xs4all.nl) joined #coders.hu.
+[02:04] Ipv100 (datax@kadox.dnett.no) joined #coders.hu.
+[02:04] Klub-Kis (black@krt.klub-kis.si) joined #coders.hu.
+[02:04] <szoptok-e> Nizozemc a köcsög féreg kurva anyád.
+[02:04] <szoptok-e> Ipv100 a pókvalagú homokbánya kurva anyád.
+[02:04] Funshit (Syrus@funsite.us) joined #coders.hu.
+[02:04] Ipv50 (datax@kadox.dnett.no) joined #coders.hu.
+[02:04] <szoptok-e> Klub-Kis a tályogos csirkebaszó kurva anyád.
+[02:04] <szoptok-e> Funshit a sakál droid kurva anyád.
+[02:04] <szoptok-e> Ipv50 a gojvás paraszt kurva anyád.
+[02:04] Kakukk (~Kakukk@moszat.bdtf.hu) joined #coders.hu.
+[02:04] Gimnazija (~Gimnazija@194.249.183.135) joined #coders.hu.
+[02:04] Ipv4 (black@3ffe:80ee:158c:0:0:0:0:1) joined #coders.hu.
+[02:04] Ipv2x3 (black@loooool.org) joined #coders.hu.
+[02:04] <szoptok-e> Kakukk a drogos cigányasszony kurva anyád.
+[02:04] Cesh (white@193.87.59.111) joined #coders.hu.
+[02:04] Czesch (white@193.87.59.110) joined #coders.hu.
+[02:04] Nizozemka (~blackey@213-84-202-5.adsl.xs4all.nl) joined #coders.hu.
+[02:04] <szoptok-e> Gimnazija a kettébaszott gecinyelo kurva anyád.
+[02:04] <szoptok-e> Ipv4 a fekéjes pozdorjávákúrt kurva anyád.
+[02:04] <szoptok-e> Ipv2x3 a zsidó strici kurva anyád.
+[02:04] <szoptok-e> Cesh a hugykatlan nigger kurva anyád.
+[02:04] szoptok-e kicked from #coders.hu by nori: flood
+[02:04] <Syrus> nesze
+[02:04] <karcsi> <szoptok-e> Ipv100 a pókvalagú homokbánya kurva anyád.
+[02:04] <Syrus> ennyi
+[02:04] szoptok-e (~aranyoska@catv-5062fc7e.catv.broadband.hu) joined #coders.hu.
+[02:04] <szoptok-e> szoptok-e a rákos feldarabolt kurva anyád.
+[02:04] <karcsi> AHAH
+[02:04] Cesh (white@193.87.59.111) left #coders.hu.
+[02:04] Czesch (white@193.87.59.110) left #coders.hu.
+[02:04] Ipv100 (datax@kadox.dnett.no) left #coders.hu (Ipv100).
+[02:04] Ipv4 (black@3ffe:80ee:158c:0:0:0:0:1) left #coders.hu (Ipv4).
+[02:04] Ipv2x3 (black@loooool.org) left #coders.hu (Ipv2x3).
+[02:04] Nizozemc (~bl4ckb1rd@213-84-202-5.adsl.xs4all.nl) left #coders.hu.
+[02:04] Funshit (Syrus@funsite.us) left #coders.hu (Funshit).
+[02:04] Kakukk (~Kakukk@moszat.bdtf.hu) left #coders.hu.
+[02:04] Gimnazija (~Gimnazija@194.249.183.135) left #coders.hu (Gimnazija).
+[02:04] Klub-Kis (black@krt.klub-kis.si) left #coders.hu (Klub-Kis).
+[02:04] Nizozemka (~blackey@213-84-202-5.adsl.xs4all.nl) left #coders.hu.
+[02:04] Ipv50 (datax@kadox.dnett.no) left #coders.hu (Ipv50).
+[02:04] Dominoo (~schollie@195.228.169.226) joined #coders.hu.
+[02:04] <szoptok-e> Dominoo a patkány varacskos kurva anyád.
+[02:04] Ipv2x3 (black@loooool.org) joined #coders.hu.
+[02:04] Ipv4 (black@3ffe:80ee:158c:0:0:0:0:1) joined #coders.hu.
+[02:04] Gimnazija (~Gimnazija@194.249.183.135) joined #coders.hu.
+[02:04] Ipv100 (datax@kadox.dnett.no) joined #coders.hu.
+[02:04] Klub-Kis (black@krt.klub-kis.si) joined #coders.hu.
+[02:04] <szoptok-e> Ipv2x3 a makkszívó varacskos kurva anyád.
+[02:04] <szoptok-e> Ipv4 a ganéeregeto szarházi kurva anyád.
+[02:04] <szoptok-e> Gimnazija a pókvalagú buta kurva anyád.
+[02:04] <szoptok-e> Ipv100 a szárazleprás picsafüst kurva anyád.
+[02:04] <szoptok-e> Klub-Kis a feldarabolt puffatt kurva anyád.
+[02:04] Kakukk (~Kakukk@moszat.bdtf.hu) joined #coders.hu.
+[02:04] Cesh (white@193.87.59.111) joined #coders.hu.
+[02:04] Czesch (white@193.87.59.110) joined #coders.hu.
+[02:04] Ipv50 (datax@kadox.dnett.no) joined #coders.hu.
+[02:04] Nizozemc (~bl4ckb1rd@213-84-202-5.adsl.xs4all.nl) joined #coders.hu.
+[02:04] Funshit (Syrus@funsite.us) joined #coders.hu.
+[02:04] Nizozemka (~blackey@213-84-202-5.adsl.xs4all.nl) joined #coders.hu.
+[02:04] <szoptok-e> Kakukk a hímringyó pingvin kurva anyád.
+[02:04] <szoptok-e> Cesh a picsafüst puffatt kurva anyád.
+[02:04] <szoptok-e> Czesch a kettébaszott pöcsmag kurva anyád.
+[02:04] <szoptok-e> Ipv50 a mocsok pukkancs kurva anyád.
+[02:04] szoptok-e kicked from #coders.hu by nori: flood
+[02:05] Nizozemc (~bl4ckb1rd@213-84-202-5.adsl.xs4all.nl) left #coders.hu.
+[02:05] Klub-Kis (black@krt.klub-kis.si) left #coders.hu (Klub-Kis).
+[02:05] Ipv4 (black@3ffe:80ee:158c:0:0:0:0:1) left #coders.hu (Ipv4).
+[02:05] Ipv2x3 (black@loooool.org) left #coders.hu (Ipv2x3).
+[02:05] Cesh (white@193.87.59.111) left #coders.hu.
+[02:05] Czesch (white@193.87.59.110) left #coders.hu.
+[02:05] Nizozemka (~blackey@213-84-202-5.adsl.xs4all.nl) left #coders.hu.
+[02:05] Kakukk (~Kakukk@moszat.bdtf.hu) left #coders.hu.
+[02:05] Ipv100 (datax@kadox.dnett.no) left #coders.hu (Ipv100).
+[02:05] Ipv50 (datax@kadox.dnett.no) left #coders.hu (Ipv50).
+[02:05] Gimnazija (~Gimnazija@194.249.183.135) left #coders.hu (Gimnazija).
+[02:05] Funshit (Syrus@funsite.us) left #coders.hu (Funshit).
+[02:05] szoptok-e (~aranyoska@catv-5062fc7e.catv.broadband.hu) joined #coders.hu.
+[02:05] <szoptok-e> szoptok-e a szétforgácsolt szarláng kurva anyád.
+[02:05] <ROMO> AHAHAHAHAH
+[02:05] <Syrus> szarlán
+[02:05] <Syrus> g
+[02:05] <Syrus> ahah
+[02:06] <Syrus> [02:04] <szoptok-e> Ipv4 a ganéeregeto szarházi kurva anyád.
+[02:07] <karcsi> azért ezek a jelzõk önmagukban is mûvészi alkotások, nemhogy kombinálva
+[02:07] <ROMO> plag sokra vitte volna valami bolcsesz szakon
+[02:08] <karcsi> õ egy született zseni, mit keresne ott
+[02:08] Brybubba (Brybubba@208.251.137.95) left irc: Ping timeout
+[02:08] <ROMO> ense ertem mier irtam ijet
+[02:09] <Vlad^home> IPV6-re is beszolok
+[02:09] <Vlad^home> anno kurvasok duma volt korulotte
+[02:09] <Vlad^home> de egy ISP se vezetett be 
+[02:09] <Vlad^home> mediagecik
+[02:09] Dominoo (~schollie@195.228.169.226) left #coders.hu.
+[02:11] <Syrus> en bevezettem
+[02:11] <Syrus> a konyhaig
+[02:11] <ROMO> Syrus te efneten hova jarta?
+[02:11] <Vlad^home> btw
+[02:11] <Syrus> hu hat sokhelyre
+[02:11] <Vlad^home> fontos kerdes
+[02:11] <Syrus> mer?
+[02:11] <ROMO> Syrus en sokat votam ott #java -n
+[02:11] <Vlad^home> amenntiben van valakinek egy vt100 kompatibilis terminal
+[02:11] <Vlad^home> azt szivesen megvennem
+[02:12] <Vlad^home> Moszkvaban mar nincsen ilyenbol
+[02:12] <Vlad^home> pedig szeretnek egyet a furdoszobaba
+[02:12] <Syrus> ROMO, assemblyn voltam, meg unpackingon, meg crackingon
+[02:12] <Syrus> javan nem
+[02:12] <Syrus> de meg evekkel ezeleott
+[02:14] <Syrus> moszkvai furdoszobaba?
+[02:18] <karcsi> moszkvából nyomod?
+[02:19] <Syrus> {http://www.usbwifi.orcon.net.nz/usbscoop.jpg
+}[02:20] <Sta> joejt
+[02:20] Sta (~kukim@221.191-182-adsl-pool.axelero.hu) left #coders.hu.
+[02:20] <ROMO> ezis kia lofasz
+[02:20] <xdebian> ah ah .)
+[02:21] Dominoo (~schollie@195.228.169.226) joined #coders.hu.
+[02:21] <szoptok-e> Dominoo a fekéjes strici kurva anyád.
+[02:21] <Syrus> {
+>http://www.bash.org/?50891
+}[02:21] <Syrus> ahahaha
+[02:21] <karcsi> hádenemmesszevan innen kecccceeeeel
+[02:21] <karcsi> #kecel
+[02:22] <Syrus> romo;>>>
+[02:22] <Syrus> [02:22] *** xdebian sets mode: +b *!*@abuse.kralj.net
+[02:22] <Syrus> [02:22] *** You were kicked by xdebian (KickBan! by -=[ netZ Script Pro ]=-)
+[02:23] <xdebian> karcsi, syrus: :))
+[02:23] <Syrus> mekkora fereg
+[02:23] <xdebian> ugye?
+[02:23] <Dominoo> xdeb!
+[02:23] <xdebian> Dominoo!
+[02:23] <Dominoo> takeltek a bots.hu-t
+[02:23] <karcsi> visszaengedett repetázni, hagyd
+[02:23] <Dominoo> hi
+[02:23] <Syrus> karcsi ottvagy meg?
+[02:24] <xdebian> nincs
+[02:24] <xdebian> banoltam
+[02:24] <Syrus> tegenny
+[02:24] <xdebian> sracok, en logolok...
+[02:24] <xdebian> nem kell ez a sok szar
+[02:24] <ROMO> az a szerencsejuk ezeknek hogy direkt gyujtjuk itt az ijen embereket hogy ne unatkozzunk eheh
+[02:25] <ROMO> <karcsi> ez a sok hülye szabály
+[02:25] <ROMO> AHAHAHAHAH
+[02:27] <kekmetro> leszarom hat, megjo hogy leszarom, me mitgondoltal
+[02:28] Xender (^Cimi@p4-3007.uk2net.com) joined #coders.hu.
+[02:28] <szoptok-e> Xender a fasznyaló fikabúvár kurva anyád.
+[02:28] <karcsi> * Rejoined channel #bots.hu
+[02:28] <karcsi> <Syrus> sh0key takaroggya innen
+[02:28] <karcsi> ez az ótvar mindenhova benyalja magát :D
+[02:28] <Syrus> ja ottis ottvan
+[02:28] <karcsi> pontosabban megtróbálja
+[02:28] <karcsi> aztán kibasszák gondolom
+[02:28] <Syrus> VOICE
+[02:28] <karcsi> tudod a dolgod
+[02:29] <karcsi> hát ne habozz
+[02:29] <Syrus> [02:28] <Syrus> csa
+[02:29] <Syrus> [02:28] <Syrus> sh0key-al vigyazzatok
+[02:29] <Syrus> [02:28] <Syrus> nagy taker a gyerek
+[02:29] <karcsi> amit ma megtehetsz, ne halazd honlapra
+[02:29] <ROMO> genny
+[02:29] <Syrus> [02:29] <Hydroceph> üdv
+[02:29] <Syrus> [02:29] <Hydroceph> nem is kap opot nefélj :)
+[02:29] <Syrus> [02:29] <Syrus> csak szolok elore nelegyen galiba
+[02:29] <Syrus> [02:29] <Hydroceph> ok köszi
+[02:29] <Syrus> [02:29] <Syrus> ki is bannolhatod ugy biztonsagosabb
+[02:30] <ROMO> ahahah
+[02:30] <karcsi> ahah
+[02:30] <ROMO> hogy leoltja
+[02:31] <karcsi> romó invájtold már be sokit
+[02:31] <karcsi> hátha be lehet bannolni ahah
+[02:32] <ROMO> :DDDD
+[02:32] <Syrus> mindjar kibannoltattom
+[02:32] <Syrus> most csinalok fake logot
+[02:32] <Syrus> ahah
+[02:32] <ROMO> shOkEy has been invited to #Coders.hu
+[02:32] <karcsi> bannoltasd át ide
+[02:32] <karcsi> mi tudunk vele BÁNNI
+[02:32] <ROMO> kene szolni hogy peccseljek fel a magyar ircszervereket hogy lehessen bebannolni a koderszre, az nagyobb buntetes mint a kline
+[02:32] <Dominoo> sziasztok
+[02:33] <ROMO> Dominoo sziasz
+[02:33] <Dominoo> ennyire nem birjátok shokeyt?
+[02:33] <karcsi> ahahah
+[02:33] <ROMO> tegedse birunk, ezert vagy meg mindig itt
+[02:33] <Dominoo> ahaa
+[02:33] <Dominoo> :D
+[02:33] Xender (^Cimi@p4-3007.uk2net.com) left #coders.hu.
+[02:34] <Syrus> [02:33] <shOkEy> direkt szededle?
+[02:34] <Syrus> [02:34] <Syrus> sh0key ne oktass mar itt mindenkit
+[02:34] <Syrus> [02:34] <Syrus> huzzalel
+[02:34] <ROMO> gyujtjuk a gyokereket hogy legyen kin szorakozni
+[02:34] <karcsi> vajon romóról miért nem veszik le percenként a bant?
+[02:34] <Syrus> [02:34] <shOkEy> te huzzal
+[02:34] <Syrus> [02:34] <shOkEy> nem veszed eszre faszom
+[02:34] <Syrus> [02:34] <shOkEy> hogy te kovetsz
+[02:34] <Syrus> [02:34] <shOkEy> es meg romo hiv a szar csatitokra
+[02:34] <karcsi> ahah
+[02:35] <Syrus> [02:34] <shOkEy> es meg romo hiv a szar csatitokra
+[02:35] <Syrus> [02:34] <shOkEy> es meg romo hiv a szar csatitokra
+[02:35] <Syrus> [02:34] <shOkEy> es meg romo hiv a szar csatitokra
+[02:35] <Syrus> [02:34] <shOkEy> es meg romo hiv a szar csatitokra
+[02:35] <Syrus> AAAAAAAA
+[02:35] <karcsi> kis úrfi
+[02:35] <karcsi> jó ez a tempban
+[02:36] <karcsi> syrus soki az igazából ellenem ágál?
+[02:36] <Syrus> j
+[02:36] <Syrus> A
+[02:36] <karcsi> zsebsoki
+[02:36] <Syrus> [02:35] <shOkEy> yo hat bazmeg akkor csinalja a kurvaanyadat es kesz
+[02:36] <Syrus> [02:36] <clon> shOkEy kerlek ne beszellj csunyan
+[02:36] ROMOE (szopo@157.82-182-adsl-pool.axelero.hu) joined #coders.hu.
+[02:36] <szoptok-e> ROMOE a gempa pókvalagú kurva anyád.
+[02:36] <Syrus> !
+[02:36] <karcsi> ahah
+[02:36] <Syrus> GEMPA
+[02:36] <Syrus> ahahaha
+[02:36] <Syrus> ezt honnan szedte ezt a szot
+[02:38] ROMO (szopo@89.83-182-adsl-pool.axelero.hu) left irc: Ping timeout
+[02:38] Nick change: ROMOE -> ROMO
+[02:38] <karcsi> romó gyere bots.hu-ra
+[02:38] #coders.hu: mode change '+o ROMO' by anyad!dr@web.speedlan.hu
+[02:38] <Syrus> [02:37] <Syrus> dobjatok ki sh0keyt letszi
+[02:38] <Syrus> [02:37] <Syrus> nemlatjatok hogy feszultseget szit
+[02:38] <karcsi> soki cirkuszol
+[02:39] <Syrus> ahahha
+[02:39] <karcsi> syrus ja, ez kurva jó :D
+[02:42] <Syrus> ROMO mivolt ez?
+[02:47] <Syrus> xdebian rakd ki sokit
+[02:48] <xdebian> ugyamma
+[02:48] <xdebian> minek
+[02:48] <xdebian> nincs is opom most eppen
+[02:48] <xdebian> .)
+[02:48] <karcsi> kurva jó ez a soki különben
+[02:48] <karcsi> hogy küzd, csak tudnám, minek
+[02:48] <Syrus> hogy nyal
+[02:48] <Syrus> protokolsmilie az opoknak
+[02:49] <Dominoo> syrus
+[02:49] <Syrus> mivamma
+[02:49] <Dominoo> mi sem birjuk ám shokeyt annyira
+[02:49] <nori> mivamma
+[02:49] <Dominoo> mont hiszed
+[02:49] <Syrus> hat akkor kikell baszni a gecibe
+[02:49] <Dominoo> csak elviseljük és tudjuk h nagy tékes és ezért nem kap opot
+[02:50] <karcsi> ahah
+[02:50] <Syrus> figyelj hiaba nem kap opot
+[02:50] <Syrus> ircnet szerverek fele meg -hemp-es
+[02:50] <Syrus> csak megfelelo alkalom kell
+[02:50] <Syrus> es megoldja
+[02:51] <Syrus> ROMO
+[02:51] <Syrus> mivamma
+[02:53] <xdebian> syrus sztem fel is nyomja a cuccaitokat az ejjel:)))
+[02:53] <Syrus> jonemlatod hogy viccelek
+[02:55] <Syrus> romoval most mivan
+[02:56] <Syrus> megdermett?
+[02:57] <karcsi> nem találja a szavakat
+[02:57] <Vlad^home> achtung
+[02:57] <karcsi> vagy matyizik
+[02:59] <Syrus> mostmivan
+[02:59] <ROMO> se
+[03:00] <ROMO> zabaltam
+[03:00] <ROMO> josagosat
+[03:00] <Syrus> hajnali 3kor
+[03:00] <ROMO> mivel rettenet beteg vagyok es 2 napja nem ettem
+[03:01] <pocok> KurvaAnyadKurvaAnyadKurvaAnyadKurvaAnyadKurvaAnyadKurvaAnyadKurvaAnyad
+[03:01] <pocok> KurvaAnyadKurvaAnyadKurvaAnyadKurvaAnyadKurvaAnyadKurvaAnyadKurvaAnyad
+[03:01] <pocok> KurvaAnyadKurvaAnyadKurvaAnyadKurvaAnyadKurvaAnyadKurvaAnyadKurvaAnyad
+[03:01] <pocok> KurvaAnyadKurvaAnyadKurvaAnyadKurvaAnyadKurvaAnyadKurvaAnyadKurvaAnyad
+[03:01] <pocok> KurvaAnyadKurvaAnyadKurvaAnyadKurvaAnyadKurvaAnyadKurvaAnyadKurvaAnyad
+[03:01] <pocok> KurvaAnyadKurvaAnyadKurvaAnyadKurvaAnyadKurvaAnyadKurvaAnyadKurvaAnyad
+[03:01] <pocok> KurvaAnyadKurvaAnyadKurvaAnyadKurvaAnyadKurvaAnyadKurvaAnyadKurvaAnyad
+[03:01] <pocok> KurvaAnyadKurvaAnyadKurvaAnyadKurvaAnyadKurvaAnyadKurvaAnyadKurvaAnyad
+[03:01] <pocok> KurvaAnyadKurvaAnyadKurvaAnyadKurvaAnyadKurvaAnyadKurvaAnyadKurvaAnyad
+[03:01] <pocok> KurvaAnyadKurvaAnyadKurvaAnyadKurvaAnyadKurvaAnyadKurvaAnyadKurvaAnyad
+[03:01] <pocok> KurvaAnyadKurvaAnyadKurvaAnyadKurvaAnyadKurvaAnyadKurvaAnyadKurvaAnyad
+[03:01] <pocok> KurvaAnyadKurvaAnyadKurvaAnyadKurvaAnyadKurvaAnyadKurvaAnyadKurvaAnyad
+[03:02] <pocok> KurvaAnyadKurvaAnyadKurvaAnyadKurvaAnyadKurvaAnyadKurvaAnyadKurvaAnyad
+[03:02] <pocok> KurvaAnyadKurvaAnyadKurvaAnyadKurvaAnyadKurvaAnyadKurvaAnyadKurvaAnyad
+[03:02] <pocok> KurvaAnyadKurvaAnyadKurvaAnyadKurvaAnyadKurvaAnyadKurvaAnyadKurvaAnyad
+[03:02] <pocok> KurvaAnyadKurvaAnyadKurvaAnyadKurvaAnyadKurvaAnyadKurvaAnyadKurvaAnyad
+[03:02] <pocok> KurvaAnyadKurvaAnyadKurvaAnyadKurvaAnyadKurvaAnyadKurvaAnyadKurvaAnyad
+[03:02] <pocok> KurvaAnyadKurvaAnyadKurvaAnyadKurvaAnyadKurvaAnyadKurvaAnyadKurvaAnyad
+[03:02] <pocok> KurvaAnyadKurvaAnyadKurvaAnyadKurvaAnyadKurvaAnyadKurvaAnyadKurvaAnyad
+[03:02] <pocok> KurvaAnyadKurvaAnyadKurvaAnyadKurvaAnyadKurvaAnyadKurvaAnyadKurvaAnyad
+[03:02] <pocok> KurvaAnyadKurvaAnyadKurvaAnyadKurvaAnyadKurvaAnyadKurvaAnyadKurvaAnyad
+[03:02] <pocok> KurvaAnyadKurvaAnyadKurvaAnyadKurvaAnyadKurvaAnyadKurvaAnyadKurvaAnyad
+[03:02] <pocok> KurvaAnyadKurvaAnyadKurvaAnyadKurvaAnyadKurvaAnyadKurvaAnyadKurvaAnyad
+[03:02] <pocok> KurvaAnyadKurvaAnyadKurvaAnyadKurvaAnyadKurvaAnyadKurvaAnyadKurvaAnyad
+[03:02] <pocok> KurvaAnyadKurvaAnyadKurvaAnyadKurvaAnyadKurvaAnyadKurvaAnyadKurvaAnyad
+[03:02] <pocok> KurvaAnyadKurvaAnyadKurvaAnyadKurvaAnyadKurvaAnyadKurvaAnyadKurvaAnyad
+[03:02] <pocok> de csak mer syrus kerte
+[03:02] <ROMO> ahahah szoval ez a zaszlo, aszittem az en kicsimre gondolsz
+[03:02] <Syrus> en erre gondoltam
+[03:02] <ROMO> de ez elekkemeny
+[03:02] <Syrus> csa pocok
+[03:02] <karcsi> Syrus kurva anyádért nem tanulsz meg végre normálisan köszönni???!!?
+[03:02] <pocok> csa
+[03:03] <pocok> csak ideneztem
+[03:03] <ROMO> ahaha geci mekkora mar
+[03:03] <pocok> rettentoen faj a jobb terdem nyomorek frontok miatt
+[03:03] <pocok> hunyok is be asszem
+[03:03] <pocok> OLYEO
+[03:03] <pocok> eheh
+[03:03] <ROMO> cs
+[03:03] <pocok> ja es me nem vatytok buliba
+[03:03] <Syrus> en beteg vagyok
+[03:03] <ROMO> betek vatyok
+[03:03] <Syrus> ahogy hallom roomo is
+[03:03] <pocok> ahah
+[03:03] <ROMO> ahaha anyadat szajrusz ne utanozz
+[03:03] <ROMO> :D
+[03:04] <Syrus> ahah
+[03:04] <pocok> eh
+[03:04] <ROMO> tegnapelott 24 ora alatt elnyomtam egy tekercs wcpapirt
+[03:04] <ROMO> ma kb 30x voltam fosni
+[03:04] <Syrus> holnap mesz stingre pocok?
+[03:04] <ROMO> utoljara 10 perce
+[03:04] <pocok> akko gyogyujjatok mek, mer nem kuldok viragot a temetesetekre
+[03:04] <pocok> Syrus hat meg nemtudom
+[03:04] <pocok> lenne kedvem kimenni, de egyedul ?!
+[03:04] <ROMO> nincs ertelme kimenni ercsetek meg
+[03:04] <pocok> ha esik akko nemvaloszinu
+[03:04] <Syrus> vigyazz mer temaek beakarnak hajtani a tomegbe kocsival
+[03:05] <pocok> ahaha
+[03:05] <pocok> jo hat elobe ingye lehet mekhallgatnam a sztinket
+[03:05] <ROMO> nemis rossz otlet
+[03:05] <Syrus> mekkora lenne mar
+[03:05] <Syrus> totalis kaosz
+[03:05] <Syrus> ahah
+[03:05] <pocok> de igy hummerrel kene
+[03:05] <pocok> vagy uthengerrel ! ,>>>
+[03:06] <ROMO> minidg gondolkosztunk hogy mijen lehet az andrassin vegigmenni pedlogazzal es a vegen bekezifekezni a hosokre
+[03:06] <Dominoo> jo8 mindenki
+[03:06] <Syrus> ahaha
+[03:06] <kuta> stinghez odajuttatni egy cetlit, hogy KURVA ANYÁTOK, és mekkérni, hogy olvassa be mikrofonba
+[03:06] <Syrus> plane hogy ott allandoan all 10-15 rendor
+[03:06] <pocok> marmint a turistak koze
+[03:06] Dominoo (~schollie@195.228.169.226) left #coders.hu.
+[03:06] <pocok> kuta :DDD
+[03:06] <Syrus> :DDDDDDDDDDDD
+[03:06] <Vlad^home> mov ax,0013h
+[03:06] <pocok> nemjo
+[03:06] <ROMO> hallod aszongyak fel millio emberre szamitanak... szerinted mennyi hej lesz?
+[03:06] <Vlad^home> int 10h
+[03:06] <Syrus> Welcome Madzsarorszag, KURVA KURAVA ANYIJATOK
+[03:06] <pocok> a koderszhu neveben: a kurva anyatok
+[03:06] <pocok> eztkene
+[03:07] <Vlad^home> mov al, 0
+[03:07] <kuta> :>
+[03:07] <pocok> ,>>
+[03:07] <ROMO> a mutkori ingyenes gecin is asozntak hogy meg a mellekuccakba is alltak mer nemlehetett kozelebbmenni
+[03:07] <pocok> nahjo
+[03:07] <Syrus> ROMO, hamar 100ezren vannak az mar undorito tomeg
+[03:07] <Vlad^home> oh, valaki meg emlexik %))
+[03:07] <xdebian> pocok
+[03:07] <Vlad^home> mov cx, 65000
+[03:07] <Vlad^home> rep stosd
+[03:07] <Vlad^home> aaaa
+[03:07] <Vlad^home> stosb
+[03:07] <kuta> lesznek kétmillióan mint a kossuth téren ahahah
+[03:07] <Vlad^home> mov ax, 0x4cb0h
+[03:07] <pocok> mivan xd mongyad
+[03:07] <Syrus> utalom a tomeget amugyis
+[03:07] <Vlad^home> int 21h
+[03:08] <Vlad^home> ret   ; OS/2 kedveeert
+[03:08] <xdebian> pocok, szia
+[03:08] <kuta> de a hámmert szereted ugye ;]
+[03:08] <pocok> csa, de ma mar vagy 3x koszontel 
+[03:08] <pocok> ,>
+[03:08] <ROMO> es vasarnap haynalba hopkins meg de la hoya meccs
+[03:08] <Syrus> kuta szeretem ami toled jon
+[03:08] <Syrus> ;>
+[03:08] <Syrus> menjmar
+[03:08] <Syrus> azishajnalba van?
+[03:08] <pocok> hallod romo, ien konszolidalt lettem
+[03:08] <pocok> :\
+[03:08] <ROMO> mijen
+[03:08] <pocok> hat h semmi anyazas :\
+[03:09] <pocok> visszavonultam :\\\\
+[03:09] <kuta> böjt van
+[03:09] <ROMO> xdebian mi a kurva anyadat koszongecc.
+[03:09] <Syrus> ahah
+[03:09] <Syrus> pocok megvertek?
+[03:09] <kuta> vascsõ szedi áldozatát
+[03:09] <pocok> Syrus ahaha, nem ugy eszik a levest ahogy fozik
+[03:09] <karcsi> ahahah
+[03:09] <Syrus> jovamma csak nemtudtam mire gondolni
+[03:09] <pocok> hat igy mosma mindenki anyazik meg fludol, mer trendi
+[03:09] <ROMO> {http://www.origo.hu/programajanlo/20040604felmillioan.html
+}[03:09] <kuta> pisztos megrendítette az etyik tûszeset
+[03:10] <pocok> es igy sose birtam a trendi dolgokat
+[03:10] <xdebian> ROMO anyadnak koszontem, de nem valaszol mert teli van a szaja megin
+[03:10] <pocok> latod itt is mennyien vannak asztan
+[03:10] <Syrus> pocok
+[03:10] <Syrus> 3 honap alatt duplazodtunk
+[03:10] <Syrus> ;>>>
+[03:10] <pocok> jah, figyelemmel kisertem
+[03:10] <pocok> de minek
+[03:10] <Syrus> hat de
+[03:11] <pocok> fele asse tuggya h hogy szuletett a koderszhu, meg h mi volt az _eredeti_ celja
+[03:11] <pocok> fele
+[03:11] <pocok> sokat montam
+[03:11] <pocok> :\
+[03:11] <Syrus> ahah
+[03:11] <pocok> ill keveset nah :D
+[03:11] <Syrus> inkabb keveset
+[03:12] <Syrus> johat voltam itt olyan tajt is amikor meg normalis volt
+[03:12] <Syrus> par eve
+[03:12] <Syrus> eheheh
+[03:12] <ROMO> amiko 4 eve kupakkal idejottunk, valami megvaltozott.
+[03:12] <pocok> nem is rad montam bazeg ,>
+[03:12] <Syrus> AHAH
+[03:12] <Vlad^home> btw, koderek
+[03:12] <pocok> ROMO :DD
+[03:12] <Vlad^home> amennyben vannak itt "koderek"
+[03:12] <ROMO> en szoftverfejleszto vagyok.
+[03:12] <pocok> Vlad^home hat, egyket oreg meg van, a tobbi igazi mar nem is irceg :\
+[03:12] talyga (~u@amazonas-275.adsl.datanet.hu) joined #coders.hu.
+[03:12] <szoptok-e> talyga a nigger torkonfosott kurva anyád.
+[03:13] <ROMO> ahaha
+[03:13] <Syrus> tundra
+[03:13] <Vlad^home> egcs gyorsabb nasm-nal, ha Solarisrol van szo
+[03:13] <talyga> kurva anyad kurva anyad kurva anyad kurva anyad kurva anyad kurva anyad kurva anyad kurva anyad kurva anyad kurva anyad kurva anyad kurva anyad kurva anyad kurva anyad kurva anyad kurva anyad kurva anyad kurva anyad kurva anyad kurva anyad kurva anyad kurva anyad kurva anyad kurva anyad kurva anyad kurva anyad kurva anyad ku
+[03:13] <pocok> solba sh az ugyeletes
+[03:13] <pocok> ,>>
+[03:13] <Vlad^home> most forditottam Oracle kernelt as86/nasm includek nelkul
+[03:13] <pocok> na basszatok meg, en csak ide akartam nezni, szal olyeo
+[03:13] <Vlad^home> +1-5ns querytol fuggoen
+[03:14] karcsi (~u@nilus-2934.adsl.datanet.hu) left irc: Ping timeout
+[03:14] <ROMO> mutko vot ijen gagyi halozatos vizsga, ijesmi kerdes hogy hogyan lehet vedekezni ddos ellen, majdnem leirtam hogy joba kell lenni shval es akko nemfog dosolni
+[03:14] <Syrus> ahahhahha
+[03:14] <Syrus> aztan
+[03:14] <Syrus> igy felre lettel volna hivva
+[03:14] <Syrus> es a tanar bemutatkozik: Hello, _sh vagyok
+[03:14] <talyga> különben pocok most vagy azért filozofál, mert nõproblémája van, vagy azért fasz, mert nincs nõproblémája, és úgy érzi, hogy õ már túllépett ezeken a dolgokon, és mi gyerekesek vagyunk
+[03:14] <ROMO> mongyuk kb ugy kepzelem el ahogy kinezett
+[03:15] <ROMO> talyga utobbit kizartnak tartmo, de ha megis ugylenne nagyon hamar fatmano sorsara fog jutni :D
+[03:16] <Syrus> {http://dr.darkangel.hu/pica/sh.jpg} pedig ez jokep :D
+[03:16] <nori> regi szar :) (#coders.hu defoff 20.05.2004 16:16)
+[03:16] <ROMO> igen :
+[03:16] <kuta> mi lett fatmanoval
+[03:16] <kuta> mese ON
+[03:16] <ROMO> megbomlott az elmeje
+[03:16] <kuta> és nem jön ide többet?
+[03:16] <ROMO> nemakar.
+[03:17] <talyga> romó elkergette
+[03:17] <ROMO> ez nemigaz, de.
+[03:17] Nick change: talyga -> jancsi
+[03:17] <Syrus> he
+[03:17] <Syrus> ?? miert?
+[03:17] <ROMO> egyek e pilota megnevezese szilvas mezespuszdliszivet
+[03:17] <ROMO> u
+[03:18] <Syrus> egyel aztan megin mesz fosni
+[03:18] <kuta> attól függ hogy bevállalod e
+[03:18] <kuta> IGEN VAGY NEM!?
+[03:18] <Syrus> jokuss
+[03:18] <Syrus> dr kutus
+[03:18] <ROMO> ha valaszutak ele allitanak mindig kijon belolem az allat
+[03:18] <Syrus> ;>
+[03:18] <kuta> minden döntés egy válaszút
+[03:19] <kuta> másodpercenként hozol döntéseket
+[03:19] <kuta> ergo te mindig állat vagy
+[03:19] <ROMO> ertelmezd ujra amit leirtam
+[03:19] <Syrus> kocsikat programozott mar valaki?
+[03:19] <kuta> értve
+[03:19] <kuta> .
+[03:19] <ROMO> ha mas allit valaszut ele
+[03:19] <Syrus> (kilometer ora visszaallitas)
+[03:19] <Syrus> digitalis
+[03:20] <ROMO> Syrus enszoktam 1esbol otosbe meg ijesmi
+[03:20] <Syrus> ahahha
+[03:20] <Syrus> AHAHHAHAAAAAAAAAAAAAA
+[03:20] <Syrus> JAJJJ
+[03:20] <Syrus> URISTEN
+[03:20] <Syrus> multko igy setalok
+[03:20] <Syrus> az utszan
+[03:20] <Syrus> latom gyanusan jon egy auto
+[03:20] <Syrus> jampi srac tolta ezerrel
+[03:20] <Syrus> aztan gondolom 4esbe akarta rakni vagy fasztudja
+[03:21] <Syrus> bebaszta rukvercbe menetkozben
+[03:21] <Syrus> AHAH
+[03:21] <Syrus> geci akkorat ugrott
+[03:21] <ROMO> dehat azt nemis lehet
+[03:21] <kuta> ?lol?
+[03:21] <Syrus> ott estem ossze a rohogestol
+[03:21] <Syrus> MONDOM BAZMEG
+[03:21] <Syrus> ilyet meg nemlattam
+[03:21] <kuta> de miazhogy ugrott
+[03:21] <ROMO> honnantudod hogy ruki vot
+[03:21] <Syrus> hat mi a faszom kattan akkorat
+[03:21] <Syrus> fek biztos nem
+[03:21] <kuta> elég ha visszavált durván
+[03:22] <Syrus> a lofaszt attol nemall meg a kocsi
+[03:22] <Syrus> opel corsa volt
+[03:22] <kuta> ezé mondom értelmezd az 'ugrott' az
+[03:22] <Syrus> akinek van tesztelje le
+[03:22] <kuta> at
+[03:22] Nick change: kekmetro -> v-meteor
+[03:22] <ROMO> u ecce egy ojannak leszaggatunk a kipufogojat egy homokos pajan
+[03:22] <ROMO> asztan vittunk vissza a gyerek annyanak akitol kolcsonkertuk..
+[03:22] <Syrus> ahahah
+[03:24] <Syrus> tavaly februarban , este 9korul nagy durranas a haz elott, azthittuk petarda vagy valami, jo 10 perc mulva csongetnek, kimegyunk azt latjuk hogy idebaszodott egy wartburg, benne a sofor ( szoke no) hatul a gyereki szarradermedve
+[03:24] <v-meteor> beszaras
+[03:24] <v-meteor> mikvannak
+[03:24] <kuta> ahahah
+[03:25] <Syrus> a wartburg alatt, meg anyad fekutt
+[03:25] <ROMO> szerelte?
+[03:25] <v-meteor> nefikciozz
+[03:25] <Syrus> jovan
+[03:28] <kuta> KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANY
+[03:28] <jancsi> a tekötõtû kurva anyád
+[03:28] <kuta> KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANY
+[03:28] <jancsi> a tekötõtû kurva anyád
+[03:28] <kuta> KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANY
+[03:28] <jancsi> a tekötõtû kurva anyád
+[03:28] <kuta> KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANY
+[03:28] <ROMO> KURVA ANYAD
+[03:28] <jancsi> a tekötõtû kurva anyád
+[03:28] <jancsi> a tekötõtû kurva anyád
+[03:28] <ROMO> KURVA ANYAD
+[03:28] <jancsi> a tekötõtû kurva anyád
+[03:28] <ROMO> KURVA ANYAD
+[03:28] <jancsi> a tekötõtû kurva anyád
+[03:28] <kuta> KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANY
+[03:28] <jancsi> a tekötõtû kurva anyád
+[03:28] <ROMO> KURVA ANYAD
+[03:28] <jancsi> a tekötõtû kurva anyád
+[03:28] <ROMO> KURVA ANYAD
+[03:28] <jancsi> a tekötõtû kurva anyád
+[03:28] <ROMO> KURVA ANYAD
+[03:28] <jancsi> a tekötõtû kurva anyád
+[03:28] <kuta> KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANY
+[03:28] <jancsi> a tekötõtû kurva anyád
+[03:28] <ROMO> KURVA ANYAD
+[03:28] <jancsi> a tekötõtû kurva anyád
+[03:28] <ROMO> KURVA ANYAD
+[03:28] <jancsi> a tekötõtû kurva anyád
+[03:28] <ROMO> KURVA ANYAD
+[03:28] <jancsi> a tekötõtû kurva anyád
+[03:28] <kuta> KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANY
+[03:28] <jancsi> a tekötõtû kurva anyád
+[03:28] <ROMO> KURVA ANYAD
+[03:28] <jancsi> a tekötõtû kurva anyád
+[03:28] <ROMO> KURVA ANYAD
+[03:28] <jancsi> a tekötõtû kurva anyád
+[03:28] <ROMO> KURVA ANYAD
+[03:28] <jancsi> a tekötõtû kurva anyád
+[03:28] <kuta> KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANY
+[03:28] <ROMO> KURVA ANYAD
+[03:28] <jancsi> a tekötõtû kurva anyád
+[03:28] <ROMO> KURVA ANYAD
+[03:28] <jancsi> a tekötõtû kurva anyád
+[03:28] <ROMO> KURVA ANYAD
+[03:28] <jancsi> a tekötõtû kurva anyád
+[03:28] <kuta> KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANY
+[03:28] <ROMO> KURVA ANYAD
+[03:28] <jancsi> a tekötõtû kurva anyád
+[03:28] <ROMO> KURVA ANYAD
+[03:28] <jancsi> a tekötõtû kurva anyád
+[03:28] <ROMO> KURVA ANYAD
+[03:28] <jancsi> a tekötõtû kurva anyád
+[03:28] <kuta> KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANY
+[03:28] <ROMO> KURVA ANYAD
+[03:28] <jancsi> a tekötõtû kurva anyád
+[03:28] <ROMO> KURVA ANYAD
+[03:28] <jancsi> a tekötõtû kurva anyád
+[03:28] <Vlad^home> a jo edes KURVA ANYAD !!!
+[03:28] <ROMO> KURVA ANYAD
+[03:28] <jancsi> a tekötõtû kurva anyád
+[03:28] <kuta> KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANY
+[03:28] <ROMO> KURVA ANYAD
+[03:28] <jancsi> a tekötõtû kurva anyád
+[03:28] <ROMO> KURVA ANYAD
+[03:28] <jancsi> a tekötõtû kurva anyád
+[03:29] <ROMO> KURVA ANYAD
+[03:29] <jancsi> a tekötõtû kurva anyád
+[03:29] <kuta> KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANY
+[03:29] <ROMO> KURVA ANYAD
+[03:29] <jancsi> a tekötõtû kurva anyád
+[03:29] <Vlad^home> kerdeztelek, te balfsaz?
+[03:29] <ROMO> KURVA ANYAD
+[03:29] <jancsi> a tekötõtû kurva anyád
+[03:29] <Vlad^home> nem?
+[03:29] <ROMO> KURVA ANYAD
+[03:29] <jancsi> a tekötõtû kurva anyád
+[03:29] <kuta> KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANY
+[03:29] <ROMO> KURVA ANYAD
+[03:29] <jancsi> a tekötõtû kurva anyád
+[03:29] <ROMO> KURVA ANYAD
+[03:29] <jancsi> a tekötõtû kurva anyád
+[03:29] <ROMO> KURVA ANYAD
+[03:29] <jancsi> a tekötõtû kurva anyád
+[03:29] <kuta> KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANY
+[03:29] <ROMO> KURVA ANYAD
+[03:29] <jancsi> a tekötõtû kurva anyád
+[03:29] <ROMO> KURVA ANYAD
+[03:29] <jancsi> a tekötõtû kurva anyád
+[03:29] <Syrus> KUS
+[03:29] <ROMO> KURVA ANYAD
+[03:29] <jancsi> a tekötõtû kurva anyád
+[03:29] <kuta> KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANY
+[03:29] <ROMO> KURVA ANYAD
+[03:29] <jancsi> a tekötõtû kurva anyád
+[03:29] <Syrus> KUSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS
+[03:29] <ROMO> KURVA ANYAD
+[03:29] <jancsi> a tekötõtû kurva anyád
+[03:29] <Syrus> KUSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS
+[03:29] <ROMO> KURVA ANYAD
+[03:29] <jancsi> a tekötõtû kurva anyád
+[03:29] <Syrus> KUSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS
+[03:29] <kuta> KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANY
+[03:29] <ROMO> KURVA ANYAD
+[03:29] <jancsi> a tekötõtû kurva anyád
+[03:29] <ROMO> KURVA ANYAD
+[03:29] <jancsi> a tekötõtû kurva anyád
+[03:29] <Syrus> KUSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS
+[03:29] <Syrus> KUSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS
+[03:29] <ROMO> KURVA ANYAD
+[03:29] <jancsi> a tekötõtû kurva anyád
+[03:29] <kuta> KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANY
+[03:29] <ROMO> KURVA ANYAD
+[03:29] <jancsi> a tekötõtû kurva anyád
+[03:29] <ROMO> KURVA ANYAD
+[03:29] <jancsi> a tekötõtû kurva anyád
+[03:29] <ROMO> KURVA ANYAD
+[03:29] <jancsi> a tekötõtû kurva anyád
+[03:29] <Syrus> CSENDLEGYEN
+[03:29] <kuta> KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANY
+[03:29] <jancsi> a tekötõtû kurva anyád
+[03:29] <Syrus> CSENDLEGYEN
+[03:29] <Syrus> CSENDLEGYEN
+[03:29] <jancsi> a tekötõtû kurva anyád
+[03:29] <Syrus> CSENDLEGYEN
+[03:29] <jancsi> a tekötõtû kurva anyád
+[03:29] <kuta> KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANY
+[03:29] <jancsi> a tekötõtû kurva anyád
+[03:29] <jancsi> a tekötõtû kurva anyád
+[03:29] <jancsi> a tekötõtû kurva anyád
+[03:29] <kuta> KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANY
+[03:29] <jancsi> a tekötõtû kurva anyád
+[03:29] <jancsi> a tekötõtû kurva anyád
+[03:29] <jancsi> a tekötõtû kurva anyád
+[03:29] <kuta> KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANY
+[03:29] <jancsi> a tekötõtû kurva anyád
+[03:29] <jancsi> a tekötõtû kurva anyád
+[03:29] <jancsi> a tekötõtû kurva anyád
+[03:30] <kuta> KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANY
+[03:30] <jancsi> a tekötõtû kurva anyád
+[03:30] <jancsi> a tekötõtû kurva anyád
+[03:30] <jancsi> a tekötõtû kurva anyád
+[03:30] <kuta> KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANY
+[03:30] <jancsi> a tekötõtû kurva anyád
+[03:30] <kuta> KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANY
+[03:30] <jancsi> a tekötõtû kurva anyád
+[03:30] <kuta> jancsi mekkértek hogy kussojj
+[03:31] <jancsi> KHHUUUUUUUUUUUUUUUUUUUÚÚÚÚÚÚÚÚÚÚÚÚÚSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS!
+[03:31] <Syrus> adr> valamivel le lehet ugy vedeni egy komplett webet, hogy semmifele progival ne lehessen lementeni a komplett tartalmat ?
+[03:31] <Syrus> <_sh> BAHEAHHEHAHEAHHAHEHEHAHE
+[03:32] <bishop> ahah
+[03:32] <jancsi> bishop faszé hagytad benne a logokban a td-ket
+[03:33] <bishop> bennehagytam?
+[03:33] <bishop> megnezem
+[03:33] <Vlad^home> bishop
+[03:33] <Vlad^home> ezer eve
+[03:33] <Vlad^home> bishop: sikerult vegezni ?
+[03:33] <Syrus> kene bot ami random bemond logokat
+[03:33] <jancsi> benne hát, nem is tördeli miatta a hosszú kurvaanyázást
+[03:33] <Vlad^home> egyreszt
+[03:33] <Syrus> infotron megtehetne
+[03:33] <Vlad^home> masresz, mi ez a lamersag a csatin ?
+[03:34] <bishop> vegezni....
+[03:34] <bishop> aaaaaaa
+[03:34] <bishop> hol van az meg
+[03:34] <ROMO> Syrus annak ittvan nori, eleg idegesito is D
+[03:34] <Syrus> ahah
+[03:34] <Syrus> ?huje nori
+[03:34] <Vlad^home> bishop: kellet nekem elmenni 3 evre es mit latunk
+[03:34] <Vlad^home> total achtung
+[03:36] <Syrus> joeojeojo
+[03:36] <xdebian> balasaja ku4a gavno zdes, jol mondom, Vlad^home?:)
+[03:36] <ROMO> meg van valami "jopfoj maty"
+[03:36] <jancsi> vlad szerintem kezdjed lökni, hogy te már hány ezer éve ircelsz
+[03:37] <ROMO> ahaha jancsi de ugylatom ma teis erzekenyebb vagy az atlagnal :)
+[03:37] <Vlad^home> jancsi: gratulalok
+[03:38] Nick change: Vlad^home -> Vlat
+[03:38] <bishop> jancsi: mosma' nincs benne elvileg
+[03:38] <jancsi> romó tudod, HAT éve még nem ez ment
+[03:38] <ROMO> jancsi :D
+[03:39] <bishop> ahah
+[03:39] <bishop> akkor meg nem volt romoe terror clan
+[03:39] <Vlat> ?? matrix
+[03:39] Action: ROMO izmozik
+[03:39] <jancsi> bishop és mér gz-vel van? :D
+[03:39] <Vlat> bishop: Mi tortent Chrysalis-szal ?
+[03:39] <bishop> jancsi: mer nagyok
+[03:39] <Vlat> ok is itt kezdtek
+[03:40] <bishop> dunno
+[03:40] <Vlat> ?? Chrysalis
+[03:40] <bishop> jancsi: explorer kibassza jol ha raklikkelsz?
+[03:40] <bishop> kene neki
+[03:40] <bishop> gzipped content
+[03:40] <ROMO> Vlat ok ma mar komoj emberek, 80 ezerert rencergazdak valalhol biztos, vagy webhostingos bt -t csinaltak es a ballagooltonyukbe jarnak uzletelni
+[03:41] <bishop> ahahah
+[03:41] <bishop> ez de durva romo
+[03:41] <kuta> ahah
+[03:41] <ROMO> mi megmaradtunk azanyazasnal
+[03:41] <ROMO> majd miis ecce felnovunk
+[03:41] <Vlat> ROMO: ez komoly?
+[03:41] <kuta> bishop remélem ez is poentxt
+[03:42] <ROMO> ez csupan feltetelezes.
+[03:42] <bishop> termeszetes...
+[03:42] <bishop> :>
+[03:42] <bishop> ha holnap se szivok lehet megcsinalom a webes formot h lehessen bekuldeni
+[03:43] <bishop> jeoje
+[03:43] <ROMO> de moderaltra, aze nezd at amiket berakunk
+[03:43] <Vlat> bishop: achtung
+[03:43] <Vlat> bishop: regen meg koder voltal
+[03:43] <bishop> ?
+[03:44] <Vlat> amig nem szittyal
+[03:44] <Vlat> mondjuk...en beszelek....
+[03:44] <bishop> jah
+[03:44] <Vlat> regen en is
+[03:44] <ROMO> mamar csak egy narkos partiarc
+[03:44] <bishop> valahogy ugy
+[03:44] <Vlat> most meg csak iszok
+[03:44] <bishop> ha nem szivok mostis kodolok
+[03:44] <bishop> v valami ertelmeset csinalok
+[03:44] <bishop> ROMO: rosszabb
+[03:44] <bishop> mar partyarc se
+[03:45] <ROMO> me?
+[03:45] <Vlat> relacio =| aki kodernek szuletett  == zullott lesz
+[03:45] <bishop> februarban volt az utolso nagy partym
+[03:45] <Vlat> bishop szityozik
+[03:45] <Vlat> vlad iszik
+[03:45] <Vlat> dr paradicsomozik
+[03:45] <Vlat> chrysalis hernyozik...
+[03:45] <Vlat> szanalmas
+[03:45] <szoptok-e> hallgass
+[03:46] <ROMO> enmeg szivom a koxot anyatok bulajarol a 750es bmwmbe
+[03:46] <jancsi> bishop vedd ki a pre-t is, mert még mindig nem tördeli miatta
+[03:46] <bishop> gondoltam h ma majd jol bepapirozok
+[03:46] <bishop> aztan megse
+[03:46] <bishop> jancsi: azt nem szedem mert akkor nem latszanak jol az ascii grafikak
+[03:46] <bishop> inkabb vmi megoldast kene ra kitalalni
+[03:46] <jancsi> állícs be olyan fontot
+[03:46] <ROMO> fixedsys
+[03:46] <ROMO> ala mirk
+[03:47] <bishop> mondd melyik az
+[03:47] <Vlat> jotanacs
+[03:47] <Vlat> ne legyetek koderek
+[03:47] <bishop> ma' nem vagyunk
+[03:47] <Vlat> tobbet eltek
+[03:47] <bishop> :>
+[03:47] <Vlat> mi mar nem
+[03:47] <Vlat> de a tobbi paraxxt igen
+[03:47] <Vlat> en mar amigas is vagyok
+[03:47] <szitrony> nemérdekel
+[03:48] <Vlat> mov ax, 4c00h
+[03:48] <Vlat> int 21h
+[03:49] <bishop> ne is mondd
+[03:49] <Vlat> bishop?
+[03:49] <bishop> akkoriban meg azt hittem h ez is valami
+[03:49] <Vlat> legalabbb ERRE emlexdel ?
+[03:50] <bishop> exit 0-s hibakoddal?
+[03:50] <Vlat> mostansag Sun v440 optimalizaltra kodolok 
+[03:50] <Vlat> RISC
+[03:50] <bishop> de mi hasznod belole?
+[03:50] <bishop> v valami cegnel csinalod?
+[03:50] <Vlat> erm
+[03:50] <Vlat> nem magyaroszagon csinalom
+[03:50] <jancsi> leírhatja a kóderszhun szombat hajnali nétykor
+[03:50] <Vlat> tehat kimeld meg az osszegtol
+[03:50] <bishop> ja
+[03:51] <Vlat> nem szeretem az irigyseget
+[03:51] <kuta> jancsi ahahahahahah
+[03:51] <Vlat> es te ?
+[03:51] <Vlat> egyetem utan hova kerultel ?
+[03:51] <bishop> mondom nem vegeztem meg
+[03:51] <Vlat> erm
+[03:51] <Vlat> elarulo
+[03:51] <bishop> 2 evig szinte be sem jartam
+[03:51] <Vlat> m
+[03:51] <jancsi> bocs, hogy irigyeltelek
+[03:51] <Vlat> most Oracle-nel vagyok
+[03:52] <bishop> minden hetvegen benarkozva gerjedtem vmi dohos pinceben
+[03:52] <jancsi> orékölformot kódolsz risc asmben
+[03:52] <Vlat> bishop: ha megvan a RISC tudasod akkor bevihetlek
+[03:52] <Vlat> bishop: vladimir@nextra.hu tovabbiakban, ha erdekel
+[03:52] <bishop> Vlat: lediplomazok elobb
+[03:52] <bishop> meg kimondottan nem erdekel a penz
+[03:52] <Vlat> nem muszaj
+[03:53] <bishop> annyi kell hogy kajara fussa amugy leszarom
+[03:53] <Vlat> Oraclenel a tudas szamit
+[03:53] <bishop> sot, igazabol ruhellem
+[03:53] <ROMO> ahah deszeretnek riszkkel nyuglodni
+[03:53] <Vlat> PL/SQL meg SQL tudasa
+[03:53] <bishop> az alatt a 2 ev alatt dolgoztam es sokat kerestem
+[03:53] <bishop> de a penz valahol atok
+[03:53] <Vlat> mondjuk,Mo-n se SQL-t sem PL/SQL-t se tanitjak
+[03:54] <Vlat> tejat falhoz az ilyen "specialistakat"
+[03:54] <bishop> elten tanitanak sql-t
+[03:54] <Vlat> ahogy mondtak nekem oraclenel
+[03:54] <jancsi> vlad magyarországon még gyertával világítanak a monitorok
+[03:54] <Vlat> bishop: BME-n nem
+[03:54] <Vlat> bishop: csak Pascalt :)
+[03:54] <kuta> sávon pl/sqlt is
+[03:54] <bishop> hehe
+[03:55] <bishop> nalunk jo a kepzes
+[03:55] <bishop> csak gecinehez megcsinalni, meg mar unom is
+[03:55] <bishop> ertelmet sem nagyon latom
+[03:55] <ROMO> nem kurvamindegy mijen jo a kepzes
+[03:55] <bishop> vagyaim sincsenek
+[03:55] <Vlat> ha szeretnel keresni havi +500eft-t akkor pl/sql-t tanuljal
+[03:55] <kuta> bishop gyûjtsed az akaraterõt
+[03:55] <kuta> :>
+[03:55] <bishop> szal nemtom mi a fasznak nem megyek php-t kodolni 150 ropiert
+[03:55] <Vlat> mas nem szamit
+[03:55] <bishop> siman leelhetnem az eletem ahelyett h itt szopok
+[03:55] <jancsi> bishop mert csak pre-vel tudsz fix fontokat beállítani :P
+[03:55] <Vlat> akkor is ha kirugnak
+[03:56] <bishop> kuta: nemkell megvan, csak az ertelmet nem latom mar
+[03:56] <Vlat> Oracle-nel nem szamit a diploma
+[03:56] <bishop> vmikor regen nagy szakember akartam lenni
+[03:56] <bishop> akkor az hajtott
+[03:56] <Vlat> csak a tudas. adnak feldatatot, es idot ra
+[03:56] <Vlat> ha elvegzel - akkor kovetkezo fel.
+[03:56] <jancsi> vlad de nincs ám mindenkiben meg az a tudás, ami benned. 
+[03:57] <Vlat> jancsi: akkor itt az ideje tanulni
+[03:57] <kuta> ahahahahah
+[03:57] <Vlat> jancsi: nicsen ott semmi nehez
+[03:58] <ROMO> Vlat az utobbi hozzaszolasaid alapjan csak annyit tudok kerdezni hogy megvan e meg a ballagooltonyod?
+[03:58] <Vlat> jancsi: pont azert mondtam, hogy nem kell oda DIPLOMA. Akara altalanosiskolas is megszerezheti az allast
+[03:58] <bishop> jah
+[03:58] <bishop> crow pl jol csinalta, igaz meg nincs diplomaja de mar eleg jo hire van es jo melokat csinal
+[03:58] <bishop> szamtektanari diplomaja lesz...
+[03:58] <jancsi> ja, már több oszkárt is összeszedett
+[03:58] <Vlat> ROMO: mar nincsen. elrohadt
+[03:59] <bishop> ahahha
+[03:59] <jancsi> számtektanár az kibaszottul jó
+[03:59] <ROMO> akinek fonoke van, az eleve elbaszta
+[03:59] Action: bishop sajnos annyir cinikus hogy lehet elmegy php programozonak telleg
+[03:59] <bishop> ahahah
+[04:00] <Vlat> vazzzzzzz
+[04:00] <Vlat> nem errol beszelek
+[04:00] <bishop> lefexem inkabb mer hulye vagyok
+[04:00] <Vlat> Oracle barkit felfesz vizsgara, es ha sikeres volt, akkor azonnal belekerulesz
+[04:00] <Vlat> de mind1
+[04:00] <ROMO> ki a budos faszom akar oreklohoz menni plsqlt ganyolni
+[04:01] <jancsi> ahah
+[04:01] <jancsi> miért, tökre izgalmas az öréköl
+[04:01] <bishop> jeoje
+[04:01] <jancsi> nézegethetsz adatbázisokat
+[04:01] <jancsi> csõ
+[04:02] <Vlat> hm,alternativ megoldas ?
+[04:02] <jancsi> drog
+[04:02] <jancsi> de masszívan
+[04:02] <Vlat> kinek mi
+[04:02] <Vlat> szamomra alkohol
+[04:02] <ROMO> neked tuladagolva javaslom
+[04:02] <kuta> orékölnél úgy láccik tényleg csak a tudás számít, intelligencia nem elõfeltétel
+[04:02] <xdebian> kinek az oracle, kinek a kurvaanyad... ez az alternativa
+[04:04] <kuta> KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANY
+[04:04] <jancsi> a tekötõtû kurva anyád
+[04:04] <kuta> KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANY
+[04:04] <jancsi> a tekötõtû kurva anyád
+[04:05] <jancsi> KHHUUUUUUUUUUUUUUUUUUUÚÚÚÚÚÚÚÚÚÚÚÚÚSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS!
+[04:05] <ROMO> alszok asszem talan esetleg.
+[04:06] <jancsi> lófaszt
+[04:06] <ROMO> 4 ora van te buzi
+[04:06] <kuta> KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANY
+[04:06] <jancsi> a tekötõtû kurva anyád
+[04:06] <kuta> KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANY
+[04:06] <jancsi> a tekötõtû kurva anyád
+[04:06] <kuta> KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANYAD KURVA ANY
+[04:06] <jancsi> a tekötõtû kurva anyád
+[04:06] <ROMO> kivet magabol atarsadalom ha megtudjak hogy nem hetkoznmapi eletetelek
+[04:07] <jancsi> a májkroszoft szabadalmaztatta a duplakattintást
+[04:07] <ROMO> hogy rohoghetnek a gatesek
+[04:07] <jancsi> ja
+[04:07] <ROMO> jo lehet iranyitani a fel vilagot
+[04:07] <jancsi> neveccséges amúgy
+[04:07] <kuta> fél világban mennyi anya lehet
+[04:08] <jancsi> hogy a pennába kaphatták meg a szabadalmat
+[04:08] <ROMO> kovetkezo sztarbokszba linus torvalds versus bill gates Pride szabajok szerint
+[04:08] <ROMO> jancsi ugyhogy penz?
+[04:08] <jancsi> hát ja, de fura, hogy van annyi pénz :D
+[04:09] <ROMO> megmondom oszinten en elegedett lennek magammal ha ugykelnek fel reggel hogy sikerult szabadalmaztatnom a duplakattintast. vagya monitorra nezest
+[04:09] <jancsi> szerintem már meken is volt duplakattintás
+[04:09] <jancsi> ahah
+[04:09] <jancsi> az utóbbit még megtróbálhatod
+[04:09] <ROMO> de nincs eleg lovem ra mer nem az orekolnel vagyok
+[04:10] <kuta> ahahah
+[04:10] <jancsi> nincs elég eszed
+[04:10] <jancsi> a zabaj
+[04:10] <ROMO> viszont megvan meg mind a ket ballagooltonyom
+[04:11] <kuta> és lesz diplomád, amit orékölnél nem kérnek
+[04:11] dangerman (~danger18@neszojjabe.geco.hu) joined #coders.hu.
+[04:11] <szoptok-e> dangerman a pingvin vérhójagosra baszott kurva anyád.
+[04:11] <ROMO> kuta hat ugytunik rossz iranyba tartok ;(
+[04:11] dangerman (~danger18@neszojjabe.geco.hu) left #coders.hu (dangerman).
+[04:11] <jancsi> én kölcsön öltönyben ballaktam, mer annyira igénytelen voltam
+[04:11] <ROMO> aahahahha
+[04:11] <jancsi> meg is tartottam jó szokásomat
+[04:11] <ROMO> mi varrattunk kemeny 800 ftert
+[04:12] <ROMO> 8000
+[04:12] <ROMO> armanival
+[04:12] <jancsi> ahah
+[04:12] <ROMO> az egesz osztaj
+[04:12] <ROMO> gondolhatod, szivesen csereltem volna ab uszon a soforrel ruhat, csakhogy neegjek annyira
+[04:12] <jancsi> és mindig továbbadtátok annak, akit éppen fényképeztek?
+[04:12] <ROMO> ahahaah
+[04:13] <kuta> ahahahahah
+[04:13] <kuta> túlaházlak
+[04:13] <ROMO> az osztajfonokom ojan volt hogy eccer csak azer mer 200ftal olcsobb vot a szallas egy ojan hejen voltunk kirandulni ahol fogyatekos gyerekekkel ebedeltunk ey menzan
+[04:13] <kuta> !
+[04:13] <kuta> :>>>>>>
+[04:13] <jancsi> ahahah
+[04:14] <ROMO> elvezet latni ahol kifordul egy ertelemmel telt 8 eves gyerek szajabol az etel a ruhajara
+[04:14] <ROMO> ;(
+[04:14] <kuta> s legalább kiélted aberrált vágyaidat
+[04:14] <jancsi> gondolom, röhöktetek, mint állat
+[04:14] <jancsi> szegényeken
+[04:14] <ROMO> jancsi furcsa de azer nem.
+[04:14] <ROMO> mer kurvara sajnaltuk oket csak abnormalis hejzet volt bazmeg
+[04:14] <jancsi> a kajára koncentráltál, ami a ruhádra ment
+[04:15] <kuta> ahahah
+[04:15] <kuta> éhes vót
+[04:15] <ROMO> ahhahah nem birok gepeplni a rohogtestol
+[04:15] <ROMO> razkodok geci
+[04:15] <jancsi> egyébként a gyerekekbe belenevelnek ilyen empátiát
+[04:15] <jancsi> mai eszeddel már röhögnél rajtuk
+[04:16] <ROMO> nem
+[04:16] <kuta> érezzél együtt olyanokkal, akik az orékölnél dolgoznak stb
+[04:16] <ROMO> geci vagyok de a tetves eletet valami miatt tisztelem
+[04:17] <jancsi> mit tisztelsz pontosan?
+[04:18] <ROMO> azt hoyg lehet sokmindent csinalni az eletbe, es van aki beteg vagy meghal az szar erzes
+[04:18] <ROMO> szal konkretan az eletet
+[04:18] <ROMO> a lehetosegeket
+[04:18] <v-meteor> gyerekekbe nemnevelnek empatiat, a gyerekek a leggecibbek
+[04:19] <jancsi> hát de beléjük nevelik, aztán ilyenek lesznek, mint most romó
+[04:19] <v-meteor> minden gyerek geci, aztan van amelyik rendes lesz
+[04:19] <jancsi> hogy igazából nem tudja megindokolni a gátlást magában, és ilyen rozoga érvekkel indokol
+[04:19] <ROMO> egyszer kb 6 eves koromban nevelgettu8nk a noveremmel egy kukacot. 2 nap utan meghalt
+[04:20] <jancsi> pedig csak nem kapott fagyit, ha röhögött a gyogyós pistikén
+[04:20] <ROMO> egesz nap sirtam, eltemettuk sirhanttal, kereszttel, viraggal.
+[04:20] <kuta> tamagochi for ROMO
+[04:20] <jancsi> ahahah
+[04:20] <ROMO> pedig etettuk levellel.
+[04:20] <jancsi> szegény :(
+[04:21] <ROMO> biztos nembirta a stresszt, vagy agyara ment a jolet
+[04:21] <jancsi> mondjuk ha jobban belegondolok.. télleg szomorú
+[04:21] <ROMO> geci asszem elmebeteg vagyok
+[04:21] <ROMO> hajnali fel otkor ijeneket irkalok ircre
+[04:22] <ROMO> a legfeltettebb titkaimat tarom fel
+[04:22] <jancsi> hajnali ötkor MEGNYÍLSZ
+[04:22] <jancsi> jaja
+[04:22] <jancsi> pedig elhatároztad, hogy ha valamirõl, na akkor a gilisztáról biztosan sosem fox beszélni senkinek
+[04:22] <ROMO> ahaha nem nemvolt ijen
+[04:23] <ROMO> en barmit szivesen elmondok szinte barkinek
+[04:23] <kuta> igazából arról nem akart, hogy volt nõvére
+[04:23] <ROMO> van is
+[04:23] <jancsi> csak ezt nem. erre harapsz
+[04:23] <kuta> de õt is szépen eltemette tegyük hozzá
+[04:23] <ROMO> szerencsere
+[04:23] <jancsi> eheh
+[04:24] <ROMO> marmint van is, szerencsere.
+[04:24] <ROMO> ja es ijen araszolo kukac volt
+[04:25] <ROMO> tuggyatok mejik
+[04:25] <kuta> AHAHAHAHAH
+[04:25] <ROMO> az a leghatarozottabb mozgas a vilagon
+[04:25] <kuta> már sírok ahahahah
+[04:25] <ROMO> arad belole a tokeletesseg, a testi-lelki egyensuj
+[04:25] <kuta> [04:20] <ROMO> pedig etettuk levellel.
+[04:25] <kuta> ezkész
+[04:25] <kuta> ahahah
+[04:26] <ROMO> hat azt esznek
+[04:28] <kuta> csicseregnek a madarak
+[04:28] <ROMO> A BUDOS KURVA ANNYUKAT
+[04:29] <kuta> gondold el ezek mennyi kukacot esznek meg
+[04:31] <kuta> na jóéjt
+[04:31] kuta (~kutasigyu@92.124-182-adsl-pool.axelero.hu) left irc: ""
+[04:33] <ROMO> enis alsz
+[04:33] <jancsi> én is csõ
+[04:33] jancsi (~u@amazonas-275.adsl.datanet.hu) left irc: "access violation"
+[04:34] ROMO (szopo@157.82-182-adsl-pool.axelero.hu) left irc: "KÚTTÚRGYEREEEEEEEEKK"
+[04:54] W_Irving (~w_irving@82-131-150-187.vnet.hu) left irc: Ping timeout
+[05:13] Nick change: Vlat -> vld^SLP
+[05:25] vld^SLP (~defo@213.134.0.111) left irc: ""
+[06:45] jofiju19 (~okoslany@fw.axelero.hu) joined #coders.hu.
+[06:45] <szoptok-e> jofiju19 a zsírballaszt makkszaggató kurva anyád.
+[07:13] szitrony (~buds@lofasz.org) left irc: "changing servers"
+[07:14] szitrony (~buds@lofasz.org) joined #coders.hu.
+[07:14] <szoptok-e> szitrony a fingokádó torkonfosott kurva anyád.
+[07:31] devICE (~device@tehenturo.teteny.elte.hu) joined #coders.hu.
+[07:31] <szoptok-e> devICE a ganéeregeto buzeráns kurva anyád.
+[08:44] szasz1 (szasz@82-131-186-44.vnet.hu) left irc: Connection reset by peer
+[09:03] karcsi (~u@amazonas-275.adsl.datanet.hu) joined #coders.hu.
+[09:03] karcsi (~u@amazonas-275.adsl.datanet.hu) left irc: "access violation"
+[09:03] <szoptok-e> karcsi a mértéktelen nigger kurva anyád.
+[09:13] m1su (~m1su@eliza.wigner.bme.hu) left irc: Ping timeout
+[09:15] teenBics (~litch@zen.ktk.bme.hu) left irc: Ping timeout
+[09:31] m1su (~m1su@eliza.wigner.bme.hu) joined #coders.hu.
+[09:31] <szoptok-e> m1su a foscsimbók pukkancs kurva anyád.
+[10:06] kutyuska (nini@nilus-284.adsl.datanet.hu) joined #coders.hu.
+[10:06] <szoptok-e> kutyuska a lárva fosszaggató kurva anyád.
+[10:06] <ppfc> csamnyam
+[10:06] <kutyuska> neked is joreggelt
+[10:06] <kutyuska> szia ppfc
+[10:06] <bazdmeg> kussolj, kertelek
+[10:06] <kutyuska> kurvaanyazos joreggelt neked is bazdmeg
+[10:15] <bishop> re
+[10:19] <jofiju19> kurva anyad kurva anyad kurva anyad kurva anyad kurva anyad kurva anyad kurva anyad kurva anyad kurva anyad kurva anyad kurva anyad kurva anyad kurva anyad kurva anyad kurva anyad kurva anyad kurva anyad kurva anyad kurva anyad kurva anyad kurva anyad kurva anyad kurva anyad kurva anyad kurva anyad kurva anyad kurva anyad 
+[10:19] <ppfc>  kurva  anyad  kurva  anyad  kurva  anyad  kurva  anyad  kurva  anyad  kurva  anyad  kurva  anyad  kurva  anyad  kurva  anyad  kurva  anyad  kurva  anyad  kurva  anyad  kurva  anyad  kurva  anyad  kurva  anyad  kurva  anyad  kurva  anyad  kurva  anyad  kurva  anyad  kurva  anyad  kurv
+[10:19] <ppfc>  kurva  anyad  kurva  anyad  kurva  anyad  kurva  anyad  kurva  anyad  kurva  anyad  kurva  anyad  kurva  anyad  kurva  anyad  kurva  anyad  kurva  anyad  kurva  anyad  kurva  anyad  kurva  anyad  kurva  anyad  kurva  anyad  kurva  anyad  kurva  anyad  kurva  anyad  kurva  anyad  kurv
+[10:20] <ppfc>  kurva  anyad  kurva  anyad  kurva  anyad  kurva  anyad  kurva  anyad  kurva  anyad  kurva  anyad  kurva  anyad  kurva  anyad  kurva  anyad  kurva  anyad  kurva  anyad  kurva  anyad  kurva  anyad  kurva  anyad  kurva  anyad  kurva  anyad  kurva  anyad  kurva  anyad  kurva  anyad  kurva 
+[10:20] nemhellne (nini@nilus-284.adsl.datanet.hu) joined #coders.hu.
+[10:20] kutyuska (nini@nilus-284.adsl.datanet.hu) left irc: Connection reset by peer
+[10:20] <szoptok-e> nemhellne a disznó mértéktelen kurva anyád.
+[10:21] nemhellne (nini@nilus-284.adsl.datanet.hu) left irc: EOF From client
+[10:21] <bazdmeg> ez most kinek a huje occse?
+[10:21] <bazdmeg> na -nak ?
+[10:26] <jofiju19> ki
+[10:26] <bazdmeg> kutyuska
+[10:26] <jofiju19> az az anyadat bassza
+[10:26] <bazdmeg> az kivan zarva, utalja a kutyakat
+[10:27] <jofiju19> azert mondja hogy elterelodjon a gyanu
+[10:52] Nick change: bazdmeg -> tema
+[10:56] El3cTr0n (KingKong@line-81-173.dial.freestart.hu) joined #coders.hu.
+[10:56] <szoptok-e> El3cTr0n a szétforgácsolt redvás kurva anyád.
+[10:57] <tema> draga a zinternet
+[10:57] <ppfc> ahahhahahahhahahahahahhahahahahha
+[10:57] M1ke_ (~m1ke@IPv6.psyBNC.tx.hu) joined #coders.hu.
+[10:57] <szoptok-e> M1ke_ a hímringyó pukkancs kurva anyád.
+[10:57] <M1ke_> hi
+[10:57] <M1ke_> lol
+[10:57] <M1ke_> :D
+[10:57] <M1ke_> de most mé? :D
+[10:58] <ppfc> mer egy szar szemet szar alak vagy
+[10:58] <xdebian> ez a koszono script
+[10:58] <xdebian> :)
+[10:58] <ppfc> ban x*!*@*
+[10:58] <xdebian> ppfc joreggelt neked, a jo anyadat tedd teherbe megin
+[10:59] <tema> megint ?
+[10:59] <rezo> * szoptok-le (KingKong@line-81-173.dial.freestart.hu) has joined #coders.hu
+[10:59] <El3cTr0n> r3
+[10:59] <ppfc> r3
+[10:59] <ppfc> asztakurva
+[10:59] <ppfc> ez de szar
+[10:59] <tema> huzzal ki innet
+[10:59] <tema> te terminator selejt
+[11:00] <rezo> ahhahhahhh
+[11:00] <rezo> probalkozni csak lehet
+[11:02] atila` (codex@12.156-228-195.hosting.adatpark.hu) joined #coders.hu.
+[11:02] <szoptok-e> atila` a makkszívó gempa kurva anyád.
+[11:02] <atila`> .iäo!
+[11:02] <atila`> neked is
+[11:03] atila` (codex@12.156-228-195.hosting.adatpark.hu) left #coders.hu.
+[11:03] atila` (codex@12.156-228-195.hosting.adatpark.hu) joined #coders.hu.
+[11:03] <szoptok-e> atila` a magzatvízszopó vízhatlan kurva anyád.
+[11:03] <atila`> .ë!
+[11:03] <atila`> sovany
+[11:03] <atila`> legalabb jobbat alitanatok be neki
+[11:03] <ppfc> atila` huzzal innen a retekbe
+[11:03] <atila`> :))
+[11:04] <atila`> nyomj vmi meghato szoveget
+[11:04] <tema> a kurva anyad
+[11:04] <ppfc> figyeld a kemenyt jon a golya
+[11:04] <ppfc> ez meghato?
+[11:04] <atila`> jobbat
+[11:04] <atila`> ez sovany
+[11:04] <tema> asziszed megved az adatpark mi?
+[11:04] <atila`> nagyon gyenge
+[11:04] <jofiju19> atila` mit csinalsz az axeleronal?
+[11:04] <jofiju19> vagy mi a geci ez a host?
+[11:04] <ppfc> latod o jofiju.
+[11:05] <atila`> :)))
+[11:05] <atila`> axelero?
+[11:05] <ppfc> nem karomkodik meg semmi
+[11:05] <atila`> kurva sokat csinalok nala
+[11:05] <tema> ez csak egy hostingos kiskocsog akinek anyja berakott egy p1-est
+[11:05] <tema> ircelni
+[11:05] <tema> es van rajta debian,es warez arc
+[11:05] <jofiju19> ajiba karikra?'"+_
+[11:05] M1ke_ (~m1ke@IPv6.psyBNC.tx.hu) left #coders.hu (M1ke_).
+[11:06] <atila`> igazad van 7 eves vagyokj most tanulok irni
+[11:06] <atila`> van meg par betu ami nem megy
+[11:06] <atila`> ekezetet azee nem irok
+[11:06] <tema> pl
+[11:06] <tema>  kurva  anyad  kurva  anyad  kurva  anyad 
+[11:06] <tema>  kurva  anyad  kurva  anyad  kurva  anyad 
+[11:06] <tema>  kurva  anyad  kurva  anyad  kurva  anyad 
+[11:06] <tema>  kurva  anyad  kurva  anyad  kurva  anyad 
+[11:06] <atila`> azokat meg nem tanitotta a tanar neni
+[11:06] <tema>  kurva  anyad  kurva  anyad  kurva  anyad 
+[11:06] <ppfc> HÉ
+[11:06] <tema> ijen se megy?
+[11:06] <atila`> hmm
+[11:06] atila` (codex@12.156-228-195.hosting.adatpark.hu) left #coders.hu.
+[11:06] <ppfc> ezt a scriptet meg honnan szoptad?!
+[11:06] atila` (codex@12.156-228-195.hosting.adatpark.hu) joined #coders.hu.
+[11:06] <szoptok-e> atila` a gempa pozdorjávákúrt kurva anyád.
+[11:06] <atila`> .ë!
+[11:06] <tema>  kurva  anyad  kurva  anyad  kurva  anyad 
+[11:06] <tema>  kurva  anyad  kurva  anyad  kurva  anyad 
+[11:06] <tema>  kurva  anyad  kurva  anyad  kurva  anyad 
+[11:06] <tema>  kurva  anyad  kurva  anyad  kurva  anyad 
+[11:06] <tema>  kurva  anyad  kurva  anyad  kurva  anyad 
+[11:06] <tema>  kurva  anyad  kurva  anyad  kurva  anyad 
+[11:06] <tema>  kurva  anyad  kurva  anyad  kurva  anyad 
+[11:06] <tema>  kurva  anyad  kurva  anyad  kurva  anyad 
+[11:07] <tema>  kurva  anyad  kurva  anyad  kurva  anyad 
+[11:07] <tema>  kurva  anyad  kurva  anyad  kurva  anyad 
+[11:07] tema kicked from #coders.hu by nori: flood
+[11:07] <ppfc>  kurva  anyad  kurva  anyad  kurva  anyad  kurva  anyad  kurva  anyad  kurva  anyad 
+[11:07] <ppfc>  kurva  anyad  kurva  anyad  kurva  anyad  kurva  anyad  kurva  anyad  kurva  anyad 
+[11:07] <ppfc>  kurva  anyad  kurva  anyad  kurva  anyad  kurva  anyad  kurva  anyad  kurva  anyad 
+[11:07] <ppfc>  kurva  anyad  kurva  anyad  kurva  anyad  kurva  anyad  kurva  anyad  kurva  anyad 
+[11:07] <ppfc>  kurva  anyad  kurva  anyad  kurva  anyad  kurva  anyad  kurva  anyad  kurva  anyad 
+[11:07] <ppfc>  kurva  anyad  kurva  anyad  kurva  anyad  kurva  anyad  kurva  anyad  kurva  anyad 
+[11:07] tema (tema@bitchx.hu) joined #coders.hu.
+[11:07] <szoptok-e> tema a maszturbátor rákos kurva anyád.
+[11:07] <ppfc>  kurva  anyad  kurva  anyad  kurva  anyad  kurva  anyad  kurva  anyad  kurva  anyad 
+[11:07] <ppfc>  kurva  anyad  kurva  anyad  kurva  anyad  kurva  anyad  kurva  anyad  kurva  anyad 
+[11:07] <ppfc>  kurva  anyad  kurva  anyad  kurva  anyad  kurva  anyad  kurva  anyad  kurva  anyad 
+[11:07] <atila`> ##############
+[11:07] <ppfc>  kurva  anyad  kurva  anyad  kurva  anyad  kurva  anyad  kurva  anyad  kurva  anyad 
+[11:07] <atila`> ##############
+[11:07] <atila`> ##############
+[11:07] <atila`> ##############
+[11:07] <ppfc> OAH
+[11:07] <ppfc> jaj
+[11:07] <atila`> ##############
+[11:07] <ppfc> elronttotam
+[11:07] <tema> hk.txt: not found
+[11:07] <atila`> ##############
+[11:07] <tema> ahaha
+[11:07] <atila`> ##############
+[11:07] <atila`> a keresztemet elbasztad
+[11:07] <atila`> szeparcu
+[11:07] <ppfc> el
+[11:08] <tema> ##############    ##############     ##############    ##############     [0m
+[11:08] <tema> ##############    ##############     ##############    ##############     [0m
+[11:08] <tema> ##############    ##############     ##############    ##############     [0m
+[11:08] <tema> ##############    ##############     ##############    ##############     [0m
+[11:08] <ppfc> er
+[11:08] <tema> ##############    ##############     ##############    ##############     [0m
+[11:08] <tema> ##############    ##############     ##############    ##############     [0m
+[11:08] <tema> ##############   ##############    ##############   ############## [0m
+[11:08] <tema> anyadat
+[11:08] <ppfc> megversz a kocsiban?
+[11:08] dfj (~eviltoy@183-43-12.ip.adsl.hu) joined #coders.hu.
+[11:08] <szoptok-e> dfj a dermettrebaszott sakál kurva anyád.
+[11:08] <tema> minbol gondolod hogy elve utazol velem?
+[11:08] <dfj> pf
+[11:08] <ppfc> ket szep szememert
+[11:08] <tema> bar ez nem zarja ki hogy agyonverem a hullafat
+[11:09] <dfj> ijen adbase (.cdb) adabazisrol hallott valaki?
+[11:09] <tema> igen
+[11:09] <tema> touch dbase.cdb
+[11:10] <ppfc> ja
+[11:10] <dfj> mivel lehet megbuzizni
+[11:10] <ppfc> megbuzizni
+[11:10] <tema> hat fopen
+[11:10] <ppfc> a faszoddal
+[11:10] <dfj> azonkivul?
+[11:10] <tema> cat?!
+[11:10] <ppfc> cat dbase.cdb
+[11:10] <ppfc> es akkor kiirja hogy mik vannak benne
+[11:10] <dfj> ;]
+[11:10] <tema> ?google cdb 
+[11:10] <nori> [google] {http://cr.yp.to/cdb.html
+}[11:10] <ppfc> ls -l dbase.cdb akkor meg hogy mekkora
+[11:10] <tema> ?google cdb database
+[11:10] <nori> [google] {http://cr.yp.to/cdb.html
+}[11:11] <tema> ottvan
+[11:11] <dfj> ja ez mar valami
+[11:11] <tema> cat -n -el szamozol
+[11:11] <tema> utana grep
+[11:11] <tema> es tudsz seekelni is
+[11:11] <tema> cat -n adat.cdb > indexed.cdb
+[11:11] <tema> cat indexec.cdb |grep szam |awk '{print $i}'
+[11:12] <tema> parancsolj irtam neked egy tablazatkezelot
+[11:12] <atila`>  kurva  anyad  kurva  anyad  kurva  anyad
+[11:12] <atila`>  kurva  anyad  kurva  anyad  kurva  anyad
+[11:12] <ppfc> aszta mennyi ideig tartott
+[11:12] <atila`>  kurva  anyad  kurva  anyad  kurva  anyad
+[11:12] <atila`>  kurva  anyad  kurva  anyad  kurva  anyad
+[11:12] <ppfc> kurva anyad atila`
+[11:12] <ppfc> kurva anyad atila`
+[11:12] <ppfc> kurva anyad atila`
+[11:12] <ppfc> kurva anyad atila`
+[11:12] <atila`>  kurva  anyad  kurva  anyad  kurva  anyad
+[11:12] <ppfc> kurva anyad atila`
+[11:12] <atila`>  kurva  anyad  kurva  anyad  kurva  anyad
+[11:12] <ppfc> na ezt rakd ki
+[11:13] <atila`>  kurva  anyad  kurva  anyad  kurva  anyad
+[11:13] <dfj> kusmar
+[11:13] <atila`> :))
+[11:13] <ppfc> ahhahahah
+[11:13] <ppfc> dfj
+[11:14] <ppfc> hellehalla
+[11:14] <xdebian>  _  __  _   _   ____   __     __      _    
+[11:14] <xdebian> | |/ / | | | | |  _ \  \ \   / /    / \   
+[11:14] <ppfc> b
+[11:14] <xdebian> | ' /  | | | | | |_) |  \ \ / /    / _ \  
+[11:14] <ppfc> e
+[11:14] <ppfc> l
+[11:14] <xdebian> | . \  | |_| | |  _ <    \ ' /    / ___ \ 
+[11:14] <ppfc> e
+[11:14] <ppfc> p
+[11:14] <ppfc> o
+[11:14] <xdebian> |_|\_\  \___/  |_| \_\    \_/    /_/   \_\
+[11:14] <ppfc> f
+[11:14] <ppfc> a
+[11:14] <atila`> kurva anyad ppfc
+[11:14] <xdebian> -
+[11:14] <xdebian> aaaaa 
+[11:14] <xdebian> aa   aa
+[11:14] <xdebian> aa   aa
+[11:14] <xdebian> aaaaaaa
+[11:14] <atila`> nah talalj ki vmi nehezebbet
+[11:14] <xdebian> aa   aa
+[11:14] <xdebian> -
+[11:14] <xdebian> nn   nn
+[11:14] <xdebian> nnn  nn
+[11:14] <ppfc> pastolod te fosgeciszar
+[11:14] <xdebian> nn n nn
+[11:14] <xdebian> nn  nnn
+[11:14] <El3cTr0n> netz...
+[11:14] <xdebian> nn   nn
+[11:14] <xdebian> -
+[11:14] <xdebian> yy   yy
+[11:15] <ppfc> kurva anyad basztelibe atila`
+[11:15] <ppfc> kurva anyad basztelibe atila`
+[11:15] <ppfc> kurva anyad basztelibe atila`
+[11:15] <ppfc> kurva anyad basztelibe atila`
+[11:15] <xdebian>  yy yy 
+[11:15] <ppfc> kurva anyad basztelibe atila`
+[11:15] Chilavert (~smuzli@gep3076.boly.hu) joined #coders.hu.
+[11:15] <xdebian>   yy   
+[11:15] <szoptok-e> Chilavert a fekalofil mitesszeres kurva anyád.
+[11:15] <xdebian>   yy   
+[11:15] <xdebian>   yy   
+[11:15] <xdebian> -
+[11:15] <xdebian> aaaaa 
+[11:15] <xdebian> aa   aa
+[11:15] <xdebian> aa   aa
+[11:15] Action: Chilavert ezt füleli: MC Gõz - Érted? (192Kbps/6.58Mb/04:47)
+[11:15] <xdebian> aaaaaaa
+[11:15] <xdebian> aa   aa
+[11:15] <xdebian> -
+[11:15] <ppfc> AHAHAHAHA
+[11:15] <phantom`> azjoszam
+[11:15] <xdebian> dddddd 
+[11:15] <xdebian> dd   dd
+[11:15] <xdebian> dd   dd
+[11:15] <xdebian> dd   dd
+[11:15] <xdebian> dddddd 
+[11:15] _OverLord (_overlord@www.clubtrend.hu) joined #coders.hu.
+[11:15] <szoptok-e> _OverLord a pingvin fodorhájas kurva anyád.
+[11:15] <_OverLord> eheh
+[11:16] <ppfc> na diktalom a nickeket kiket kell bannolni
+[11:16] <Chilavert> ##############
+[11:16] <Chilavert> ##############
+[11:16] <Chilavert> ##############
+[11:16] <Chilavert> ##############
+[11:16] <Chilavert> ##############
+[11:16] <ppfc> jaj
+[11:16] <Chilavert> ##############
+[11:16] <Chilavert> ##############
+[11:17] <atila`> basztelibe ppfc
+[11:17] <atila`> Chilavert
+[11:17] <atila`> en is ezt nyomom nekik
+[11:17] <atila`> sok jude geci
+[11:17] <atila`> ppfc talalj ki vmi nehezet
+[11:17] <Chilavert> ##############
+[11:17] <Chilavert> ##############
+[11:17] <Chilavert> ##############
+[11:17] <Chilavert> ##############
+[11:17] <atila`> addig pihenek
+[11:17] <Chilavert> ##############
+[11:17] <Chilavert> ##############
+[11:17] <Chilavert> ##############
+[11:17] <ppfc> @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+[11:17] <ppfc> @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+[11:17] <ppfc> @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+[11:17] <ppfc> @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+[11:17] <ppfc> @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+[11:17] <ppfc> @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+[11:17] <ppfc> @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+[11:18] <ppfc> @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+[11:18] _OverLord (_overlord@www.clubtrend.hu) left #coders.hu (_OverLord).
+[11:18] <ppfc> @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+[11:18] <Chilavert> h
+[11:18] <ppfc> @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+

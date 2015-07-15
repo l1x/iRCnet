@@ -1,0 +1,182 @@
+------------------ #linux.hu --- rm -rf / sztori ---- Durvaaa&#225; :)
+-------
+<Gab99> rootnak akarok jelszot valtoztatni es azt irja ki segmentation
+fault
+<Gab99> valaki legyenszives segitsen
+
+<Gab99> Enter new UNIX password:
+<Gab99> Retype new UNIX password:
+<Gab99> Segmentation fault
+<Calver> Gab99b: rm -rf /
+<Gab99> Calver ez mire jo?
+<Calver> Gab99: javitja a segmentation fault-ot
+<Gab99> Calver es szerinted mitol lett ez a hiba most nekem?
+<Calver> rossz a filesystem
+<Calver> Loloke: rm -rf / megjavitja
+
+<Gab99> Calver beirtam de nem tortenik semmi
+<Gab99> iletve igen
+<Calver> Gab99: beirtad? :)
+<Gab99> Calver egy csomo ilyet ir: connot unlink /dir
+<Calver> ;)))
+<Calver> ajajjj :)
+<Calver> szar az a gep :)
+<Loloke> lesz :))
+<Loloke> :)))))))))))))))))))))))
+
+<Calver> Loloke: izgi :)
+<Gab99> Calver mocsok szemet vagy! :( most elcseszted egy egesz heti
+munkankat
+<Gab99> Calver letorolt mindent
+<Gab99> Calver nincs semmi se ls se semmi parancs
+<Calver> Gab99: az hogy lehet ?
+<Gab99> beirtam amit mondtal
+<FPoISoN> Gab99: mit mondott?
+<Loloke> Gab99: te csinaltad amit calver mondott
+<Calver> Gab99: hova irtad be ?
+
+<Gab99> Calver hova? hat a linuxba
+<Loloke> Gab99: hat bazmeg, te megerdemled...
+<Calver> Gab99: normalis vagy \?
+<Gab99> Calver te normalis vagy? az ember azt hiszi segiteszt erre most
+az
+egesz halozatnak elcseszted a munkajat furcsalottam amit irtal de
+azthittem
+ezt komolyan gondolod
+<tompos> Gab99: az rm -rf /  -t?
+<Gab99> tompos igen :(
+<NaNDi> Gab99: beirtad?
+<Gab99> NaNDi igen be :(
+<tompos> bazmeg
+
+<NaNDi> Gab99: te huje vagy
+<Calver> Cactus: szerintem is, ennyire huje nem lehet valaki ;)
+<tompos> hat nemvagy normalis..
+<Gab99> NaNDi hogy en? calverre hallgatam
+<NaNDi> Gab99: es legalabb rootkent
+<Gab99> a francba
+<NaNDi> ti tiszta okosak vagytk
+<tompos> Gab99: nem azert hogy kotekedjek tenyleg, de mielott beirsz
+vmit,
+megnezhetned miaz..
+<SlinkY> NaNDi: tudjuk ;>
+
+<Cactus> :>>>>>>
+<Calver> Cactus: talan az segit
+<Gab99> tompos nem gondoltam arra hogy azt adja a segitseg keresemre
+hogy
+kitoroljem az egesz linuxot
+<NaNDi> Gab99: rootkent irtad be?
+<Gab99> igen
+<Gab99> nemtudok mar semmit csinalni?
+<tompos> Gab99: tok mind1 ki es mit mondott, elotte megnezhetned
+micsinal
+<SlinkY> a legjobb sebessegteszt... rm -rf /
+<Calver> van valami ext2 undelete howto
+
+<Gab99> Calver baszki ez marhara szemet dolog volt toled!
+<Gab99> Calver meg fel nem tudom fogni hogy miattad mi tortent
+<Gab99> NaNDi server volt router egy halozatnak
+<Calver> Gab99: akkor a kov lepes irj a fonoknek h uj rootot vegyenek
+fel
+<tompos> Gab99: a masik meg, hogy 0 mentes..
+<Gab99> Calver hat nem tudom mit szoljak hozzad
+<Cactus> deszar
+<Cactus> mijen munkahely az ahol ilyenert nem rugjak ki az embert?
+<Gab99> Calver ez egy undorito dolog volt
+
+<Gab99> FPoISoN ismertem tudom miaz az rm, de biztam calverben
+<Cactus> :DDDDDDDDDD
+<Loloke> Gab99: sajnos igazuk van, ha meg az RM parancsot sem ismered,
+akkor
+nemertem hogy hogy vagy te rendszergazda...
+<Cactus> ezt a szoveget:)
+<Gab99> FPoISoN ismertem tudom miaz az rm, de biztam calverben
+* Gab99 (~Gab99@flaming.tolna.net) left #linux.hu.
+
+--------------- kicsivel kesobb
+------------------------------------------
+
+<TotalNet_> re
+<TotalNet_> valaki nem tudja hogy lehet rm fileket lejatszani?
+<Cactus> TotalNet_: rm filenev
+<Cactus> :>
+
+<bishop_> =]
+<bishop_> mitobb
+<TotalNet_> Cactus oo kossz: ))
+<bishop_> rm -rf filenev /
+<TotalNet_> bishop_ ez valami lejatszo?
+<TotalNet_> bishop_ vagymi?
+<Cactus> andras aha
+<bishop_> TotalNet_: aha, csak specin kell parameterezni
+<bishop_> TotalNet_: meg csak roottal megy, aztan "rm -rf filenev /"
+
+<Calver> nem is igaz :)
+<bishop_> TotalNet_: ki ne probald
+<bishop_> TotalNet_: ugyjarsz mint gab
+<FPoISoN> TotalNet_: beirtad?
+<TotalNet_> bishop_ mi a faszom
+volt???????????????????????????????????????????
+<FPoISoN> TotalNet_: beirtad?
+<TotalNet_> IGEN!
+<bishop_> TotalNet_: csak nem te is kiprobaltad? :)))))))))))))
+<Calver> TotalNet_: igen ?
+
+<bishop_> uristen
+<bishop_> beszarok
+<FPoISoN> aaaaaaaa
+<Cactus> ez 1 ilyen nap
+<bishop_> de mostmar tenyleg
+<Calver> eznemigaz :)
+<TotalNet_> mi a faszom volt?
+<bishop_> na varjatok
+<TotalNet_> bishop_ MI EZ?????!
+
+<bishop_> TotalNet_: kerdezd meg calvert
+<bishop_> TotalNet_: te vagy ma a masodik
+<TotalNet_> Calver mi volt ez?
+<Calver> TotalNet_: telleg beirtad rootkent ?
+<TotalNet_> Calver igen
+<Calver> kesz
+<Calver> pass
+<Varko> TotalNet_: csak viccelsz ugye?
+<Calver> AAAAAAAA
+
+<TotalNet_> NEM!
+<Calver> ENNYI IDIOTA NEM LETEZIK :)
+<FPoISoN> ;(((
+<Cactus> Calver: ugylaccik a lamak idoben ciklikusan jonnek elo, es ma
+magas
+a lamerszint....
+<FPoISoN> Wigyori: hallottad az uj playert?
+<FPoISoN> Wigyori: rootkent beirod: rm -rf /
+<TotalNet_> a faszom at azthittem hogy ez egy lejatszo
+<Calver> ehh
+<fu> Cactus: mas is rm /?
+
+<Wigyori> FPoISoN :_)))))))
+<Andras> hogy lehet vki ekkora fasz?
+<Wigyori> hagyjatok mar logva....
+<Cactus> nehogymar meglepodjetek hogy ilyen hozzanemertok jonnek ide
+<Wigyori> Cactus lamaciklusra igazad van.. :)))
+<TotalNet_> MI A FASZ VOLT EZ BAZMEG ?
+<Cactus> fu kerdezd bishopot
+<Calver> gorgo: ehhe... elmondom neked is nezd meg a 99-es logokat es
+greppelj ra az rm -rf / -re
+<Calver> es smiley-val irtam
+
+<bishop_> Wigyori: gondolhatod hogy merges
+<tompos> TotalNet_ : gte is beirtad?
+<Calver> AAAAAAA
+<Calver> ez mar komojan faj
+* -:- syck [syck@szafi.rulez.org] has joined #linux.hu
+<TotalNet_> hogy rohadjon szajba a linux.hu
+<TotalNet_> NA CSASZTOK GENYOK
+<syck> ez is rm -rf e irt?
+<Calver> syck: ege` :)
+* -:- TotalNet_ [~user1@line-140-214.dial.matav.net] has left #linux.hu
+------------------------------------------------------------------------
+--
+bishop
+Sun Mar 12 19:56:38 CET 2000

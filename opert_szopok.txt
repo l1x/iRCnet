@@ -1,0 +1,5 @@
+|23:06:26| # You're now known as opertszopok
+|23:06:52| # mode/#hylea [+o opertszopok] by quino
+|23:09:20| # mode/#hylea [+o opertszopok] by rezo
+|23:09:31| (@quino) lehetsz elsoä*;
+

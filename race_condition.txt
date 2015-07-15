@@ -1,0 +1,2 @@
+14:07:38 <MinceR> 175416 <&ToreadorVampire> But when I do, they lead to nonsense output.
+14:07:42 <MinceR> 175433 <&ToreadorVampire> I don't always introduce race conditions into my code.

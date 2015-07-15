@@ -1,0 +1,24 @@
+|15:05:01| (gabomano) hogy kell az smtp-t beállitani???
+|15:05:03| (@_sh) ocsed megfertozott !?!?!
+|15:05:07| (litch) szopok nyalok kavetfozok
+|15:05:07| (bONe_) :D
+|15:05:15| (litch) gabomano adjal rootot megcsinallom
+|15:05:18| (bONe_) litch varrni is tucc?
+|15:05:19| (ejfel) :D
+|15:05:29| (bONe_) litch mer akko bekene venni 15cmt a farkambol :D
+|15:05:32| (litch) bONe_ a mellbimbodra felvarrok barmit
+|15:05:38| (gabomano) mi a datanet smtp cime?????
+|15:05:49| (litch) mail.datanet.hu
+|15:05:50| (litch) mi lenne bazmeg
+|15:05:53| # Viki14 [+tttt@pc2.bardosl-tapolca.sulinet.hu] has joined #danubius
+|15:05:55| (ejfel) :D
+|15:05:56| (litch) olcso.ribanc.az.anyad.hu?
+|15:06:04| (ejfel) najo, elmegyek, mer' elmenni jo
+|15:06:06| (litch) Viki14
+|15:06:06| (ejfel) by
+|15:06:07| # citrom [-n@pc1.krudy-szeged.sulinet.hu] has joined #danubius
+|15:06:07| (bONe_) datanetsmtp.anyad.org
+|15:06:19| (litch) Viki14 te lenyeled vagy kikopod?
+|15:06:33| (FPoISoN) by ejfel ;)
+|15:06:34| # abl749 [-a@server.eszeg.sulinet.hu] has joined #danubius
+|15:06:37| (@_sh) kifossa

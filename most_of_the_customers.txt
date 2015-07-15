@@ -1,0 +1,23 @@
+|14:02:23| (mazpe) fluxbox + openoffice should be good.
+|14:02:58| (litch) fluxboy > *
+|14:02:58| (am0x) mazpe, you know vim....
+|14:03:04| (litch) fluxbox:))
+|14:03:09|  * litch is a fluxboy
+|14:03:29| (mazpe) vim doesnt do spreasheets does it? =)
+|14:03:37| (am0x) mazpe, spreadsheets are for girls
+|14:03:41| (am0x) ...and windows geeks
+|14:03:43| (litch) ahahahah
+|14:03:49| (mazpe) very true..
+|14:03:51| (am0x) but thats basically the same thing
+|14:03:53| (am0x) so its cool.
+|14:03:59| (am0x) :D
+|14:04:18| (am0x) vim has <tab>'s and _'s
+|14:04:32| (mazpe) but when you have to send a customer a spreadsheet, so they can play with it.. that doesnt apply.
+|14:04:59| (am0x) mazpe, this is why you have a bastard windows box sitting quarantined on your network
+|14:05:02| (mazpe) the mentality is good.. yay.. hardcore unix dude.. but not when you are a consultant and most of your customer are windows girls.
+|14:05:24| (am0x) see above comment
+|14:05:29| (am0x) I am using windows now
+|14:05:32| (mazpe) true... but if i can emulate as much as possible on my box.. its good.
+|14:05:32| (litch) :DDDD
+|14:05:34| (litch) ahahahaha
+

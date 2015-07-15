@@ -1,0 +1,129 @@
+|18:51:47| (l1x) |18:47:58| (l1x) bvalek2 milyen reakcionak hivjak az U238 -> P239 ?
+|18:51:49| (Gabucino) multkor is valami energiahordozo kapcsan verte itt a hulyeseget
+|18:51:51| (l1x) |18:49:08| (l1x) bvalek2 varom a valaszod
+|18:51:56| (l1x) lehet igy mert nem lattad
+|18:52:13| (Gabucino) l1x: megkaptad: beta sugarzas a reakcio :D
+|18:52:13| (l1x) szal hogyan all elo az hogy a nuklearis szemetben Pu van
+|18:52:19| (Gabucino) 18:50 < bvalek2> l1x : beta sugarzas
+|18:52:24| (l1x) :DDDDDDDDDDDDDDDDDDDDDDDD
+|18:52:34| (Gabucino) nem nagyon lehet vele beszelgetni am
+|18:52:39| (Gabucino) halvany fingja nincs semmirol
+|18:53:02| (l1x) nah jo bazmeg
+|18:53:12| (Hunger-) "Lehet én vagyok a béna, de sose találok ilyen oldalakat"
+|18:53:22| (l1x) ezt most elkonyvelem down korosnak
+|18:53:46| (Hunger-) a srac vajon mibol gondolja, hogy ha exploitba utkozik, akkor azt eszreveszi? :)
+|18:53:55| (l1x) bvalek2
+|18:53:56| (l1x) Béta - sugárzás
+|18:54:02| (l1x) Elektronokból v. pozitronokból álló sugárzás
+|18:54:10| (l1x) nah most az az egyetlen problemam van
+|18:54:34| (l1x) hogy szerencsetlen uraniumhoz hiaba adok elektront vagy pozitront
+|18:54:45| (l1x) attol nem fog szegeny atalakulni
+|18:55:17| (l1x) ellenben szegenykem sugarozni fog meghozza rontgen sugarzassal
+|18:55:27| (l1x) mert ugye azt ugy is hivjak h fekezesi sugrzas
+|18:56:42| (l1x) elmondom hogyan lesz, jo?
+|18:57:13| (l1x) fognak egy breeding reaktort es beleraknak U 238-at ehhez jon egy neutron
+|18:57:41| (l1x) U239 aztan abbol lesz N239 es abbol Pu239
+|18:58:01| (Gabucino) ALIEN BREED !
+|18:58:01| (l1x) tehat tudatosan "tenyesztik" meghozza azert mert atomfegyvert akarnak eloallitani
+|18:59:10| (Gabucino) Banned.
+|18:59:10| (Gabucino) --
+|18:59:10| (Gabucino) trey @ gépház
+|18:59:12| (Gabucino) AHAHAHAHAHAHA
+|18:59:19| (Gabucino) Hunger-: jo a cikk! :)
+|18:59:39| (l1x) ki banned?
+|18:59:46| (l1x) neked volt meg usered?
+|18:59:52| (Gabucino) a szerencsetlen megnemertett atomfizikusunk
+|18:59:58| (l1x) bvalek2 ?
+|19:00:04| (Gabucino) van masik?
+|19:00:06| (l1x) lint
+|19:00:08| (l1x) linkt
+|19:00:17| (l1x) isze bvalek2 te nem tanultal atomfizikat
+|19:00:17| (Gabucino) http://hup.hu/cikkek/20100221/windowsos_0day_firefox_3.6_remote_exploit
+|19:00:35| (l1x) :DD
+|19:00:36| (l1x) szegenyke
+|19:00:55| (l1x) amugy bvalek2 ha osszekapod magad lehet jovagy egy portas melora
+|19:01:09| (l1x) csak ne hangoztasd h ertesz barmihez is
+|19:01:38| (l1x) legfokepp ne atomfizikahoz mert ezert banolnak az egyesult allamokbol es akkor eleg nagy lehetosegtol esnel el mint crack arus
+|19:02:27| (bvalek2) l1x : N239 mit bocsat ki, amitol P239 lesz?
+|19:03:52| (l1x) linux kernelt
+|19:03:54| (bvalek2) pontosabban Np239 -> Pu239
+|19:04:09| (bvalek2) l1x : szeretnem ha te mondanad ki
+|19:04:10| (l1x) bvalek2 ne magyarazkodj
+|19:04:28| (bvalek2) sokkal poenosabb lesz utana az egesz tortenet
+|19:04:41| (Gabucino) bvalek2 ilyenekbe a multkor is belefutottal
+|19:04:45| (Gabucino) nem volt szep latvany
+|19:04:51| (Gabucino) akkor is mondtam: ne erolkodj
+|19:05:03| (l1x) figyi kicsirigo
+|19:05:33| (l1x) ugye erzed a kulonbseget a beta sugarzas hatasara es a beta sugarzassal atalakulo kozt
+|19:06:02| (l1x) meg ugye azt is erzed h nem az atomeromuvi szemet az input hanem a dusitott uran
+|19:06:05| (l1x) ilyen aprosagok
+|19:06:18| (l1x) tudod mint h a farkadat a te seggedbe rakod vagy teged rak segge egy nigger
+|19:06:23| (l1x) csak h megertsed
+|19:06:46| (l1x) ugyelet vege cu laterz
+|19:07:28| (Hiena) l1x, alszanak mar az apoltak?
+|19:07:32| (bvalek2) l1x : azt tudod hogy miert tartjak a kiegett futoelemeket Pakson a reaktorban 90 napig, kozben bekamerazva az egesz reaktorter, nehogy valaki ido elott kivehesse
+                     oket?
+|19:08:23| (Hiena) Szinesfemtolvajok miatt.
+|19:08:27| (Hiena) 1000%
+|19:08:51| (Hiena) Szep keken vilagito fem.
+|19:08:57| (Hiena) Tuti, hogy elvinnek.
+|19:10:26| (bvalek2) Gabucino : te is valaszolhatsz
+|19:10:35| (bvalek2) vagy barmelyik hup szakerto
+|19:11:18| (Gabucino) bvalek2
+|19:11:28| (Gabucino) legkozelebb majd nem pattogsz hogy atomspecialista vagy
+|19:11:31| (Gabucino) aztan akkor jo ested lesz
+|19:11:58| (bvalek2) Gabucino : nem tudod a valaszt, de eldontotted hogy kinek van igaza?
+|19:12:42| (Gabucino) azt tudom hogy lolcopter hulyeseget szoltal be
+|19:13:01| (Gabucino) nem tudom l1x kerdesere a valaszt, de en legalabb a kerdest ertettem
+|19:13:06| (Gabucino) ez lehet a kulonbseg
+|19:13:56| (bvalek2) Gabucino : Pakson Pu239 is kepzodik. Azert hagyjak a reaktorban, hogy a neutronsugarzasban tovabb alakuljon Pu240-e, ami mar nem alkalmas bombanak (nincs kritikus
+                     tomege).
+|19:14:28| (bvalek2) Gabucino : igy is marad benne Pu239, de sokkal tobb lenne, ha ido elott kivennek, ahogy sok orszagban ezt meg is teszik
+|19:14:38| (bvalek2) na, kezd osszeallni?
+|19:15:16| (bvalek2) India nem tagja a szervezetnek, amelyik ezt figyeli, sok mas orszag sem (Iran tortenetesen tag)
+|19:16:23| (Gabucino) tl;dr
+|19:18:00| # bnv [~bnv@catv-80-99-61-123.catv.broadband.hu] has joined #hup.hu
+|19:18:12| (bnv) re
+|19:18:14| (bnv) http://hup.hu/node/82713
+|19:18:18| (bnv) uhbammeg
+|19:18:21| (bnv) :D
+|19:18:25| (bnv) ez kesz
+|19:19:20| (bvalek2) "<l1x>  bvalek2 fyi atomreaktorokbol allamvizsgaztam" kivancsi vagyok melyik piacon -.-
+|19:20:05| (bnv) ez sem semmi http://homar.blog.hu/2008/02/04/parasztvip_az_arena_plazaban
+|19:20:36| (bnv) sem a VIP szoba, sem pedig az emberek viselkedese
+|19:21:15| (bnv) Szerintetek ugyanma' megis minek kell zabalni mozizas kozben?
+|19:21:31| (bnv) Ki az a bunko paraszt aki ilyet tesz?
+|19:29:02| # tamascsabi [~tamascsab@94-21-64-234.pool.digikabel.hu] has joined #hup.hu
+|19:29:08| (tamascsabi) receficc
+|19:31:24| (Hunger-) http://socialnetworksfail.com/wp-content/uploads/2010/02/googlebuzzfail.png
+|19:31:25| (Hunger-) :D
+|19:33:09| (bnv) lol
+|19:33:14| (bnv) ez jutott
+|19:33:19| (bnv) -j
+|19:33:22| (bnv) ehh
+|19:39:09| # Uyuarasy [~Uyuarasy@gw.tehetseggondozo-miskolc.sulinet.hu] has joined #hup.hu
+|19:42:15| (l1x) |19:07:32| (bvalek2) l1x : azt tudod hogy miert tartjak a kiegett futoelemeket Pakson a reaktorban 90 napig, kozben bekamerazva az egesz reaktorter, nehogy valaki ido
+                 elott kivehesse oket?
+|19:42:19| (l1x) :DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+|19:42:29| (l1x) fetrengek
+|19:42:35| (l1x) nah miert bvalek2
+|19:42:54| (l1x) |19:13:56| (bvalek2) Gabucino : Pakson Pu239 is kepzodik. Azert hagyjak a reaktorban, hogy a neutronsugarzasban tovabb alakuljon Pu240-e, ami mar nem alkalmas
+                 bombanak (nincs kritikus tomege).
+|19:42:57| (l1x) :DDDDDDDDDD
+|19:43:01| (l1x) sirok bazmeg
+|19:43:56| (l1x) ezt most elteszem lopgba
+|19:44:35| (l1x) amugy azert tartjak ott bvalek2 mert ugyan a reakcio leallt de a kiegett futoanyag meg tovabbi ~50 napig igen aktivan hot termel
+|19:44:48| (l1x) tehat megegyszer
+|19:44:59| (l1x) a paksi reaktor nem termel plutoniumot mert nem tenyeszreaktor
+|19:45:25| (l1x) egyebeknt a BME -GE-n ha erdekel de gondolom nem :)
+|19:46:01| (bvalek2) l1x : ehhez az infohoz meg diploma sem kell, egy sima paksi latogatoi koruton elmondjak. oda meg teged is beengednenek
+|19:46:23| (l1x) hja csak en dolgoztam is ket evet ott :)
+|19:46:30| (l1x) de te megis mast mondtal
+|19:46:39| (l1x) tehat meg a latogatasig se jutottal
+|19:47:23| (bvalek2) l1x : nehezen tudom elhinni hogy van kozod az eromuhoz ezek utan
+|19:47:32| (bvalek2) azon kivul hogy pazarlod az aramot
+|19:47:42| (bvalek2) kezd nevetsegesse valni az egesz
+|19:47:46| (l1x) miuntan bebizonyitotta dhogy fogyatekos vagy es emmit nem tudsz rola
+|19:47:48| (l1x) ertem
+|19:47:52| (l1x) logikus h ugymondjam
+

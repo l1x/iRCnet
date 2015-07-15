@@ -1,0 +1,6 @@
+08:41:16 <@phx> ha ezt a kurva syslog-ng -t debug mode-ba rakom akkor az isten retkes faszert nem irja, hogy 1) bindol, 2) jon-e csomag 3) mi a fasz jon 4) mi a szart kezd vele
+08:41:29 <@l1x> varjal ezt nem itt fejlesztik a csatornan
+08:41:29 <@phx> ezt tenyleg ekkora inkompetens retardalt gnuhuszarok fejlesztik bazmeg
+08:41:54 <@koszik> phx, rosszul raktad debug modba
+08:41:56 <@l1x> huh, phx ne legyel szigoru a csati lakoival
+08:42:01 <@koszik> igy kell: strace -f syslog-ng

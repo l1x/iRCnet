@@ -1,0 +1,17 @@
+11:07] <styx_> hollephet venni notihoz tapegyseg-tolto-t
+[11:07] <styx_> ?
+[11:08] <litch_> tolem
+[11:08] <hullamter> toltoboltba
+[11:08] <litch_> amugy gecidragan boltban
+[11:10] <styx_> litch_: adjnekem
+[11:10] <styx_> 19V 4.74A
+[11:11] <hullamter> lopjal stikknek elmutol 19voltot most
+[11:11] <hullamter> te dagadt polirszar
+[11:11] <hullamter> eheh
+[11:11] <csernobil> ahah
+[11:11] <hullamter> csenrobil
+[11:12] <litch_> styx_: nem
+[11:12] <litch_> hanem mien gephez kell
+[11:12] <hullamter> <hullamter> lopjal stikknek elmutol 19voltot most
+[11:12] <hullamter> <hullamter> te dagadt polirszar
+[11:13] <hullamter> LICS TE FOBUZI

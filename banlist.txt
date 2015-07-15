@@ -1,0 +1,7 @@
+|11:18:44| # 1 - #irclordz: ban *!*syrus*@*
+|11:18:44| # 2 - #irclordz: ban *!*kopasz*@*
+|11:18:44| # 8 - #irclordz: ban *!*@chat.ircnet.org
+|11:18:44| # 9 - #irclordz: ban *!*@pandora.inf.elte.hu
+|11:18:44| # 10 - #irclordz: ban *!*sh@*
+|11:18:44| # 11 - #irclordz: ban *!*stx@*
+

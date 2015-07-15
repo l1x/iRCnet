@@ -1,0 +1,3 @@
+|19:03:07| (tomaArtWork) tudtok olyan produktot, ami logok webes megjelenitesere lehet befogni?
+|19:04:02| (@koszik) DocumentRoot /var/log
+

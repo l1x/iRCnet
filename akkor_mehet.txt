@@ -1,0 +1,9 @@
+|18:23:14| # Irssi: Starting query in IRCnet with anube
+|18:23:14| (anube) helló
+|18:23:53| (anube) sexelünk?
+|18:24:10| (anube) szereted mikor a nyakadon folyik le a...
+|18:24:19| (anube) naptej:)
+|18:24:32| (anube) na de mind1
+|18:24:46| (anube) latom nem vagy ma vicces kedvedben
+|18:37:50| # anube [~anube@28.55-182-adsl-pool.axelero.hu] has quit [""]
+

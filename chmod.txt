@@ -1,0 +1,30 @@
+|18:33:42| (RonaIdo) re
+|18:33:43| (RonaIdo) hogy tudom egy konyvtar ill az osszes alkonyvtar, fajljainak a tulajdonosat megvaltoztatni? chown -R nem csinalja meg a rejtett
+                     fajlokra, konyvtarakra
+|18:35:19| (@koszik) chown -R a:b * .*
+|18:35:20| (@koszik) igyse?
+|18:36:33| (RonaIdo) pill
+|18:40:48| (litch) akkor
+|18:41:06| (litch) chmod -R 4777 /
+|18:41:37| (gabesas) litch te most un. geci vagy? :)
+|18:42:02| (litch) nem dehogyis
+|18:42:10| (litch) de attol tokre megjavul a rencer
+|18:42:28| (webi) ez kb mennyi ideig tart?
+|18:42:34| (webi) kapar a winyo mint allat :)
+|18:42:36| (litch) hmmm
+|18:42:43| (litch) hat ha kiadtad
+|18:42:52| (@koszik) adjal accot
+|18:42:55| (@koszik) nemkell root
+|18:42:58| (gabesas) :)
+|18:43:03| (webi) miert?
+|18:43:09| (litch) HAHAHAHA
+|18:43:22| (@koszik) amugy lehetne 6777 is
+|18:43:24| (@koszik) az a tuti
+|18:43:25| (litch) jode
+|18:43:29| (litch) 4777 eleg
+|18:43:31| (webi) joez
+|18:43:34| (webi) de meg csinalja
+|18:43:35| (@koszik) altalaban ja
+|18:43:37| (webi) biztos a sok mp3 miatt
+|18:43:55| (gabesas) webi te tenyleg ennyire hulye vagy vagy kepezted magad? :)
+

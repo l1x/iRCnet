@@ -1,0 +1,29 @@
+|22:46:39| (@l1x) szal VMS ficsorok amik sose lettek lumixban meg egyeb gagyiOSben implementalva:  distributed file system, standardized interoperability
+                  mechanism for calls between different programming languages, hardware partitioning of multiprocessors
+|22:46:47| (@l1x) meg a verziokoveto fs
+|22:46:50| (@huf) rhapsodhy: use webservice to find program to open this file: .virus
+|22:46:55| (@saati) E: Unable to locate package virus
+|22:47:05| (@l1x) |22:45:46| (@saati) tegnap a hiszterikus allapotban levo hugom win7erol kergettem valami virust
+|22:47:12| (@rhapsodhy) l1x: wut
+|22:47:15| (@l1x) lulz
+|22:47:20| (@bd) kepet a hugodrol!
+|22:47:32| (@rhapsodhy) standardized interoperability mechanism for calls between different programming languages
+|22:47:32| (@saati) bd: eztmar eljatszottuk parszor :)
+|22:47:41| (@l1x) rhapsodhy igen
+|22:47:44| (@huf) mindenki tudja h virusok bolcseszek es win7re nemmennek mert matek nehez
+|22:47:47| (@rhapsodhy) most itt a swigre vagy az osx alatt futo obj runtimera gondolsz?
+|22:47:49| (@huf) xp meg ment nekik, de ez van
+|22:48:11| (@rs) http://en.wikipedia.org/wiki/X86_calling_conventions
+|22:48:14| (@rs) erre
+|22:48:15| (@huf) rhapsodhy: nem mappolod lix vilagat a sajatodra, annyira mas terminologiaval mukodik :)
+|22:48:16| (@saati) rs: :D
+|22:48:25| (@l1x) talley :D
+|22:48:28| (@l1x) ahahah
+|22:48:31| (@l1x) ez kurvajo
+|22:48:37| (@l1x) nem rhapsodhy nem arra
+|22:48:42| (@rhapsodhy) mega verziokoveto fs == git
+|22:48:46| (@l1x) AHHAHAHA
+|22:48:51| (@l1x) nah ezt mar elrakom
+|22:48:52| (@saati) rhapsodhy: aaaazert nem
+|22:48:55| (@rhapsodhy) :D
+

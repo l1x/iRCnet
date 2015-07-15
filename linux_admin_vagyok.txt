@@ -1,0 +1,70 @@
+|09:37:26| (bordgab) bennt volt szerverteremben es most behoztuk, de nem tudom ravenni hogy lassa a helyi halot
+|09:38:12| (kry_) ha valami live linuxxal bootolsz, es felmountolod a vinyot?
+|09:38:18| (kry_) nem egyszerubb? .)
+|09:38:19| (bordgab) ahhh
+|09:38:26| (bordgab) :(
+|09:38:28| (bordgab) huhh
+|09:38:33| (bordgab) raid kotet
+|09:38:44| (kry_) egyik fele eleg neked
+|09:38:54| (bordgab) csak nemtom milyen raid
+|09:38:57| (kry_) ha olvasod csak _eliveleg_ baja nem lehet
+|09:39:00| (bordgab) lehet hogy nem eleg az egyik fele
+|09:39:06| (bordgab) ;)
+|09:39:09| (l1tch) ahahah linuxal bootolsz
+|09:39:20| (l1tch) sok itt az expert
+|09:39:28| (kry_) de mennyire .)
+|09:39:29| (l1tch) szerintem meg mindig a kabel az ami nem jo vagy a switch
+|09:39:31| (bordgab) :)
+|09:39:48| (bordgab) kollega winfos gepe megy vele
+|09:39:54| (bordgab) marmint a kabellel
+|09:39:55| (l1tch) ahahahah
+|09:39:57| (l1tch) jo
+|09:40:02| (kry_) winxp only kabel .)
+|09:40:04| (l1tch) akkor nehogy megprobald masikkal
+|09:40:08| (l1tch) ha a wines megy vele
+|09:40:33| (bordgab) oke, de hoztam egy keresztkabelt kozvetlen osszekotottem a ket gepet es ugy sem megy
+|09:41:01| (bordgab) raadasul freebsd ifconfigjahoz akkor nem nyukltam hanem a debiant konfigoltam at a masik halora
+|09:41:07| (l1tch) == szar a freebsd
+|09:41:11| (l1tch) sztem ne hasznald
+|09:41:13| (bordgab) az
+|09:41:16| (bordgab) de nagyon
+|09:41:16| (l1tch) bootolj winxpt vagy linuxot
+|09:41:22| (l1tch) azok mukodo oprendszerek
+|09:41:27| (l1tch) a freebsd meg szar
+|09:41:30| (kry_) jaja, van faca livexp is .)
+|09:41:36| (bordgab) ebben egyet ertunk
+|09:41:51| (bordgab) wint elvbol nem hasznbalok
+|09:42:01| (kry_) hehhhe .)
+|09:42:26| (l1tch) latod ezert maradsz egy utolso suttyo tudatlan ostoba szakadtpolos szandalos debianos hujegyerek
+|09:42:33| (l1tch) es ezert nem leszel soha informatikus
+|09:42:38| (bordgab) na akkor halokartya csasere kovetkezik......
+|09:42:41| (bordgab) :P
+|09:42:48| (bordgab) ltvh: :P
+|09:42:55| (bordgab) ezt tudom mondani erre
+|09:43:04| (bordgab) :)
+|09:43:51| (bordgab) :D:D ehhhhhh mekkora balfek vagyok
+|09:43:52| (kry_) de ez a csati amugy csak a nigger-gay-judea arcok gyujtoheje
+|09:43:54| (kry_) ly
+|09:44:06| (bordgab) rossz halokartyaba dugtam a kabelt
+|09:44:09| (bordgab) picsaaaaaaba
+|09:44:23| (bordgab) es tegnap este ezzel b*tam el 1 orat
+|09:44:30| (bordgab) meg mar reggel is 1 orat
+|09:45:17| (bordgab) de azert megnyugtato hogy nem vagyok teljesen hulye a freebsd-hez :D
+|09:45:22| (kry_) fire!
+|09:45:22| (@Mojojojo) utolso szavak, kry_????
+|09:45:22| (@Mojojojo) Revolver ujratoltve. ;)
+|09:45:22| (@Mojojojo) \|/
+|09:45:22| (@Mojojojo) /|\
+|09:45:27| (kry_) a picsaba .)
+|09:47:20| (l1tch) |09:44:06| (bordgab) rossz halokartyaba dugtam a kabelt
+|09:47:21| (l1tch) |09:44:06| (bordgab) rossz halokartyaba dugtam a kabelt
+|09:47:22| (l1tch) |09:44:06| (bordgab) rossz halokartyaba dugtam a kabelt
+|09:47:23| (l1tch) |09:44:06| (bordgab) rossz halokartyaba dugtam a kabelt
+|09:47:25| (l1tch) SIKITOK
+|09:47:30| (thuglife) ehh
+|09:47:33| (l1tch) thuglife latod
+|09:47:44| (thuglife) en mondam :)
+|09:47:46| (l1tch) ez a tajgetoszpozitiv linux admin tipikus peldaja
+|09:47:47| (bordgab) en is sikitok
+|09:47:53| (bordgab) :)
+
