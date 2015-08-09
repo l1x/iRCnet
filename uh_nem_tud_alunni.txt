@@ -1,7 +1,0 @@
-|03:08:10| (@uh) nemtudok aludni
-|03:08:43| (@litch) szegejke
-|03:08:52|  * litch simiz uh buksi
-|03:09:01| (@uh) mindegy make buildworld -j4 es hatha bealszom rajta
-|03:09:04| (@uh) megprobalok mindent
-|03:09:17| (@litch) ahahahahhaa
-

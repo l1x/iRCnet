@@ -1,8 +1,0 @@
-|11:25:45| (@bandy) 11:17 <@bandy> 24M-s L3 cache
-|11:25:45| (@bandy) 11:17 < PuFFoK> az jo?
-|11:25:45| (@bandy) 11:17 < `iMiMX> :)))
-|11:25:45| (@bandy) 11:18 < PuFFoK> az amd2000  omnak mennyi?
-|11:25:45| (@bandy) 11:18 <@bandy> PuFFoK: nem, az kb egy 486os szintje
-|11:25:48| (@bandy) 11:18 <@bandy> az amd2000ben 2000Mbyte van, mint a neve is mutatja
-|11:25:50| (@bandy) 11:18 < PuFFoK> akkor kiralyabb gepem van mint az intel elnokenek? :)
-|11:26:32| (@bandy) 11:19 < PuFFoK> megyek, dicsekszek is a rendszergazdanak

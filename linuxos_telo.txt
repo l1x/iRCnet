@@ -1,9 +1,0 @@
-12:45] <uV> stx: sejtem,en linuxos telora varok ;-)
-[12:45] <lithc> en meg megvarom mig uvnak linuxos teloja lesz es letorlom az osszes telszamot rola
-[12:45] <lithc> meg majd onnan packetolok smsbe
-[12:48] <stx> uV: arra varhatsz
-[12:49] <egeresz> ez legkorabban a 2.8.25.32.46-ac8-pre4-rc5 verzional lehetseges, ami megastabil, feltorhetetlen, hosszueletu lesz
-[12:49] <egeresz> mintegy masfel napig is kurrensnek mondhato
-[12:49] <phx-> egeresz, utopiakat kergecc?
-[12:50] <lithc> ahahahha
-[12:51] <egeresz> phx ja :-)

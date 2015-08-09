@@ -1,7 +1,0 @@
-|14:43:06| (@litch) jo az mplayer csak a gpl szar
-|14:43:13| (@litch) helyette ott a bsdl
-|14:43:19| (@litch) es azzal nincs ilyen para
-|14:43:44| (@litch) csomo szoftwa jon most ami bsdlt hasznal
-|14:45:06| (@_mod_) litch , hmm asszem ebben a temaban nem en vagyok a beszelgeto partnered, de ha a randivonalon is ilyen szoveggel fuzod oket, akkor
-                    meg varhatsz par evig egy jo dugasra
-

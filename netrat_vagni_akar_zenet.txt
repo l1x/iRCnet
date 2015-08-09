@@ -1,1 +1,0 @@
-|11:10:20| (NetRat) ogg-nel is csak frame-enkent lehet vagni, nem?

@@ -1,5 +1,0 @@
-|08:25:52| (litch) postfix          postfix-current  postfix1         postfix20
-|08:25:52| # tonyo is away: anyadba
-|08:25:54| (litch) meiket?
-|09:17:13| (tonyo) RTFM
-

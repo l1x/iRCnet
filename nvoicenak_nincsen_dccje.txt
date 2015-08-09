@@ -1,4 +1,0 @@
-|19:19:40| (litch) kuld at
-|19:19:53| (litch) /dcc litch send ami.eps
-|19:20:10| (nvoice) nincs dcc-m
-

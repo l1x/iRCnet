@@ -1,2 +1,0 @@
-[16:18] <Calver> adjon vki vmi zuzos zenet plz
-[16:18] <egeresz> cat /dev/urandom >/dev/dsp

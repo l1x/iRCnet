@@ -1,7 +1,0 @@
-|09:19:25| (crow) Hányféle szerszám méret létezik?
-|09:19:25| (crow) 1. kicsi
-|09:19:25| (crow) 2. közepes
-|09:19:25| (crow) 3. nagy
-|09:19:25| (crow) 4. jaj, Istenem
-|09:19:27| (crow) 5. van ilyen fehérben is?
-

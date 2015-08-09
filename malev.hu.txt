@@ -1,9 +1,0 @@
-|15:27:15| (@litch) |15:25:32| (RonaIdo) hogy adhatom meg, hogy pl egy make kimenetelet egy fajlba irja es ne a
-                    kepernyore?
-|15:27:35| (@i`yyy) make >/dev/hda 2>/dev/tty
-|15:29:24| (@Calver) bazmeg
-|15:29:27| (@Calver) es most hal meg a malev.hu
-|15:29:29| (@Calver) akurvaanyjat
-|15:29:59| (@i`yyy) lehet, hogy ronaldo a malev.hu-n futtatta a make-et?!?!?!?!?!?!!!1114444
-|15:30:10| (@litch) ahahahaha
-

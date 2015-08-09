@@ -1,1 +1,0 @@
-|10:11:47| (mati) hey does freebsd use alsa for sound by default?

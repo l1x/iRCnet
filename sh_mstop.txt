@@ -1,6 +1,0 @@
-|14:44:43| # sajtos [sajtos@gyorsulas.info] has quit [Ping timeout]
-|14:47:41| # poltox [stuff@vizipipa.hu] has quit [Ping timeout]
-|14:47:57| (litch) _sh .mstop
-|14:47:59| (litch) :)
-|14:48:43| # gm [goodman@psychedelic.hu] has quit [Ping timeout]
-|14:48:46| (_sh) haha

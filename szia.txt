@@ -1,4 +1,0 @@
-~akos@ip98-53.ktv.tiszanet.hu (IRCnet)
-|19:41:51| # Irssi: Starting query in IRCnet with Csimbi17
-|19:41:51| (Csimbi17) szia lilla!
-

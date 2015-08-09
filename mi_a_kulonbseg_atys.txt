@@ -1,3 +1,0 @@
-|12:31:52| (@l1x) koszik mi a kulonbseg a swapping es a paging kozt leenugzon?
-|12:32:30| (@Atys) hat linuxon nemtom de mashol az ket kulonbozo dolog
-

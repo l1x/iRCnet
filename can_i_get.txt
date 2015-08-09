@@ -1,4 +1,0 @@
-|17:25:23| # MagicBlast [dfgfd@eu212-87-109-88.adsl.euphonynet.be] has joined ##freebsd
-|17:25:39| (MagicBlast) can i get help about linux in here ?
-|17:25:49| (Mulvane) Is this #linux?
-

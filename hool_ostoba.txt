@@ -1,8 +1,0 @@
-|11:03:59| (rezo) 10:52 < hool> rezo nodot rakok fel inkabb
-|11:03:59| (rezo) 10:52 <+rezo> gyo
-|11:03:59| (rezo) 10:55 < hool> ezt a threatsense.net -et engedelyezzem?
-|11:03:59| (rezo) 10:56 <+rezo> legelõször is a 6667-es portot tiltsd le
-|11:03:59| (rezo) 10:56 < hool> hol
-|11:04:02| (rezo) 10:59 < hool> ok letiltottam
-|11:04:05| (rezo) 10:59 -!- hool is now known as hooL
-

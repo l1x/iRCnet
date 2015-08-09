@@ -1,6 +1,0 @@
-|19:43:30| (Syrus) fgrep anyad codlog | wc -w
-|19:43:30| (Syrus) 61807
-|19:43:37| (Syrus) egy het alatt
-|19:43:43| (Syrus) 62ezer
-|19:43:45| (Syrus) ahahah
-

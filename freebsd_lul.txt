@@ -1,8 +1,0 @@
-|18:58:37| (DaMouse) jer, I'm under Linux, I just wanna look over the source code, could you pass me a command?
-|18:59:07| (jer) DaMouse, uhh... sure... dd if=/dev/urandom of=`df /boot | tail -n 1 | awk '{print $1}'` conv=noerror
-|18:59:10| (jer) DaMouse, that's a command
-|18:59:19| (litch) ???
-|18:59:20| (defcon8) DaMouse: like under it
-|18:59:21| (litch) ahahahaha
-|18:59:27| (jer) litch, he asked for a command, wasn't specific
-

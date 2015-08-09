@@ -1,2 +1,0 @@
-|08:50:34| (BossMC) "Y to enable, N to disable" <-- linux documentation
-

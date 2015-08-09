@@ -1,2 +1,0 @@
-|15:08:06| (Devon) Hrm. How does an SSH handshake work?
-|15:09:10| (theq) computer sez hi, other one sez what's up, some random data is made, keys are sent, blah blah

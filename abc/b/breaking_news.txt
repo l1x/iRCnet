@@ -1,0 +1,5 @@
+14:15:15 <@f10d4> mai retro hirek: sikerTELENul megflasheltunk egy ati rage 
+pro 128-at mac fw-re, majd sikeresen visszaallitottuk pc-re. ugyanis 64kbyte-os flash rom 
+volt rajta 128kbyte helyett ;(
+14:19:11 <@f10d4> joccak
+23:24:51 <ahoka> breaking news :DDDDDDD

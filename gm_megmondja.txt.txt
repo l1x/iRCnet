@@ -1,7 +1,0 @@
-|23:04:02| (gm) 23:00:29 [IRCNet-EXTRA] -ircadmin(ZZyZZ@127.0.0.1)- Sorry for the netsplits and short lag, Telekom
-                Austria is performing line maintenance on the line Linz<->Vienna. Backup line routes via Carinthia. :)
-|23:04:07| (gm) ez mar tajekoztatas bazze
-|23:04:11| (gm) ilyet mikor fog czw?
-|23:04:15| (quino) :DDD
-|23:12:28| (ememem) :)))
-

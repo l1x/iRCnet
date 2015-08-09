@@ -1,6 +1,0 @@
-|15:13:52| (r04r) Anyone know how to enable line numbering in bluefish
-|15:13:52| (r04r) ?
-|15:15:48| (litch) wc -l
-|15:15:51| (litch) :)
-|15:16:24| (nocturnal) haha!
-

@@ -1,6 +1,0 @@
-|10:26:55| (+curian) info erettsegin irni kellett c++ban egy opengl 64K demot
-|10:27:32| (adr) es a windows xp 2004 sp3 volt a szorgalmi feladat
-|10:27:33| (adr) :))
-|10:27:37| (adr) meg kellett irni
-|10:27:37| (adr) ;>
-

@@ -1,7 +1,0 @@
-10:46:18 <Tufa> re
-10:46:39 <Tufa> talalt mar valaki hasznalhato minden featurrel ellatott guit open source mail systemhez?
-10:47:03 <Tufa> olyankellene nekem mint a postfixadmin csak 5x tobb featurreal ;>
-10:47:43 <ggergely> exchange
-10:47:44 <saxus> ^- miert tudja az MS eladni az exchanget, outlookostul, owa-stul.
-10:47:45 <ggergely> nem openszósz
-10:47:50 <saxus> ggergely: troll

@@ -1,7 +1,0 @@
-[13:18] <Vendeg> [13:21] Your connection is restricted!
-[13:18] <MC_MadVa> ?
-[13:19] <lic> hahaha
-[13:19] <MC_MadVa> Jah, mert az ident elõtt - van
-[13:19] <Csaby> /quit segit rajta
-[13:19] <Vendeg> ?
-[13:19] <MC_MadVa> Vendeg: Akkor reconnect

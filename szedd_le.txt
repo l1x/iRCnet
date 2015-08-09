@@ -1,8 +1,0 @@
-http://alakulat.talpak.org/alakulat/egyeb/internet.php
-
-|11:43:13| (crow) litch  te tolsd az internetet 1-10000 ig
-|11:43:15| (crow) en meg 1000-tol
-|11:43:19| (crow) es kiirjuk kozosen
-|11:43:27| (bishop) :>>>>
-|11:44:34| (litch) :DDD
-

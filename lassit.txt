@@ -1,4 +1,0 @@
-[11:57] <egeresz> ertitek
-[11:58] <egeresz> a formatum az a space szeparalt
-[11:58] <egeresz> a tablazatkezelo az awk
-[11:58] <egeresz> minden egyeb csak lassitja a munkat
