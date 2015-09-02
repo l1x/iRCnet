@@ -1,4 +1,7 @@
-14:21:49 <Vdragon> i have a quesion, how do i find the chip used on a board? i have a double board TNT key that i'd like to use as a radio receiver with RTL-SDR or equivalent, but i can't seem to find anything related to that key... The marking on one of the board is AD803075P-A3 (Bottom V1.1) and there is a 'DTI 879258' sticker on what look like a cooler or a shield. the key include a HDMI connection, and the brand is pinnacle
+14:21:49 <Vdragon> i have a quesion, how do i find the chip used on a board? i have a double board TNT key that 
+i'd like to use as a radio receiver with RTL-SDR or equivalent, but i can't seem to find anything related to that key... 
+The marking on one of the board is AD803075P-A3 (Bottom V1.1) and there is a 'DTI 879258' sticker on 
+what look like a cooler or a shield. the key include a HDMI connection, and the brand is pinnacle
 14:25:42 <l1x> same way you find your dick, with a microscope :D
 14:25:57 <Vdragon> doh, and actually i foudn the model name, it is PCTV 330e
 14:26:18 <l1x> what happened to google? is it down?
