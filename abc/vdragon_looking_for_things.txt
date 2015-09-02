@@ -1,0 +1,26 @@
+14:21:49 <Vdragon> i have a quesion, how do i find the chip used on a board? i have a double board TNT key that i'd like to use as a radio receiver with RTL-SDR or equivalent, but i can't seem to find anything related to that key... The marking on one of the board is AD803075P-A3 (Bottom V1.1) and there is a 'DTI 879258' sticker on what look like a cooler or a shield. the key include a HDMI connection, and the brand is pinnacle
+14:25:42 <l1x> same way you find your dick, with a microscope :D
+14:25:57 <Vdragon> doh, and actually i foudn the model name, it is PCTV 330e
+14:26:18 <l1x> what happened to google? is it down?
+14:26:35 <Vdragon> well, i didn't have the model name until right now, so i'm googling it right now
+14:26:47 <l1x> i am feeling so helpful today....
+14:27:01 <@stf> l1x: fucko off, he doesn't know you, don't scare newcomers away
+14:27:06 <Vdragon> (serial number/model number didn't return anything on google)
+14:28:05 <l1x> Vdragon: http://www.linuxtv.org/wiki/index.php/Pinnacle_PCTV_Hybrid_Pro_Stick_(330e)
+14:28:08 <l1x> does this help?
+14:28:16 <l1x> stf: fuck of I know his mom!!!
+14:28:30 <l1x> milfdating.com/vdragonsmom
+14:28:39 <l1x> or maybe it is a coincidence 
+14:28:57 <Vdragon> well it does, are 'used IC' means 'used chips'
+14:29:05 <l1x> yeah
+14:29:30 <Vdragon> ok, thx
+14:30:38 <l1x> np
+14:32:24 <Houruck> wtf :D milfdating.com
+14:33:21 <Houruck> árad belőled a szeretet bazdmeg
+14:33:42 <@stf> Vdragon: just ignore this asshole
+14:34:03 <deviance> mizu
+14:34:40 <Vdragon> but he helped me :)
+14:35:33 <@stf> i must admit his trolling is a masterpiece. still an asshole ;)
+14:36:50 <l1x> guys dont fight over  me!! it is enough that your moms do that....
+14:39:57 <Vdragon> lol
+14:40:21 <Houruck> 10/10
