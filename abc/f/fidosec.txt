@@ -1,0 +1,9 @@
+10:11:14 <@ahoka> ezselinux
+10:11:18 <@ahoka> a legjobb megoldas
+10:11:22 <@ahoka> bejon a haxor
+10:11:34 <@ahoka> latja, hogy BSD/OS 2.1
+10:11:38 <@ahoka> es sikitva kilep
+10:11:47 <@ahoka> fidosec
+10:11:48 <@ggergely> ahahaha
+10:12:11 <@l1x> :DDD
+10:12:16 <@ggergely> Welcome to Digital UNIX 8.0
