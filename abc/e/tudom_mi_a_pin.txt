@@ -1,0 +1,17 @@
+14:51:00 <@Atys> jacsak az aljan ott az update
+14:51:24 <@Atys> es az is kerdeses, hogy a kulcsot is masolja e aki a nandot olvassa
+14:52:29 <@Atys> persze nemertek a tetves szifonhoz milyen pin kel ennek, valami 4 jegyu fos ami feloldja a flash kodolasat?
+14:52:30 <@Atys> nemertem
+14:53:35 <l1x> nem
+14:53:38 <l1x> lehet tobb jegyu is
+14:53:48 <l1x> de mar mondtam amugy a masik csatornan hogy en tudom mi a pin
+14:53:58 <@koszik> na mi
+14:54:05 <l1x> 25524
+14:54:05 <@koszik> es honnan tudod
+14:54:09 <l1x> (allah)
+14:54:18 <@koszik> es ha nem az?
+14:54:32 <l1x> koszik: ugy tudtam az autimuz idovel javul embereknel
+14:54:41 <@wigyori> :D
+14:54:41 <l1x> nem ugy mint a diszlekszia :D
+14:55:07 <@Atys> :DDDD
+14:55:24 <l1x> nah megyek asom tovabb a godrot ahova a kollegaim bele fognak esni inkabb ennek tobb ertelme van
