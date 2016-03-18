@@ -1,0 +1,2 @@
+09:32:09 <@ahoka> ggergely: amit meg fog N csavar, azt megfogja N-1 csvar is
+09:32:24 <@ahoka> felteve, ha N >= 2
