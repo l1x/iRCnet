@@ -1,0 +1,11 @@
+22:38:25 <@l1x> https://news.ycombinator.com/item?id=11337399
+New messages since you tabbed out
+22:42:12 <@ggergely> l1x: ennek van értelme
+22:42:17 <@ggergely> ellenebn a javascriptes fossal
+22:42:18 <@ggergely> ami volt
+22:42:23 <@ggergely> ma szintén
+22:42:25 <@ggergely> az ilyen wtf
+22:42:39 <@ahoka> az igazi tanulsag az, hogy barmilyen nem C nyelvben par het alatt ujra lehet irni a GNU projectet
+22:42:42 <@ahoka> ;)
+22:45:33 <@ggergely> :D
+22:45:42 <@ggergely> with benefits
